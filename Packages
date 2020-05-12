@@ -52,9 +52,9 @@ Maintainer: Cathedrale is a wizard
 Depends: mobilesubstrate, com.spark.libsparkapplist, com.spark.libsparkcolourpicker, preferenceloader, ws.hbang.common(>= 1.14), firmware(>= 12)
 Filename: ./debs/com.johnzaro.networkspeed13_2.4_iphoneos-arm.deb
 Size: 68616
-MD5sum: 984b6f0674c2b4330990ce7d4542b915
-SHA1: d350402049e53835415078bac46aa7e2cfb4f4a7
-SHA256: 68cf9f97b1cb5d8b7523c64ef698342f0738070338d1da46dfb8811621be4b8f
+MD5sum: 3cfd11c8eda213f24cbd3718c9a29dcd
+SHA1: fc56fcd432ebc95dc1d7965853b821435db5deb0
+SHA256: 813dbe8bfe0ca13f066559fc9d16f57deaf8dbbcc1c5f002a702eb16474ea77e
 Section: Tweaks
 Description: Pour montrer le debit de la connexion internet
 Author: John Zaro
