@@ -1,0 +1,51 @@
+Package: com.cathedraleisawizard.chlorophyll
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Cathedrale is a wizard
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs/com.cathedraleisawizard.chlorophyll_1.0_iphoneos-arm.deb
+Size: 11436
+MD5sum: 984b6f0674c2b4330990ce7d4542b915
+SHA1: d350402049e53835415078bac46aa7e2cfb4f4a7
+SHA256: 68cf9f97b1cb5d8b7523c64ef698342f0738070338d1da46dfb8811621be4b8f
+Section: Tweaks
+Description: Highlight downloaded items in app store!
+Author: Samg_is_a_Ninja
+Name: chlorophyll
+
+Package: com.cathedraleisawizard.chlorophyll
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Cathedrale is a wizard
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/com.cathedraleisawizard.chlorophyll_1.1_iphoneos-arm.deb
+Size: 19664
+MD5sum: 4c6500f0b1373299fbb0c2a0fa5eb65e
+SHA1: 84903c0b78f173b9721367383f98befebacb6f8d
+SHA256: f1b97373d4fdcc706372f93d05449b6046ae02eaf4cc2ed54057f2e80f4c3b04
+Section: Tweaks
+Description: Highlight downloaded items in app store!
+Author: Samg_is_a_Ninja
+Name: chlorophyll
+
+Package: com.cathedraleisawizard.snapback
+Version: 2.0.1
+Architecture: iphoneos-arm
+Maintainer: Cathedrale is a wizard
+Installed-Size: 1548
+Depends: firmware (>= 10.3.0), rsync, cy+cpu.arm64
+Filename: ./debs/com.cathedraleisawizard.snapback_2.0.1_iphoneos-arm.deb
+Size: 582812
+MD5sum: 4aa88d6e5f7b7ce20a8113999223d7fd
+SHA1: cb3afd8b7bcdf3abb3f08a2ffa9b28dc6b861927
+SHA256: 0fed981413a057ac6c83083ab92d397ba8d259b0ea85beb6d8816131cdf8fbf9
+Section: Utilities
+Description: iOS Time Machine
+Author: MidnightChips
+Depiction: https://midnightchips.me/depiction/?snapback
+Icon: https://midnightchips.me/packages/SnapBack/SileoIcon.png
+Name: SnapBack
+Sileodepiction: https://midnightchips.me/sileo/snapback.json
+
