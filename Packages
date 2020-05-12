@@ -782,3 +782,17 @@ Icon: https://midnightchips.me/packages/SnapBack/SileoIcon.png
 Name: SnapBack
 Sileodepiction: https://midnightchips.me/sileo/snapback.json
 
+Package: com.hackyouriphone.deezelife
+Version: 0.5
+Architecture: iphoneos-arm
+Maintainer: Cathedrale is a wizard
+Depends: mobilesubstrate
+Filename: ./debs/com.hackyouriphone.deezelife_0.5_iphoneos-arm.deb
+Size: 54114
+MD5sum: 60849d21cb58e52b3dd483111feea849
+SHA1: 854609b35b48d1c953d011a0d8539ed9cb16853b
+SHA256: 3016ce53d186c9da08e7aa9293d168bf9b4ac23a3dad738af842eccb819f5ea6
+Section: Tweaks
+Description: Deezer fully premium
+Author: Julioverne
+Name: Deezelife
