@@ -51,7 +51,7 @@ Architecture: iphoneos-arm
 Maintainer: Cathedrale is a wizard
 Depends: mobilesubstrate, com.spark.libsparkapplist, com.spark.libsparkcolourpicker, preferenceloader, ws.hbang.common(>= 1.14), firmware(>= 12)
 Filename: ./debs/com.johnzaro.networkspeed13_2.4_iphoneos-arm.deb
-Size: 516
+Size: 68616
 MD5sum: 984b6f0674c2b4330990ce7d4542b915
 SHA1: d350402049e53835415078bac46aa7e2cfb4f4a7
 SHA256: 68cf9f97b1cb5d8b7523c64ef698342f0738070338d1da46dfb8811621be4b8f
