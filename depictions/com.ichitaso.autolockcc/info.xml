@@ -1,0 +1,26 @@
+<package>
+	<id>com.ichitaso.autolockcc</id>
+	<name>AutoLockToggle(CCSupport)</name>
+	<version>0.1-3-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS></maxiOS>
+			<otherVersions></otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>
+	<package>com.opa334.ccsupport</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Turn on/off Auto-Lock from the control center</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Cathedrale release</change>
+	</changelog>
+	<links></links>
+</package>

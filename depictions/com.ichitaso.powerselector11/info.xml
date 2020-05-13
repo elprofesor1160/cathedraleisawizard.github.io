@@ -1,0 +1,26 @@
+<package>
+	<id>com.ichitaso.powerselector11</id>
+	<name>PowerSelector(iOS11 to 13)</name>
+	<version>1.2.6</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS></maxiOS>
+			<otherVersions></otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>
+	<package>com.opa334.ccsupport(>=1.2)</package>
+	</dependencies>
+	<descriptionlist>
+		<description>The power supply relation of a device is operated</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Cathedrale release</change>
+	</changelog>
+	<links></links>
+</package>

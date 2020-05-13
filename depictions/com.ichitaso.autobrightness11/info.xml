@@ -1,0 +1,26 @@
+<package>
+	<id>com.ichitaso.autobrightness11</id>
+	<name>AutoBrightnessToggle(CCSupport)</name>
+	<version>0.1-4-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS></maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>
+	<package>com.opa334.ccsupport</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Turn on/off Auto-Brightess from the control center</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Cathedrale release</change>
+	</changelog>
+	<links></links>
+</package>

@@ -1,0 +1,27 @@
+<package>
+	<id>com.julioverne.ntspeed</id>
+	<name>NtSpeed</name>
+	<version>0.2~beta7</version>
+	<compatibility>
+		<firmware>
+			<miniOS>6.0</miniOS>
+			<maxiOS></maxiOS>
+			<otherVersions></otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>
+	<package>mobilesubstrate</package>
+	<package>preferenceloader</package>
+	</dependencies>
+	<descriptionlist>
+		<description>See Active Trafic network speed</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Cathedrale release</change>
+	</changelog>
+	<links></links>
+</package>

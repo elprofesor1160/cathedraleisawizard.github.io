@@ -1,0 +1,27 @@
+<package>
+	<id>com.imkpatil.cclinker</id>
+	<name>CCLinker</name>
+	<version>1.2.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS></miniOS>
+			<maxiOS></maxiOS>
+			<otherVersions></otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>
+	<package>mobilesubstrate</package>
+	<package>com.spark.libsparkapplist</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Open the settings pane for the CC Toogles by using gestures</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Cathedrale release</change>
+	</changelog>
+	<links></links>
+</package>

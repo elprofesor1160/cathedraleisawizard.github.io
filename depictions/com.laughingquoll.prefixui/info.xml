@@ -1,0 +1,26 @@
+<package>
+	<id>com.laughingquoll.prefixui</id>
+	<name>PrefixUI</name>
+	<version>1.2.6</version>
+	<compatibility>
+		<firmware>
+			<maxiOS></maxiOS>
+			<otherVersions></otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>
+	<package>me.nepeta.libcolorpicker</package>
+	<package>com.spark.libsparkapplist</package>
+	</dependencies>
+	<descriptionlist>
+		<description>An awesome framework of some sort</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Cathedrale release</change>
+	</changelog>
+	<links></links>
+</package>

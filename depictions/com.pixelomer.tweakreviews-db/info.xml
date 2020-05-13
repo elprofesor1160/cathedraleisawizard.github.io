@@ -1,0 +1,26 @@
+<package>
+	<id>com.pixelomer.tweakreviews-db</id>
+	<name>TweakReviewsDB</name>
+	<version>0.6</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOS>
+			<maxiOS></maxiOS>
+			<otherVersions></otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>
+	<package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Review and rate packages</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Cathedrale release</change>
+	</changelog>
+	<links></links>
+</package>

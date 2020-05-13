@@ -1,0 +1,29 @@
+<package>
+	<id>com.midnightchips.bettersettings</id>
+	<name>BetterSettings</name>
+	<version>0.1.3</version>
+	<compatibility>
+		<firmware>
+			<maxiOS></maxiOS>
+			<otherVersions></otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>
+	<package>mobilesubstrate</package>
+	<package>com.muirey03.libimagepicker</package>
+	<package>com.creaturesurvive.libcscolorpicker</package>
+	<package>com.creaturecoding.libcspreferences</package>
+	<package>org.thebigboss.libcolorpicker</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Settings your way</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Cathedrale release</change>
+	</changelog>
+	<links></links>
+</package>

@@ -1,0 +1,27 @@
+<package>
+	<id>com.ichitaso.primalfolder</id>
+	<name>primalfolder</name>
+	<version>0.0.9</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+			<maxiOS></maxiOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>
+	<package>mobilesubstrate</package>
+	<package>preferenceloader</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Customiser les dossiers/ Display to folder as icon and launch actions for folders</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Cathedrale release</change>
+	</changelog>
+	<links></links>
+</package>

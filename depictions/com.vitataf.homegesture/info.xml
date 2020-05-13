@@ -1,0 +1,31 @@
+<package>
+	<id>com.vitataf.homegesture</id>
+	<name>HomeGesture</name>
+	<version>2.1.4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS></maxiOS>
+			<otherVersions></otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>
+	<package>mobilesubstrate</package>
+	<package>preferenceloader</package>
+	<package>com.creaturecoding.libcspreferences</package>
+	<package>com.creaturesurvive.libcscolorpicker</package>
+	<package>org.thebigboss.libcolorpicker</package>
+	<package>com.spark.libsparkapplist</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Enable iphone X home gesture on other devices</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Cathedrale release</change>
+	</changelog>
+	<links></links>
+</package>

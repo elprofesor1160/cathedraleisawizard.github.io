@@ -1,0 +1,27 @@
+<package>
+	<id>com.ion.wraith</id>
+	<name>Wraith</name>
+	<version>0.0.6</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOS>
+			<maxiOS></maxiOS>
+			<otherVersions></otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>
+	<package>mobilesubstrate</package>
+	<package>com.aeonlucid.snaphide2(>=1.0.0)</package>
+	</dependencies>
+	<descriptionlist>
+		<description>A sweet snapchat tweak</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Cathedrale release</change>
+	</changelog>
+	<links></links>
+</package>

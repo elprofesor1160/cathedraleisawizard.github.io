@@ -1,0 +1,28 @@
+<package>
+	<id>me.nepeta.unsub</id>
+	<name>Unsub</name>
+	<version>0.1.9</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+			<maxiOS></maxiOS>
+			<otherVersions></otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies>
+	<package>mobilesubstrate</package>
+	<package>ws.hbang.common(>=1.11)</package>
+	<package>applist</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Disable tweak injection(Substrate/Substitute) in certain apps!</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Cathedrale release</change>
+	</changelog>
+	<links></links>
+</package>
