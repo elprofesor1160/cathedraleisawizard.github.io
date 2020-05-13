@@ -537,11 +537,11 @@ Maintainer: Cathedrale is a wizard
 Author: Nepeta
 Section: Tweaks
 Depends: mobilesubstrate, ws.hbang.common(>=1.11), applist, firmware(>=9.0)
-Filename: debs/me.nepeta.unsub_0.1.9_iphoneos-arm.deb
-Size: 102558
-MD5sum: CDFDE8D7B7A9066C0F75B85098AA47EF
-SHA1: F09291A4CF4297F946E5A3756ADA49E35BB49FA0
-SHA256: 04FF209BB61C9EE022010D1F7F274FB48B2B4D9C135E9AFBA61834057CBBBDE2
+Filename: ./debs/me.nepeta.unsub_0.1.9_iphoneos-arm.deb
+Size: 102554
+MD5sum: cdfde8d7b7a9066c0f75b85098aa47ef
+SHA1: f09291a4cf4297f946e5a3756ada49e35bb49fa0
+SHA256: 04ff209bb61c9ee022010d1f7f274fb48b2b4d9c135e9afba61834057cbbbde2
 
 Package: me.sethstephens.newgridswitcher
 Name: NewGridSwitcher
