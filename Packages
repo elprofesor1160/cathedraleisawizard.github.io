@@ -72,9 +72,9 @@ Depends: mobilesubstrate, preferenceloader, firmware(>= 10.0)
 Conflicts: me.qusic.taptapfolder, com.lizynz.folder6plus, info.rpdev.betterfourbyyfourfolders
 Filename: ./debs/com.ichitaso.primalfolder_0.0.9_iphoneos-arm.deb
 Size: 126626
-MD5sum: BF0D4D12B9486C938DA1E391FCA9354B
-SHA1: E12766B84523DF248C320BBFFA605CBC8D4964FF
-SHA256: DBB636C9704B5BCE4FD4D92512957D676679ADDA7992C272A963A161D9942A25
+MD5sum: bf0d4d12b9486c938da1e391fca9354b
+SHA1: e12766b84523df248c320bbffa605cbc8d4964ff
+SHA256: dbb636c9704b5bce4fd4d92512957d676679adda7992c272a963a161d9942a25
 
 Package: com.aesthyrica.nord
 Name: Nord for whatsApp
@@ -85,11 +85,11 @@ Maintainer: Cathedrale is a wizard
 Author: aesthyrica
 Section: Tweaks
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common, org.thebigboss.libcolorpicker
-Filename: debs/com.aesthyrica.nord_1.3_iphoneos-arm.deb
+Filename: ./debs/com.aesthyrica.nord_1.3_iphoneos-arm.deb
 Size: 112554
-MD5sum: 30261A37436B5D6CB7FB86642C7D054B
-SHA1: 95F63D30A3985D29A1ADFB74517450C7BE558B4B
-SHA256: 6AF367DFD5EE1DD99535D1079E582E3830A45107900D4215304FAB021C5E0582
+MD5sum: 30261a37436b5d6cb7fb86642c7d054b
+SHA1: 95f63d30a3985d29a1adfb74517450c7be558b4b
+SHA256: 6af367dfd5ee1dd99535d1079e582e3830a45107900d4215304fab021c5e0582
 
 Package: com.cabralcole.timeformat
 Name: TimeFormat
@@ -100,11 +100,11 @@ Maintainer: Cathedrale is a wizard
 Author: cole cabral
 Section: Tweaks
 Depends: mobilesubstrate, preferenceloader, firmware (>=7.0), ws.hbang.common (>=1.2)
-Filename: debs/com.cabralcole.timeformat_1.0.1_iphoneos-arm.deb
+Filename: ./debs/com.cabralcole.timeformat_1.0.1_iphoneos-arm.deb
 Size: 36826
-MD5sum: D19D2E01D73FEA8226C83EB845792291
-SHA1: 4D031677F381113AEF07F25CF55A28863D2CB712
-SHA256: 96F81D12F6666437E05A12FE3607162AE021837BA17E880D8D913516F3C025BE
+MD5sum: d19d2e01d73fea8226c83eb845792291
+SHA1: 4d031677f381113aef07f25cf55a28863d2cb712
+SHA256: 96f81d12f6666437e05a12fe3607162ae021837ba17e880d8d913516f3c025be
 
 Package: com.cpdigitaldarkroom.barmoji
 Name: Barmoji
@@ -115,11 +115,11 @@ Maintainer: Cathedrale is a wizard
 Author: CP Digital Darkroom
 Section: Tweaks
 Depends: mobilesubstrate, preferenceloader
-Filename: debs/com.cpdigitaldarkroom.barmoji_2020.3_iphoneos-arm.deb
+Filename: ./debs/com.cpdigitaldarkroom.barmoji_2020.3_iphoneos-arm.deb
 Size: 110398
-MD5sum: 524F37B9929F19585A90D5C0E000449E
-SHA1: B3BFB1E3A39CCF846338F2AA310EBFD9D30E9B7E
-SHA256: EC753AE00B66816D447270E1560608875CBF63E6F8797911BA7D43C42324CBD3
+MD5sum: 524f37b9929f19585a90d5c0e000449e
+SHA1: b3bfb1e3a39ccf846338f2aa310ebfd9d30e9b7e
+SHA256: ec753ae00b66816d447270e1560608875cbf63e6f8797911ba7d43c42324cbd3
 
 Package: com.creaturecoding.shuffle
 Name: Shuffle
@@ -131,11 +131,11 @@ Author: CreatureSurvive
 Section: Tweaks
 Depends: mobilesubstrate, firmware(>=8), com.creaturecoding.libcspreferences
 Conflicts: com.cpdigitaldarkroom.placeholder
-Filename: debs/com.creaturecoding.shuffle_1.1.0_iphoneos-arm.deb
+Filename: ./debs/com.creaturecoding.shuffle_1.1.0_iphoneos-arm.deb
 Size: 376866
-MD5sum: 7E028709E98F1BCDB961817A3D3A01E5
-SHA1: D9E003C7234EC7AE8E9805EC64E86FD8E5DD9D61
-SHA256: 6D6D531F72A54C7C02E84117AB968E93CE3AEE86EF60309849F740CF3C755AF2
+MD5sum: 7e028709e98f1bcdb961817a3d3a01e5
+SHA1: d9e003c7234ec7ae8e9805ec64e86fd8e5dd9d61
+SHA256: 6d6d531f72a54c7c02e84117ab968e93ce3aee86ef60309849f740cf3c755af2
 
 Package: com.cydiageek.ccclearmodulesbg
 Name: CCClearModulesBG
@@ -146,11 +146,11 @@ Maintainer: Cathedrale is a wizard
 Author: CydiaGeek
 Section: Tweaks
 Depends: mobilesubstrate, preferenceloader, firmware(>=11.0)
-Filename: debs/com.cydiageek.ccclearmodulesbg_1.0.9_iphoneos-arm.deb
+Filename: ./debs/com.cydiageek.ccclearmodulesbg_1.0.9_iphoneos-arm.deb
 Size: 122560
-MD5sum: 28FB9BA91B2049E022D113190984EA81
-SHA1: A3943086A9C3F67C9944A192E0A1159D857952A9
-SHA256: 52244CC605FC9CE0020AD81AE37D8C0B3503D1211601F1CB1733011FD1F65A6A
+MD5sum: 28fb9ba91b2049e022d113190984ea81
+SHA1: a3943086a9c3f67c9944a192e0a1159d857952a9
+SHA256: 52244cc605fc9ce0020ad81ae37d8c0b3503d1211601f1cb1733011fd1f65a6a
 
 Package: com.gilesgc.cccalc
 Name: CCCalc
@@ -161,11 +161,11 @@ Maintainer: Cathedrale is a wizard
 Author: gilesgc
 Section: Addons (ControlCenter)
 Depends: mobilesubstrate
-Filename: debs/com.gilesgc.cccalc_1.1.2.deb
+Filename: ./debs/com.gilesgc.cccalc_1.1.2.deb
 Size: 31450
-MD5sum: 21AD081C9449BE4BF853A1E4FE45E1DA
-SHA1: EBCE9D8BAEC7448965596B07B508C70BB4CBA58C
-SHA256: 70AEFE25398A36D0E92DD0CB640302B86D71E08F7E8642B5B2FBC02651E38E2C
+MD5sum: 21ad081c9449be4bf853a1e4fe45e1da
+SHA1: ebce9d8baec7448965596b07b508c70bb4cba58c
+SHA256: 70aefe25398a36d0e92dd0cb640302b86d71e08f7e8642b5b2fbc02651e38e2c
 
 Package: com.ichitaso.autobrightness11
 Name: AutoBrightnessToggle(CCSupport)
@@ -176,11 +176,11 @@ Maintainer: Cathedrale is a wizard
 Author: ichitaso
 Section: Addons (ControlCenter)
 Depends: com.opa334.ccsupport, firmware (>=11.0)
-Filename: debs/com.ichitaso.autobrightness11_0.1-4-1_iphoneos-arm.deb
+Filename: ./debs/com.ichitaso.autobrightness11_0.1-4-1_iphoneos-arm.deb
 Size: 22208
-MD5sum: 7FF8457036130FDAA8C572B466307E95
-SHA1: A3C279E8A97FA7C4B9DDCC92CCAB081BD77527BA
-SHA256: 0FC87BA3DE3AFA6DA193971DA52593C9903A4C3592A45D6384D099946C23FD54
+MD5sum: 7ff8457036130fdaa8c572b466307e95
+SHA1: a3c279e8a97fa7c4b9ddcc92ccab081bd77527ba
+SHA256: 0fc87ba3de3afa6da193971da52593c9903a4c3592a45d6384d099946c23fd54
 
 Package: com.ichitaso.autolockcc
 Name: AutoLockToggle(CCSupport)
@@ -191,11 +191,11 @@ Maintainer: Cathedrale is a wizard
 Author: ichitaso
 Section: Addons (ControlCenter)
 Depends: com.opa334.ccsupport, firmware (>=11.0)
-Filename: debs/com.ichitaso.autolockcc_0.1-3-1_iphoneos-arm.deb
+Filename: ./debs/com.ichitaso.autolockcc_0.1-3-1_iphoneos-arm.deb
 Size: 31350
-MD5sum: B9E16DDFE5BF5C046710C05F11AE41CB
-SHA1: 18DF66C57684EA91B6525C3FB097947B8C774F1A
-SHA256: BAB2364200B63000C783DFCA9680A8AB6A2AD1DFE716F57D7C85DC0BD3DDC2CA
+MD5sum: b9e16ddfe5bf5c046710c05f11ae41cb
+SHA1: 18df66c57684ea91b6525c3fb097947b8c774f1a
+SHA256: bab2364200b63000c783dfca9680a8ab6a2ad1dfe716f57d7c85dc0bd3ddc2ca
 
 Package: com.ichitaso.locationservicecc
 Name: LocationService(CCSupport)
@@ -206,11 +206,11 @@ Maintainer: Cathedrale is a wizard
 Author: ichitaso
 Section: Addons (ControlCenter)
 Depends: com.opa334.ccsupport(>=1.2), firmware (>=11.0)
-Filename: debs/com.ichitaso.locationservicecc_0.1-4-1_iphoneos-arm.deb
+Filename: ./debs/com.ichitaso.locationservicecc_0.1-4-1_iphoneos-arm.deb
 Size: 58574
-MD5sum: 7A0E8FC3DCA86FFBC084D0E8779832C2
-SHA1: B2DC211B0C309DABE8FEA00704B54C7CD5EA42FA
-SHA256: 958A1A03C56889856779ADD0E1ADB269B8DD332259F993ADACAB236EDDF5F277
+MD5sum: 7a0e8fc3dca86ffbc084d0e8779832c2
+SHA1: b2dc211b0c309dabe8fea00704b54c7cd5ea42fa
+SHA256: 958a1a03c56889856779add0e1adb269b8dd332259f993adacab236eddf5f277
 
 Package: com.ichitaso.powerselector11
 Name: PowerSelector(iOS11 to 13)
@@ -221,11 +221,11 @@ Maintainer: Cathedrale is a wizard
 Author: ichitaso
 Section: Utilities
 Depends: com.opa334.ccsupport(>=1.2), firmware (>=11.0)
-Filename: debs/com.ichitaso.powerselector11_1.2.6_iphoneos-arm.deb
+Filename: ./debs/com.ichitaso.powerselector11_1.2.6_iphoneos-arm.deb
 Size: 406004
-MD5sum: 49AB07A53002D39F018C5860B262BDB7
-SHA1: 0122D84EDFB7F482E5C27836D2A6289F850C57CD
-SHA256: FD64754E5EEC05F0BF80CAED3D71AFC6D5962683D3463BF3A7D64AFAFF069235
+MD5sum: 49ab07a53002d39f018c5860b262bdb7
+SHA1: 0122d84edfb7f482e5c27836d2a6289f850c57cd
+SHA256: fd64754e5eec05f0bf80caed3d71afc6d5962683d3463bf3a7d64afaff069235
 
 Package: com.imkpatil.cclinker
 Name: CCLinker
@@ -236,11 +236,11 @@ Maintainer: Cathedrale is a wizard
 Author: P2KDev
 Section: Addons (ControlCenter)
 Depends: mobilesubstrate, com.spark.libsparkapplist
-Filename: debs/com.imkpatil.cclinker_1.2.1.deb
+Filename: ./debs/com.imkpatil.cclinker_1.2.1.deb
 Size: 26370
-MD5sum: 49DB733864A53B91B55CE34C494399FF
-SHA1: D578BAA27B9DAD4FEFCE38B503746C5004E83B8A
-SHA256: E2211432404538091638D1080FA0ED92F70BC2C51805A06365D932760D044610
+MD5sum: 49db733864a53b91b55ce34c494399ff
+SHA1: d578baa27b9dad4fefce38b503746c5004e83b8a
+SHA256: e2211432404538091638d1080fa0ed92f70bc2c51805a06365d932760d044610
 
 Package: com.ion.wraith
 Name: Wraith
@@ -251,11 +251,11 @@ Maintainer: Cathedrale is a wizard
 Author: Justin Carlson
 Section: Tweaks
 Depends: mobilesubstrate, firmware(>=8.0), com.aeonlucid.snaphide2(>=1.0.0)
-Filename: debs/com.ion.wraith_0.0.6_iphoneos-arm.deb
+Filename: ./debs/com.ion.wraith_0.0.6_iphoneos-arm.deb
 Size: 80098
-MD5sum: 71ACADBCD23006D7E136BFEF322A1755
-SHA1: B36403875C12DDB175A7E38A84A3A0424460B961
-SHA256: E2FBBF0E15DC68F01F217D8B18689AE59948DE2D71A2309CDB85C6CA98622BBD
+MD5sum: 71acadbcd23006d7e136bfef322a1755
+SHA1: b36403875c12ddb175a7e38a84a3a0424460b961
+SHA256: e2fbbf0e15dc68f01f217d8b18689ae59948de2d71a2309cdb85c6ca98622bbd
 
 Package: com.jailbreak365.safeccmodules
 Name: CCmodules
@@ -265,11 +265,11 @@ Description: Control center modules for iOS 11/12/13
 Maintainer: Cathedrale is a wizard
 Author: jailbreak365
 Section: Addons (ControlCenter)
-Filename: debs/com.jailbreak365.safeccmodules_1.5-1.deb
+Filename: ./debs/com.jailbreak365.safeccmodules_1.5-1.deb
 Size: 1127204
-MD5sum: 05138418E9B9D060813B5708BB47CD95
-SHA1: BEC6A4FA62D5FBD0CEB8E7798858A7B48959F816
-SHA256: F385F0F9CA371B8111B0EB1B859BCFBED61DE9314DDF2D2A879008CD12A52A2A
+MD5sum: 05138418e9b9d060813b5708bb47cd95
+SHA1: bec6a4fa62d5fbd0ceb8e7798858a7b48959f816
+SHA256: f385f0f9ca371b8111b0eb1b859bcfbed61de9314ddf2d2a879008cd12a52a2a
 
 Package: com.julioverne.mimport
 Name: MImport
@@ -280,11 +280,11 @@ Maintainer: Cathedrale is a wizard
 Author: Julioverne
 Section: Utilities
 Depends: mobilesubstrate, firmware(>=6.0), unzip, unrar
-Filename: debs/com.julioverne.mimport_0.0~beta36_iphoneos-arm.deb
+Filename: ./debs/com.julioverne.mimport_0.0~beta36_iphoneos-arm.deb
 Size: 1033606
-MD5sum: ACD899BB59EF58D06E5A3AB1D12EB878
-SHA1: 07C2A4CD7C7EF459046FD12B0E8571F28CD7C27D
-SHA256: 4D39F210AE2173AD4026E96449AAD4A2460C61409E243F59DDF7CF51C0E438A3
+MD5sum: acd899bb59ef58d06e5a3ab1d12eb878
+SHA1: 07c2a4cd7c7ef459046fd12b0e8571f28cd7c27d
+SHA256: 4d39f210ae2173ad4026e96449aad4a2460c61409e243f59ddf7cf51c0e438a3
 
 Package: com.julioverne.ntspeed
 Name: NtSpeed
@@ -295,11 +295,11 @@ Maintainer: Cathedrale is a wizard
 Author: Julioverne
 Section: Tweaks
 Depends: mobilesubstrate, firmware(>=6.0), preferenceloader
-Filename: debs/com.julioverne.ntspeed_0.2~beta7_iphoneos-arm.deb
+Filename: ./debs/com.julioverne.ntspeed_0.2~beta7_iphoneos-arm.deb
 Size: 110786
-MD5sum: 7ABDDD352F1A50D4E959837B0AB03522
-SHA1: 5C3DE4DF487731AE2A2707D9C5C349C0A0E93090
-SHA256: 37839218E79A5614CD7EAD93BC2EA75B560CFECCC60388CF16D7DAA61139ECE3
+MD5sum: 7abddd352f1a50d4e959837b0ab03522
+SHA1: 5c3de4df487731ae2a2707d9c5c349c0a0e93090
+SHA256: 37839218e79a5614cd7ead93bc2ea75b560cfeccc60388cf16d7daa61139ece3
 
 Package: com.kingpuffdaddi.controlcenterccvibration
 Name: CCVibration
@@ -310,11 +310,11 @@ Maintainer: Cathedrale is a wizard
 Author: KingPuffdaddi
 Section: Addons (ControlCenter)
 Depends: mobilesubstrate(>=0.9.5000), firmware(>=11.0), com.opa334.ccsupport
-Filename: debs/com.kingpuffdaddi.control-center.ccvibration_1.0.1_iphoneos-arm.deb
+Filename: ./debs/com.kingpuffdaddi.control-center.ccvibration_1.0.1_iphoneos-arm.deb
 Size: 19982
-MD5sum: E15A044DE4D645F75ACADBD038DB85F7
-SHA1: 88F8C4CB5738063277E409386844C1650D50349C
-SHA256: 8C972CC8D97634EA9CA6877F20352AAA708602602E23016650584E3E292715EB
+MD5sum: e15a044de4d645f75acadbd038db85f7
+SHA1: 88f8c4cb5738063277e409386844c1650d50349c
+SHA256: 8c972cc8d97634ea9ca6877f20352aaa708602602e23016650584e3e292715eb
 
 Package: com.laughingquoll.prefixui
 Name: PrefixUI
@@ -325,11 +325,11 @@ Maintainer: Cathedrale is a wizard
 Author: LaughingQuoll
 Section: System
 Depends: me.nepeta.libcolorpicker, com.spark.libsparkapplist
-Filename: debs/com.laughingquoll.prefixui_1.2.6_iphoneos-arm.deb
+Filename: ./debs/com.laughingquoll.prefixui_1.2.6_iphoneos-arm.deb
 Size: 45108
-MD5sum: B8D93E96DCFB0483EE578D71693E20CB
-SHA1: CE9836535ED8906B7DFDD5C04FAD36E879C8353C
-SHA256: 74805202F9A47E89444F70C1C3DD6650E1612A33C163463C6FF465D877021735
+MD5sum: b8d93e96dcfb0483ee578d71693e20cb
+SHA1: ce9836535ed8906b7dfdd5c04fad36e879c8353c
+SHA256: 74805202f9a47e89444f70c1c3dd6650e1612a33c163463c6ff465d877021735
 
 Package: com.midnightchips.bettersettings
 Name: BetterSettings
@@ -340,11 +340,11 @@ Maintainer: Cathedrale is a wizard
 Author: midnightchips
 Section: Tweaks
 Depends: mobilesubstrate, com.muirey03.libimagepicker, com.creaturesurvive.libcscolorpicker, com.creaturecoding.libcspreferences, org.thebigboss.libcolorpicker
-Filename: debs/com.midnightchips.bettersettings_0.1.3_iphoneos-arm.deb
+Filename: ./debs/com.midnightchips.bettersettings_0.1.3_iphoneos-arm.deb
 Size: 1275086
-MD5sum: 25EC5CEF3D527883D3C6DD247948CD43
-SHA1: 74F981081D4AA14587F0191DD7949C855DB2FBDB
-SHA256: 46EF995386C2EEEE7C4A3C24C8DD0D942AA04D755812AD4C71893B66754331DA
+MD5sum: 25ec5cef3d527883d3c6dd247948cd43
+SHA1: 74f981081d4aa14587f0191dd7949c855db2fbdb
+SHA256: 46ef995386c2eeee7c4a3c24c8dd0d942aa04d755812ad4c71893b66754331da
 
 Package: com.orangebananaspy.nudekeysios12
 Name: NudeKeys (iOS 12)
@@ -356,11 +356,11 @@ Author: Orangebananaspy
 Section: Tweaks
 Depends: mobilesubstrate, preferenceloader, firmware(>=12.0)
 Conflicts: org.thebigboss.nudekeys
-Filename: debs/com.orangebananaspy.nudekeysios12_1.0.0~b8_iphoneos-arm.deb
+Filename: ./debs/com.orangebananaspy.nudekeysios12_1.0.0~b8_iphoneos-arm.deb
 Size: 2006424
-MD5sum: 8E143E361593EC2241D7FED5D2E6229E
-SHA1: B0ACA9737A61B1BBF15B6477409B7A8215E509A1
-SHA256: AA76A082C4B2F8F61BAF90A86DBBCB4A94BC8F1C2C0B0E02D8AA788455DCB274
+MD5sum: 8e143e361593ec2241d7fed5d2e6229e
+SHA1: b0aca9737a61b1bbf15b6477409b7a8215e509a1
+SHA256: aa76a082c4b2f8f61baf90a86dbbcb4a94bc8f1c2c0b0e02d8aa788455dcb274
 
 Package: com.pixelomer.tweakreviews-db
 Name: TweakReviewsDB
@@ -372,11 +372,11 @@ Author: PixelOmer
 Section: Tweaks
 Depends: mobilesubstrate, firmware(>=8.0)
 Conflicts: com.samgisaninja.tweakcompatible-zebra, bz.jed.tweakcompatible, org.coolstar.sileo(<<1.4.1)
-Filename: debs/com.pixelomer.tweakreviews-db_0.6.deb
+Filename: ./debs/com.pixelomer.tweakreviews-db_0.6.deb
 Size: 138306
-MD5sum: 7B83AF7826E11A963D52A20A61B2ABCF
-SHA1: 188228819AC3EB2783B07E26F6F1329B42688CFD
-SHA256: 03A2CC8AC61D4596E50FC5A161FED1B302C14A0B2A0FC8C556344A821623503C
+MD5sum: 7b83af7826e11a963d52a20a61b2abcf
+SHA1: 188228819ac3eb2783b07e26f6f1329b42688cfd
+SHA256: 03a2cc8ac61d4596e50fc5a161fed1b302c14a0b2a0fc8c556344a821623503c
 
 Package: com.r0wdrunner.minimalxi2
 Name: MinimalXI 2
@@ -387,11 +387,11 @@ Maintainer: Cathedrale is a wizard
 Author: ROwDrunner
 Section: Tweaks
 Depends: mobilesubstrate, ws.hbang.common(>=1.11)
-Filename: debs/com.r0wdrunner.minimalxi2_1.1_iphoneos-arm.deb
+Filename: ./debs/com.r0wdrunner.minimalxi2_1.1_iphoneos-arm.deb
 Size: 31072
-MD5sum: F6534BA1DC1B5859D494B0D9B56EDE06
-SHA1: D6E3B5DF6549302B4376F0258F9C4C8E498E174F
-SHA256: 4F0D4F38282DB28BE2AFAEB65FDD926B4B8DC4D9AEB2DAC8690E8C872E9B9F8E
+MD5sum: f6534ba1dc1b5859d494b0d9b56ede06
+SHA1: d6e3b5df6549302b4376f0258f9c4c8e498e174f
+SHA256: 4f0d4f38282db28be2afaeb65fdd926b4b8dc4d9aeb2dac8690e8c872e9b9f8e
 
 Package: com.spark.snowboard.ui
 Name: Snowboard UI Extension
@@ -402,11 +402,11 @@ Maintainer: Cathedrale is a wizard
 Author: Spark
 Section: Addons(Snowboard)
 Depends: mobilesubstrate, com.spark.snowboard(>>1.2.22), com.thuthuatjb.iconrepo
-Filename: debs/com.spark.snowboard.ui_1.0.0~Beta1_iphoneos-arm.deb
+Filename: ./debs/com.spark.snowboard.ui_1.0.0~Beta1_iphoneos-arm.deb
 Size: 83254
-MD5sum: ADC3A56ADB69397DF2EF7506187419AE
-SHA1: E4D1D2BCB2607441D985D41F42AAFF9DA05DAA16
-SHA256: D730DE22A426C977E22EA54F70DAF45C21E8F03B4E3FB5F4B1A8A2210207949F
+MD5sum: adc3a56adb69397df2ef7506187419ae
+SHA1: e4d1d2bcb2607441d985d41f42aaff9da05daa16
+SHA256: d730de22a426c977e22ea54f70daf45c21e8f03b4e3fb5f4b1a8a2210207949f
 
 Package: com.twttrvideodl
 Name: twttrVideoDL
@@ -417,11 +417,11 @@ Maintainer: Cathedrale is a wizard
 Author: Aesthyrica
 Section: Tweaks
 Depends: mobilesubstrate
-Filename: debs/com.twttrvideodl_1.0_iphoneos-arm.deb
+Filename: ./debs/com.twttrvideodl_1.0_iphoneos-arm.deb
 Size: 108206
-MD5sum: 0FF191FD9563C130146F426B7C740C0B
-SHA1: FA52EC873D9BF1610B70DF13C351BE0C7E4D7D08
-SHA256: 4F62F35DF76FE8D9B229E0CEF361EBA319127A435601587781D171B8660F835A
+MD5sum: 0ff191fd9563c130146f426b7c740c0b
+SHA1: fa52ec873d9bf1610b70df13c351be0c7e4d7d08
+SHA256: 4f62f35df76fe8d9b229e0cef361eba319127a435601587781d171b8660f835a
 
 Package: com.vitataf.homegesture
 Name: HomeGesture
@@ -432,11 +432,11 @@ Maintainer: Cathedrale is a wizard
 Author: VitaTaf/MidnightChips/PINPAL
 Section: Tweaks
 Depends: mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker, org.thebigboss.libcolorpicker, firmware(>=11.0), com.spark.libsparkapplist
-Filename: debs/com.vitataf.homegesture_2.1.4_iphoneos-arm.deb
+Filename: ./debs/com.vitataf.homegesture_2.1.4_iphoneos-arm.deb
 Size: 2334790
-MD5sum: 24B3EDA3D5B435CB491E61C2AFDEB07A
-SHA1: 324402687404118F5C8E8217752DA016A84F5252
-SHA256: 07321D3F68E1EE60F15EB40C90910F5E8597A15228C3FD5D5BAE29B01C532F46
+MD5sum: 24b3eda3d5b435cb491e61c2afdeb07a
+SHA1: 324402687404118f5c8e8217752da016a84f5252
+SHA256: 07321d3f68e1ee60f15eb40c90910f5e8597a15228c3fd5d5bae29b01c532f46
 
 Package: com.yourepo.cydiageek.noncheaderview
 Name: NoNCHeaderView
@@ -447,11 +447,11 @@ Maintainer: Cathedrale is a wizard
 Author: CydiaGeek
 Section: Tweaks
 Depends: mobilesubstrate
-Filename: debs/com.yourepo.cydiageek.noncheaderview_1.0.0.deb
+Filename: ./debs/com.yourepo.cydiageek.noncheaderview_1.0.0.deb
 Size: 10164
-MD5sum: D953F03AED3CA23ED6D073A6FB8D99A9
-SHA1: 3B0195B6C78256124DF44DBE9EF3E2BCEDE4D7F1
-SHA256: 0B9136B302D2E3DDD724CC9E9CDFA0D18AD4B25BCC5F2C18B6B41C94E025EE32
+MD5sum: d953f03aed3ca23ed6d073a6fb8d99a9
+SHA1: 3b0195b6c78256124df44dbe9ef3e2bcede4d7f1
+SHA256: 0b9136b302d2e3ddd724cc9e9cdfa0d18ad4b25bcc5f2c18b6b41c94e025ee32
 
 Package: com.yourepo.dya37.redeb
 Name: Redeb
@@ -462,11 +462,11 @@ Maintainer: Cathedrale is a wizard
 Author: DYA37 and T.Herak
 Section: Utilities
 Depends: bash(>=4.0.17-13), coreutils(>=8.12-12p), grep(>=2.5.4-3), sed(>=4.1.5-7), gawk(>=3.1.6-2p), apt7(>=0.7.25.3-6)
-Filename: debs/com.yourepo.dya37.redeb_1.3.7_iphoneos-arm.deb
+Filename: ./debs/com.yourepo.dya37.redeb_1.3.7_iphoneos-arm.deb
 Size: 3518
-MD5sum: 6D1B138E1A1B9FFC9803297B5DFF4622
-SHA1: DFDAC9CC58EECF95A5ED21FDFCB29CB1A3496E1C
-SHA256: 5D6A228438815C4FB436A42E22D50C790BFE5B76A1B4C474E507177690DBE5CF
+MD5sum: 6d1b138e1a1b9ffc9803297b5dff4622
+SHA1: dfdac9cc58eecf95a5ed21fdfcb29cb1a3496e1c
+SHA256: 5d6a228438815c4fb436a42e22d50c790bfe5b76a1b4c474e507177690dbe5cf
 
 Package: me.kritanta.homeplus
 Name: HomePlus~Beta
@@ -477,11 +477,11 @@ Maintainer: Cathedrale is a wizard
 Author: Kritanta
 Section: Tweaks
 Depends: mobilesubstrate
-Filename: debs/me.kritanta.homeplus_0.4.9-beta_iphoneos-arm.deb
+Filename: ./debs/me.kritanta.homeplus_0.4.9-beta_iphoneos-arm.deb
 Size: 1351238
-MD5sum: 93C45388185822A7CC80508CC8EBF031
-SHA1: 0B157A4FAD9238A8867E9189995769B19EEF572F
-SHA256: 420CE9F52E148A17CE65B7FA36F211B50CC0C33543698F65075BA7BBA2B14CE6
+MD5sum: 93c45388185822a7cc80508cc8ebf031
+SHA1: 0b157a4fad9238a8867e9189995769b19eef572f
+SHA256: 420ce9f52e148a17ce65b7fa36f211b50cc0c33543698f65075ba7bba2b14ce6
 
 Package: me.nepeta.nereid
 Name: Nereid
@@ -492,11 +492,11 @@ Maintainer: Cathedrale is a wizard
 Author: Nepeta
 Section: Tweaks
 Depends: mobilesubstrate, ws.hbang.common(>=1.11), me.nepeta.libcolorpicker , me.nepeta.libnepeta, firmware(>=11.0)
-Filename: debs/me.nepeta.nereid_0.1.8-1_iphoneos-arm.deb
+Filename: ./debs/me.nepeta.nereid_0.1.8-1_iphoneos-arm.deb
 Size: 139854
-MD5sum: F119D0FE0B1873D009A743B6C5FA38C6
-SHA1: E0508D8BDAF0DEBAD96A27B4FD0C34D0F5C88B64
-SHA256: CE894B2D080D9DA226E92EEA286A17B46AE67CF20F2BAF04FDB69190139A01D7
+MD5sum: f119d0fe0b1873d009a743b6c5fa38c6
+SHA1: e0508d8bdaf0debad96a27b4fd0c34d0f5c88b64
+SHA256: ce894b2d080d9da226e92eea286a17b46ae67cf20f2baf04fdb69190139a01d7
 
 Package: me.nepeta.notifica
 Name: Notifica
@@ -507,11 +507,11 @@ Maintainer: Cathedrale is a wizard
 Author: Nepeta
 Section: Tweaks
 Depends: mobilesubstrate, ws.hbang.common(>=1.11), me.nepeta.libcolorpicker , me.nepeta.libnepeta(>=0.1.1), firmware(>=11.0)
-Filename: debs/me.nepeta.notifica_0.3.1_iphoneos-arm.deb
+Filename: ./debs/me.nepeta.notifica_0.3.1_iphoneos-arm.deb
 Size: 478554
-MD5sum: E5355FC5854CB10D8760E75C4BCE168B
-SHA1: 016062478B74F7D0443BB52D52EA7933A4392D02
-SHA256: 57F24FB3CB38AAFAE7A6467B1E70188C1DE2288A9655C46C502A29AA5A858EBD
+MD5sum: e5355fc5854cb10d8760e75c4bce168b
+SHA1: 016062478b74f7d0443bb52d52ea7933a4392d02
+SHA256: 57f24fb3cb38aafae7a6467b1e70188c1de2288a9655c46c502a29aa5a858ebd
 
 Package: me.nepeta.selector
 Name: Selector
@@ -522,11 +522,11 @@ Maintainer: Cathedrale is a wizard
 Author: Nepeta
 Section: Tweaks
 Depends: mobilesubstrate, ws.hbang.common(>=1.11), firmware(>=11.0)
-Filename: debs/me.nepeta.selector_0.1.3_iphoneos-arm.deb
+Filename: ./debs/me.nepeta.selector_0.1.3_iphoneos-arm.deb
 Size: 59368
-MD5sum: 226EBF9212D1D914502D581C61A3A485
-SHA1: FC55C063F1303078A099AEFCD3AC2CD68513E19E
-SHA256: EBD2EFF3B07268FABCE309277DFBE806B5D244FF339429D37FF897CDAEDA5AD1
+MD5sum: 226ebf9212d1d914502d581c61a3a485
+SHA1: fc55c063f1303078a099aefcd3ac2cd68513e19e
+SHA256: ebd2eff3b07268fabce309277dfbe806b5d244ff339429d37ff897cdaeda5ad1
 
 Package: me.nepeta.unsub
 Name: Unsub
@@ -552,11 +552,11 @@ Maintainer: Cathedrale is a wizard
 Author: relative
 Section: Tweaks
 Depends: mobilesubstrate(>=0.9.5000), firmware(>=11.0)
-Filename: debs/me.sethstephens.newgridswitcher_1.1.0_iphoneos-arm.deb
+Filename: ./debs/me.sethstephens.newgridswitcher_1.1.0_iphoneos-arm.deb
 Size: 6564
-MD5sum: CB6D6D12DD5938322BBAE6D79FCD1B0C
-SHA1: B52419D2DE7A2DF45697B21BAA375D0D4DB8ABC7
-SHA256: 94EC20ED9AACD45C9A051B3E58295CDC9481A761DF646D3170508A6AC6411E6E
+MD5sum: cb6d6d12dd5938322bbae6d79fcd1b0c
+SHA1: b52419d2de7a2df45697b21baa375d0d4db8abc7
+SHA256: 94ec20ed9aacd45c9a051b3e58295cdc9481a761df646d3170508a6ac6411e6e
 
 Package: net.tateu.moveable12
 Name: Moveable12
@@ -568,11 +568,11 @@ Author: Josh Harris(tateu)
 Section: Tweaks
 Depends: mobilesubstrate, firmware(>=11.0), preferenceloader
 Conflicts: net.tateu.moveable, net.tateu.moveable9
-Filename: debs/net.tateu.moveable12_1.0.0~beta29-32_iphoneos-arm.deb
+Filename: ./debs/net.tateu.moveable12_1.0.0~beta29-32_iphoneos-arm.deb
 Size: 308718
-MD5sum: D8C5774723152155EC4A9D16B2972A7E
-SHA1: FE5A1013F9C7F2DD60893610B69CE48706EE16B6
-SHA256: 294DA28851CA630F6B537A097C9EAEAA0162407F5D76BF05C22E809A44BDD0D9
+MD5sum: d8c5774723152155ec4a9d16b2972a7e
+SHA1: fe5a1013f9c7f2dd60893610b69ce48706ee16b6
+SHA256: 294da28851ca630f6b537a097c9eaeaa0162407f5d76bf05c22e809a44bdd0d9
 
 Package: net.tateu.photodata12
 Name: PhotoData12
@@ -584,11 +584,11 @@ Author: Josh Harris(tateu)
 Section: Tweaks
 Depends: mobilesubstrate, firmware(>=11.0), preferenceloader
 Conflicts: net.tateu.photodata
-Filename: debs/net.tateu.photodata12_1.0.0~beta19-3_iphoneos-arm.deb
+Filename: ./debs/net.tateu.photodata12_1.0.0~beta19-3_iphoneos-arm.deb
 Size: 175074
-MD5sum: E40C8D52BF401AFA2BAA2D2998FCC668
-SHA1: 3A6118086566BA39F73D617C18EDD732705C8AA9
-SHA256: 798BD9DDF04778687A6578DB673C15249DBAC3E7AC5F1FB6AB41D6DD8955ECC1
+MD5sum: e40c8d52bf401afa2baa2d2998fcc668
+SHA1: 3a6118086566ba39f73d617c18edd732705c8aa9
+SHA256: 798bd9ddf04778687a6578db673c15249dbac3e7ac5f1fb6ab41d6dd8955ecc1
 
 Package: tk.ethanrdoesmc.translucencyparallax
 Name: Translucency Parallax
@@ -599,9 +599,9 @@ Maintainer: Cathedrale is a wizard
 Author: EthanRDoesMC
 Section: Tweaks
 Depends: mobilesubstrate, applist
-Filename: debs/tk.ethanrdoesmc.translucencyparallax_0.1.8-EarlyAccess-1+debug_iphoneos-arm.deb
+Filename: ./debs/tk.ethanrdoesmc.translucencyparallax_0.1.8-EarlyAccess-1+debug_iphoneos-arm.deb
 Size: 104234
-MD5sum: 2E58A5345B38AAE8C8B6E95FA52A98E3
-SHA1: 1C9DA471EA34CC0FAEE9ECF9F999DCF26C4FE58E
-SHA256: 32A2D16B1FA227E4EFB914898334445F287C36D9D1616EDBAAA949E502DF9F13
+MD5sum: 2e58a5345b38aae8c8b6e95fa52a98e3
+SHA1: 1c9da471ea34cc0faee9ecf9f999dcf26c4fe58e
+SHA256: 32a2d16b1fa227e4efb914898334445f287c36d9d1616edbaaa949e502df9f13
 
