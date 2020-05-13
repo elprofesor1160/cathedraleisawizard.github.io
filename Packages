@@ -60,6 +60,7 @@ Section: Tweaks
 Description: Pour montrer le debit de la connexion internet
 Author: John Zaro
 Name: NetworkSpeed13
+Depiction: https://elprofesor1160.github.io/cathedraleisawizard.github.io/depictions/?p=com.johnzaro.networkspeed13
 
 Package: com.ichitaso.primalfolder
 Name: primalfolder
