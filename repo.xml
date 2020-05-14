@@ -1,18 +1,18 @@
 <repo>
 	<footerlinks>
 		<link>
-			<name>Donate</name>
+			<name>Wizard's Haunted Mansion</name>
 			<url>https://paypal.me/SamGardner4</url>
-			<iconclass>fa fa-paypal</iconclass>
+			<span class="image"><img src="images/pic01.jpg" alt="" /></span>
 		</link>
 		<link>
-			<name>View source code for all my projects</name>
-			<url>https://github.com/Samgisaninja</url>
-			<iconclass>fa fa-github</iconclass>
+			<name>Wizard's Haunted Mansion on twitter</name>
+			<url>http://www.twitter.com/CyveFred</url>
+			<iconclass>fa fa-twitter</iconclass>
 		</link>
 		<link>
-			<name>Send me a DM on reddit</name>
-			<url>https://reddit.com/u/Samg_is_a_Ninja</url>
+			<name>Wizard's Haunted Mansion on reddit</name>
+			<url>http://www.reddit.com/u/elprofesor229</url>
 			<iconclass>fa fa-reddit</iconclass>
 		</link>
 	</footerlinks>
