@@ -1,0 +1,23 @@
+<package>
+	<id>me.nepeta.libnepeta</id>
+	<name>libnepeta</name>
+	<version>0.1.1-2+debug</version>
+	<compatibility>
+		<firmware>
+			<maxiOS></maxiOS>
+			<otherVersions></otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Nepeta's color utils</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Cathedrale release</change>
+	</changelog>
+	<links></links>
+</package>

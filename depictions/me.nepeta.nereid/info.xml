@@ -15,7 +15,7 @@
 	<dependencies>
 	<package>mobilesubstrate</package>
 	<package>ws.hbang.common(>=1.11)</package>
-	<package>me.nepeta.libcolorpicker</package>
+	<package>me.nepeta.libcolorpicker | org.thebigboss.libcolorpicker (>= 1.6.3)</package>
 	<package>me.nepeta.libnepeta</package>
 	</dependencies>
 	<descriptionlist>
