@@ -802,3 +802,22 @@ MD5sum: 2e58a5345b38aae8c8b6e95fa52a98e3
 SHA1: 1c9da471ea34cc0faee9ecf9f999dcf26c4fe58e
 SHA256: 32a2d16b1fa227e4efb914898334445f287c36d9d1616edbaaa949e502df9f13
 Depiction: https://elprofesor1160.github.io/cathedraleisawizard.github.io/depictions/?p=tk.ethanrdoesmc.translucencyparallax
+
+Package: me.conorthedev.peep
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: ConorTheDev <support@conorthedev.me>
+Filename: ./debs/me.conorthedev.peep.deb
+Size: 104968
+MD5sum: 3d41eb2f2f3b4bdc32fa7d56ff571764
+SHA1: e276c31904df0f6f3b64594e48c9091cd633966d
+SHA256: 43f3d91806ac9ee9be3408e785302a2c11d82b6504e0417a966beaa9a76ddad3
+Section: Tweaks
+Homepage: https://repo.conorthedev.me
+Description: Hide and show your status bar with one tap!
+Author: ConorTheDev <support@conorthedev.me>
+Depiction: https://elprofesor1160.github.io/cathedraleisawizard.github.io/depictions/web/me.conorthedev.peep.html
+Icon: https://repo.conorthedev.me/assets/me.conorthedev.peep/icon.png
+Moderndepiction: https://repo.conorthedev.me/depiction/native/me.conorthedev.peep.json
+Name: peep
+Tags: compatible_min::ios12.0, compatible_max::ios13.4.1
