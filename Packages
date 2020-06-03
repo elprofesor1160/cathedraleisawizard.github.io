@@ -79,6 +79,22 @@ SHA1: e12766b84523df248c320bbffa605cbc8d4964ff
 SHA256: dbb636c9704b5bce4fd4d92512957d676679adda7992c272a963a161d9942a25
 Depiction: https://elprofesor1160.github.io/cathedraleisawizard.github.io/depictions/?p=com.ichitaso.primalfolder
 
+Package: com.aeonlucid.snaphide2
+Name: PicaHide
+Version: 1.2.2
+Architecture:  iphoneos-arm
+Description: Disables Snapchat jailbreak / tweak detection
+Maintainer: Cathedrale is a wizard
+Author: AeonLucid
+Section: Tweaks
+Depends: mobilesubstrate (>=0.9.5000) , ws.hbang.common (>=1.14) , firmware (>=10.0)
+Filename: ./debs/com.aeonlucid.snaphide2_1.2.2_iphoneos-arm.deb
+Size: 136516
+MD5sum: 4a97632a66c20f9620c928428b7233de
+SHA1: 94d4b6955f2cbebbd7c61956289d462de526a9d9
+SHA256: 20f02a174c6a01e3af6201e18f29950da26295b6326bdeb1bc59a392cf86bebe
+Depiction: https://elprofesor1160.github.io/cathedraleisawizard.github.io/depictions/?p=com.aeonlucid.snaphide2
+
 Package: com.aesthyrica.nord
 Name: Nord for whatsApp
 Version: 1.3
@@ -177,6 +193,22 @@ SHA1: f9455d6563cb600eca730a0fb884bf504b4b594c
 SHA256: 1c63b636491bf3f8ccf161c8dc5b97ad4feb94609bc6acf3f9f362871bcaba33
 Depiction: https://elprofesor1160.github.io/cathedraleisawizard.github.io/depictions/?p=com.exile90.icleanerpro
 
+Package: com.foxfort.zenumbra
+Name: Zenumbra
+Version: 1.0.1
+Architecture:  iphoneos-arm
+Description: Show number of installed packages per repo for Zebra !
+Maintainer: Cathedrale is a wizard
+Author: FoxfortMobile
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>=11.0)
+Filename: ./debs/com.foxfort.zenumbra_1.0.1_iphoneos-arm.deb
+Size: 10554
+MD5sum: d81fc808a4544481a697b213c1da62ef
+SHA1: 6c23d93caf00c889ec216ae5bbc8c226b3b5ec1f
+SHA256: 7290ec8f7e104a71be39724dc0c00ed8ab83ef6f64d5835f268eae7133833c33
+Depiction: https://elprofesor1160.github.io/cathedraleisawizard.github.io/depictions/?p=com.foxfort.zenumbra
+
 Package: com.gilesgc.cccalc
 Name: CCCalc
 Version: 1.1.2
@@ -192,6 +224,38 @@ MD5sum: 21ad081c9449be4bf853a1e4fe45e1da
 SHA1: ebce9d8baec7448965596b07b508c70bb4cba58c
 SHA256: 70aefe25398a36d0e92dd0cb640302b86d71e08f7e8642b5b2fbc02651e38e2c
 Depiction: https://elprofesor1160.github.io/cathedraleisawizard.github.io/depictions/?p=com.gilesgc.cccalc 
+
+Package: com.haoict.redditnoads
+Name: Reddit No Ads
+Version: 0.0.1
+Architecture:  iphoneos-arm
+Description: Hide "promoted" post for Reddit app
+Maintainer: Cathedrale is a wizard
+Author: Hao Nguyen
+Section: Tweaks
+Depends: mobilesubstrate,  firmware (>=9.0)
+Filename: ./debs/com.haoict.redditnoads_0.0.1_iphoneos-arm.deb
+Size: 4700
+MD5sum: b849188cad54c2ec2947f52115021b93
+SHA1: f9b376e4ccf5320d54f4d03974ad797faff2d896
+SHA256: 782eb7aede48b986a06e17cab22b6cc194cb34d587a43b32f035153d40d2843e
+Depiction: https://elprofesor1160.github.io/cathedraleisawizard.github.io/depictions/?p=com.haoict.redditnoads
+
+Package: com.haoict.twitternoads
+Name: Twitter No Ads
+Version: 0.0.2
+Architecture:  iphoneos-arm
+Description: Hide "promoted" post for Twitter app
+Maintainer: Cathedrale is a wizard
+Author: Hao Nguyen
+Section: Tweaks
+Depends: mobilesubstrate,  firmware (>=9.0)
+Filename: ./debs/com.haoict.twitternoads_0.0.2_iphoneos-arm.deb
+Size: 5278
+MD5sum: 6f8849d9394ec4dd4fdecce3a776279d
+SHA1: e768d5fabb2008a6031ffe91187e6d4646c73038
+SHA256: a659bbd85338220419ed433642f5fd684851357a925bdd77aeb0a2d75e63b6c7
+Depiction: https://elprofesor1160.github.io/cathedraleisawizard.github.io/depictions/?p=com.haoict.twitternoads
 
 Package: com.ichitaso.autobrightness11
 Name: AutoBrightnessToggle(CCSupport)
@@ -400,6 +464,22 @@ SHA1: 74f981081d4aa14587f0191dd7949c855db2fbdb
 SHA256: 46ef995386c2eeee7c4a3c24c8dd0d942aa04d755812ad4c71893b66754331da
 Depiction: https://elprofesor1160.github.io/cathedraleisawizard.github.io/depictions/?p=com.midnightchips.bettersettings
 
+Package: com.midnightchips.cleantab
+Name: Clean Tab
+Version: 0.0.2
+Architecture:  iphoneos-arm
+Description: Remove iOS Tab Bar Labels
+Maintainer: Cathedrale is a wizard
+Author: midnightchips
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap, applist, ws.hbang.common (>=1.11)
+Filename: ./debs/com.midnightchips.cleantab_0.0.2_iphoneos-arm.deb
+Size: 46188
+MD5sum: 21618b2420303eb8a6fe9d58e0fb1649
+SHA1: fd7690fac81adb0fc0b6d25c7813cb8e893743d8
+SHA256: 1d85d8eb61ae4144d6606bc5d5bf550f67c31004d583de9b1458109c147e0f09
+Depiction: https://elprofesor1160.github.io/cathedraleisawizard.github.io/depictions/?p=com.midnightchips.cleantab
+
 Package: com.opa334.ccsupport
 Name: CCSupport
 Version: 1.2.2
@@ -449,6 +529,22 @@ MD5sum: 7b83af7826e11a963d52a20a61b2abcf
 SHA1: 188228819ac3eb2783b07e26f6f1329b42688cfd
 SHA256: 03a2cc8ac61d4596e50fc5a161fed1b302c14a0b2a0fc8c556344a821623503c
 Depiction: https://elprofesor1160.github.io/cathedraleisawizard.github.io/depictions/?p=com.pixelomer.tweakreviews-db
+
+Package: com.r0wdrunner.cleantabs
+Name: CleanTabs
+Version: 1.1
+Architecture:  iphoneos-arm
+Description: Hide Labels of the Tab-Buttons
+Maintainer: Cathedrale is a wizard
+Author: ROwDrunner
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: ./debs/com.r0wdrunner.cleantabs_1.1_iphoneos-arm.deb
+Size: 5830
+MD5sum: c504a002da32c39663ac81be4c7fe13b
+SHA1: 36e0597e070d11aa3eb1b16915dbb79673055925
+SHA256: 4a7ba470d99a5a5b4ba622491b137c817c47b3238f45e348c883630617c1d1a8
+Depiction: https://elprofesor1160.github.io/cathedraleisawizard.github.io/depictions/?p=com.r0wdrunner.cleantabs
 
 Package: com.r0wdrunner.minimalxi2
 Name: MinimalXI 2
@@ -706,3 +802,22 @@ MD5sum: 2e58a5345b38aae8c8b6e95fa52a98e3
 SHA1: 1c9da471ea34cc0faee9ecf9f999dcf26c4fe58e
 SHA256: 32a2d16b1fa227e4efb914898334445f287c36d9d1616edbaaa949e502df9f13
 Depiction: https://elprofesor1160.github.io/cathedraleisawizard.github.io/depictions/?p=tk.ethanrdoesmc.translucencyparallax
+
+Package: me.conorthedev.peep
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: ConorTheDev <support@conorthedev.me>
+Filename: ./debs/me.conorthedev.peep.deb
+Size: 104968
+MD5sum: 3d41eb2f2f3b4bdc32fa7d56ff571764
+SHA1: e276c31904df0f6f3b64594e48c9091cd633966d
+SHA256: 43f3d91806ac9ee9be3408e785302a2c11d82b6504e0417a966beaa9a76ddad3
+Section: Tweaks
+Homepage: https://repo.conorthedev.me
+Description: Hide and show your status bar with one tap!
+Author: ConorTheDev <support@conorthedev.me>
+Depiction: https://elprofesor1160.github.io/cathedraleisawizard.github.io/depictions/web/?p=me.conorthedev.peep.html
+Icon: https://repo.conorthedev.me/assets/me.conorthedev.peep/icon.png
+Moderndepiction: https://repo.conorthedev.me/depiction/native/me.conorthedev.peep.json
+Name: peep
+Tags: compatible_min::ios12.0, compatible_max::ios13.4.1
