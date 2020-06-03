@@ -1,7 +1,7 @@
 Package: com.samgisaninja.chlorophyll
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: Cathedrale is a wizard
+Maintainer: ✞ E L L E V Y C
 Installed-Size: 200
 Depends: mobilesubstrate
 Filename: ./debs/com.cathedraleisawizard.chlorophyll_1.0_iphoneos-arm.deb
@@ -17,7 +17,7 @@ Name: chlorophyll
 Package: com.samgisaninja.chlorophyll
 Version: 1.1
 Architecture: iphoneos-arm
-Maintainer: Cathedrale is a wizard
+Maintainer: ✞ E L L E V Y C
 Installed-Size: 204
 Depends: mobilesubstrate
 Filename: ./debs/com.cathedraleisawizard.chlorophyll_1.1_iphoneos-arm.deb
@@ -33,7 +33,7 @@ Name: chlorophyll
 Package: com.hackyouriphone.deezelife
 Version: 0.5
 Architecture: iphoneos-arm
-Maintainer: Cathedrale is a wizard
+Maintainer: ✞ E L L E V Y C
 Depends: mobilesubstrate
 Filename: ./debs/com.hackyouriphone.deezelife_0.5_iphoneos-arm.deb
 Size: 54114
@@ -49,7 +49,7 @@ Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.hackyouriph
 Package: com.johnzaro.networkspeed13
 Version: 2.4
 Architecture: iphoneos-arm
-Maintainer: Cathedrale is a wizard
+Maintainer: ✞ E L L E V Y C
 Depends: mobilesubstrate, com.spark.libsparkapplist, com.spark.libsparkcolourpicker, preferenceloader, ws.hbang.common(>= 1.14), firmware(>= 12)
 Filename: ./debs/com.johnzaro.networkspeed13_2.4_iphoneos-arm.deb
 Size: 68616
@@ -62,12 +62,28 @@ Author: John Zaro
 Name: NetworkSpeed13
 Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.johnzaro.networkspeed13
 
+Package: com.johnzaro.networkspeed13
+Version: 2.7
+Architecture: iphoneos-arm
+Maintainer: ✞ E L L E V Y C
+Depends: mobilesubstrate, com.spark.libsparkapplist, com.spark.libsparkcolourpicker, preferenceloader, ws.hbang.common(>= 1.14), firmware(>= 12)
+Filename: ./debs/com.johnzaro.networkspeed13_2.7_iphoneos-arm.deb
+Size: 98320
+MD5sum: C3C12B4BBD894F013B0EF43A419109C3
+SHA1: 26B8669F0D271FD028A6DE9EC59DD49FAD69DBEF
+SHA256: B8D2AE80FEA08196093F131574C3792DBC4A279EAD13C441DDF0996F74E893CE
+Section: Tweaks
+Description: Pour montrer le debit de la connexion internet
+Author: John Zaro
+Name: NetworkSpeed13
+Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.johnzaro.networkspeed13
+
 Package: com.ichitaso.primalfolder
 Name: primalfolder
 Version: 0.0.9
 Architecture:  iphoneos-arm
 Description: Customiser les dossiers/ Display to folder as icon and launch actions for folders
-Maintainer: Cathedrale is a wizard
+Maintainer: ✞ E L L E V Y C
 Author: ichitaso
 Section: Tweaks
 Depends: mobilesubstrate, preferenceloader, firmware(>= 10.0)
@@ -79,12 +95,28 @@ SHA1: e12766b84523df248c320bbffa605cbc8d4964ff
 SHA256: dbb636c9704b5bce4fd4d92512957d676679adda7992c272a963a161d9942a25
 Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.ichitaso.primalfolder
 
+Package: co.hurouftech.safarifeatures
+Name: Safari Features
+Version: 1.3.2
+Architecture:  iphoneos-arm
+Description: Customize Safari Features in Iphone, Ipod, and Ipad (Support iOS 12/13)!
+Maintainer: ✞ E L L E V Y C
+Author: HuroufTech
+Section: Tweaks
+Depends: mobilesubstrate (>=0.9.5000), preferenceloader, firmware(>= 12.0), ws.hbang.common
+Filename: ./debs/co.hurouftech.safarifeatures_1.3.2_iphoneos-arm.deb
+Size: 120254
+MD5sum: D606F8A81874AD2F40C849E6D7AE90CE
+SHA1: B50BE1110B1108A34D67A9E194D0ECD3C55811C4
+SHA256: 9A17F76B64C22C275E234164B11B2B2D7D8F12CF55FE62CB3294D4B7CA67668E
+Depiction: https://elprofesor1160.github.io/killem/depictions/?p=co.hurouftech.safarifeatures
+
 Package: com.aeonlucid.snaphide2
 Name: PicaHide
 Version: 1.2.2
 Architecture:  iphoneos-arm
 Description: Disables Snapchat jailbreak / tweak detection
-Maintainer: Cathedrale is a wizard
+Maintainer: ✞ E L L E V Y C
 Author: AeonLucid
 Section: Tweaks
 Depends: mobilesubstrate (>=0.9.5000) , ws.hbang.common (>=1.14) , firmware (>=10.0)
@@ -100,7 +132,7 @@ Name: Nord for whatsApp
 Version: 1.3
 Architecture:  iphoneos-arm
 Description: Color WhatsApp freely/ Colorier WhatsApp
-Maintainer: Cathedrale is a wizard
+Maintainer: ✞ E L L E V Y C
 Author: aesthyrica
 Section: Tweaks
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common, org.thebigboss.libcolorpicker
@@ -111,12 +143,28 @@ SHA1: 95f63d30a3985d29a1adfb74517450c7be558b4b
 SHA256: 6af367dfd5ee1dd99535d1079e582e3830a45107900d4215304fab021c5e0582
 Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.aesthyrica.nord
 
+Package: com.atwiiks.betterccxi
+Name: BetterCCXI
+Version: 1.6.0
+Architecture:  iphoneos-arm
+Description: Enhance your control center on iOS 12/13
+Maintainer: ✞ E L L E V Y C
+Author: ATWiiks
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Filename: ./debs/com.atwiiks.betterccxi_1.6.0_iphoneos-arm.deb
+Size: 132776
+MD5sum: 86048ED3FD59490D56A3BDFFDF5DCEAB
+SHA1: 05A56C83F52ACD83627C8237F5AF6EF66081A7DA
+SHA256: 2AAF38DEF923501ED93D15ED5071734FF92680D715CBE5F999A84A0BE9A5FE8B
+Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.atwiiks.betterccxi
+
 Package: com.cabralcole.timeformat
 Name: TimeFormat
 Version: 1.0.1
 Architecture:  iphoneos-arm
 Description: Change statusbar time format
-Maintainer: Cathedrale is a wizard
+Maintainer: ✞ E L L E V Y C
 Author: cole cabral
 Section: Tweaks
 Depends: mobilesubstrate, preferenceloader, firmware (>=7.0), ws.hbang.common (>=1.2)
@@ -132,7 +180,7 @@ Name: Barmoji
 Version: 2020.3
 Architecture:  iphoneos-arm
 Description: Quick Emoji Acess Bar
-Maintainer: Cathedrale is a wizard
+Maintainer: ✞ E L L E V Y C
 Author: CP Digital Darkroom
 Section: Tweaks
 Depends: mobilesubstrate, preferenceloader
@@ -148,7 +196,7 @@ Name: Shuffle
 Version: 1.1.4
 Architecture:  iphoneos-arm
 Description: Mix up your preferences/ Arranger les parametres 
-Maintainer: Cathedrale is a wizard
+Maintainer: ✞ E L L E V Y C
 Author: CreatureSurvive
 Section: Tweaks
 Depends: mobilesubstrate, firmware(>=8), com.creaturecoding.libcspreferences
@@ -165,7 +213,7 @@ Name: CCClearModulesBG
 Version: 1.0.9
 Architecture:  iphoneos-arm
 Description: Make the control center modules clear
-Maintainer: Cathedrale is a wizard
+Maintainer: ✞ E L L E V Y C
 Author: CydiaGeek
 Section: Tweaks
 Depends: mobilesubstrate, preferenceloader, firmware(>=11.0)
@@ -181,7 +229,7 @@ Name: iCleaner Pro
 Version: 7.8.2
 Architecture:  iphoneos-arm
 Description: The first real iOS system cleaner & optimizer !
-Maintainer: Cathedrale is a wizard
+Maintainer: ✞ E L L E V Y C
 Author: Ivano Bilenchi
 Section: Utilities
 Depends: findutils, apt | apt7, firmware(>=4.0)
@@ -193,12 +241,79 @@ SHA1: f9455d6563cb600eca730a0fb884bf504b4b594c
 SHA256: 1c63b636491bf3f8ccf161c8dc5b97ad4feb94609bc6acf3f9f362871bcaba33
 Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.exile90.icleanerpro
 
+Package: com.exile90.icleanerpro
+Name: iCleaner Pro
+Version: 7.8.3~beta1
+Architecture:  iphoneos-arm
+Description: The first real iOS system cleaner & optimizer !
+Maintainer: ✞ E L L E V Y C
+Author: Ivano Bilenchi
+Section: Utilities
+Depends: findutils, apt | apt7, firmware(>=4.0)
+Conflits: org.altervista.exilecom.icleaner
+Filename: ./debs/com.exile90.icleanerpro_7.8.3~beta1_iphoneos-arm.deb
+Size: 5354314
+MD5sum: EAE9D04B64D7422FD36BF8EE0C4FE604
+SHA1: 99290B7A89A5FFF030DC9F9E601CA61F56794131
+SHA256: D27035A6204FFF5984BB53D37984F33F07546A0E6C627C97D04D2FC08ED42A70
+Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.exile90.icleanerpro
+
+Package: com.f0u4d.watusitools
+Name: WatusiTools
+Version: 2.1.22
+Architecture:  iphoneos-arm
+Description: Library for watusi and whatsapp tweaks
+Maintainer: ✞ E L L E V Y C
+Author: Fouad Raheb
+Section: Development
+Depends: firmware(>=9.0), darwintools
+Conflits: com.fouadraheb.watusi (<<1.1.5), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
+Filename: ./debs/com.f0u4d.watusitools_2.1.22_iphoneos-arm.deb
+Size: 13775920
+MD5sum: AAEC7FDBDA6476BD101070515F53EEA3
+SHA1: 988B599E1EA152B6FC772BCB7CBF05329BEE93AF
+SHA256: 044AEEBF99C87D3564C8E96740C698E368E56A011BF866C5860102DDE2EEB7F5
+Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.f0u4d.watusitools
+
+Package: com.fortysixandtwo.alkaline
+Name: Alkaline
+Version: 1.3
+Architecture:  iphoneos-arm
+Description: Themeable status bar battery replacement for iOS
+Maintainer: ✞ E L L E V Y C
+Author: magn2o
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>=7.0), preferenceloader
+Filename: ./debs/com.fortysixandtwo.alkaline_1.3_iphoneos-arm.deb
+Size: 172906
+MD5sum: 64917AA883C29938B125FAEF2F96491A
+SHA1: A4539F933A0E1CD055E9BDF3CA452E691E0E983A
+SHA256: 917E9C64A6E63E1610B971CB9E2817930B7D44770EAB7F73DD7288F6D2788D61
+Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.fortysixandtwo.alkaline
+
+Package: com.fouadraheb.watusi
+Name: Watusi 2 for WhatsApp
+Version: 1.2.41
+Architecture:  iphoneos-arm
+Description: The all-in-one tweak for WhatsApp Messenger !
+Maintainer: ✞ E L L E V Y C
+Author: Fouad Raheb
+Section: Tweaks
+Depends: firmware(>=9.0), mobilesubstrate (>=0.9.5000), preferenceloader, com.f0u4d.watusitools (>=2.1.21), com.rpetrich.rocketbootstrap, applist
+Conflits: com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Filename: ./debs/com.fouadraheb.watusi_1.2.41_iphoneos-arm.deb
+Size: 4787430
+MD5sum: 3E4D0A649B71CC3F27A8F85FD00EA784
+SHA1: 375B84B26B31FB74207BD0C69DCC5150BCCA2E1B
+SHA256: 4A2ED5C0E06E46FC7DF1B30E69F2330D9D276B445C464867674E9DD5EA2B06F9
+Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.fouadraheb.watusi
+
 Package: com.foxfort.zenumbra
 Name: Zenumbra
 Version: 1.0.1
 Architecture:  iphoneos-arm
 Description: Show number of installed packages per repo for Zebra !
-Maintainer: Cathedrale is a wizard
+Maintainer: ✞ E L L E V Y C
 Author: FoxfortMobile
 Section: Tweaks
 Depends: mobilesubstrate, firmware (>=11.0)
@@ -209,12 +324,28 @@ SHA1: 6c23d93caf00c889ec216ae5bbc8c226b3b5ec1f
 SHA256: 7290ec8f7e104a71be39724dc0c00ed8ab83ef6f64d5835f268eae7133833c33
 Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.foxfort.zenumbra
 
+Package: com.foxfort.zenumbra
+Name: Zenumbra
+Version: 1.0.3
+Architecture:  iphoneos-arm
+Description: Show number of installed packages per repo for Zebra !
+Maintainer: ✞ E L L E V Y C
+Author: FoxfortMobile
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>=11.0)
+Filename: ./debs/com.foxfort.zenumbra_1.0.3_iphoneos-arm.deb
+Size: 10908
+MD5sum: C60D3F65146866BD6F3F5F08318C4B8C
+SHA1: EEBB8220DF951866603FCA473DE448600339235B
+SHA256: 513EF6D4E46531F025A1CCDDB9C7C5A04F64F6CB3176C78830EB92943B1E205E
+Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.foxfort.zenumbra
+
 Package: com.gilesgc.cccalc
 Name: CCCalc
 Version: 1.1.2
 Architecture:  iphoneos-arm
 Description: Turn your calculator module into a real calculator
-Maintainer: Cathedrale is a wizard
+Maintainer: ✞ E L L E V Y C
 Author: gilesgc
 Section: Addons (ControlCenter)
 Depends: mobilesubstrate
@@ -225,15 +356,79 @@ SHA1: ebce9d8baec7448965596b07b508c70bb4cba58c
 SHA256: 70aefe25398a36d0e92dd0cb640302b86d71e08f7e8642b5b2fbc02651e38e2c
 Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.gilesgc.cccalc 
 
+Package: com.gilshahar7.exactime
+Name: ExactTime
+Version: 1.8
+Architecture:  iphoneos-arm
+Description: Shows the exact time of a notif !
+Maintainer: ✞ E L L E V Y C
+Author: gilshahar7
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: ./debs/com.gilshahar7.exacttime_1.8_iphoneos-arm.deb
+Size: 26418
+MD5sum: CAE92CEEE567020F3B4B0F497A7180AD
+SHA1: DC967296D9E1080CF1CC0408EB22E7C4FC52C947
+SHA256: BE36CDE6E1510094CA83C132EABCA39A6B1390757B42447331B8D73B51D1C75E
+Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.gilshahar7.exactime
+
+Package: com.gilshahar7.exactimephone
+Name: ExactTimePhone
+Version: 1.0-1+debug
+Architecture:  iphoneos-arm
+Description: Adds an exact time to the calls log in the stock phone app !
+Maintainer: ✞ E L L E V Y C
+Author: gilshahar7
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: ./debs/com.gilshahar7.exacttimephone_1.0-1+debug_iphoneos-arm.deb
+Size: 11684
+MD5sum: 752E3AC7F12DBE68A090E9B06CF2338E
+SHA1: 84B5D63156E352F51644AFE954F3AACEF01AEF54
+SHA256: D03AB4864D1DD677A3EB13053624CAF5969BAAFAED94094D31C6B1041527AE7F
+Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.gilshahar7.exactimephone
+
+Package: com.haoict.instanoads
+Name: Instagram No Ads
+Version: 1.1.0
+Architecture:  iphoneos-arm
+Description: Free and open source tweak for Instagram , Remove Ads
+Maintainer: ✞ E L L E V Y C
+Author: Hao Nguyen
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>=10.0), com.haoict.libhdev
+Filename: ./debs/com.haoict.instanoads_1.1.0_iphoneos-arm.deb
+Size: 64008
+MD5sum: E1E706A94F15B710225BFAC2CC7B5E2E
+SHA1: F746CF04B7D69C0F875DAF6E47AC1D73EF6944E4
+SHA256: 739ACCAB3BAFBCB2884E089A9AB8B13F0C9E19493064240245C828F0DC303E08
+Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.haoict.instanoads
+
+Package: com.haoict.libhdev
+Name: libhdev
+Version: 2.0.0
+Architecture:  iphoneos-arm
+Description: Developer library for better preferences and useful utilities.
+Maintainer: ✞ E L L E V Y C
+Author: Hao Nguyen
+Section: System
+Depends: mobilesubstrate, firmware (>=10.0), preferenceloader
+Filename: ./debs/com.haoict.libhdev_2.0.0_iphoneos-arm.deb
+Size: 57908
+MD5sum: FB4B934C2F94597A2938704E15A04006
+SHA1: 9127A4EB1E00871A452E0E2289D004E82C88B654
+SHA256: 709537B465FABBC0C044A97FF5FD0E1DDA476466155A249D1EBCBBD7AE177BB4
+Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.haoict.libhdev
+
 Package: com.haoict.redditnoads
 Name: Reddit No Ads
 Version: 0.0.1
 Architecture:  iphoneos-arm
 Description: Hide "promoted" post for Reddit app
-Maintainer: Cathedrale is a wizard
+Maintainer: ✞ E L L E V Y C
 Author: Hao Nguyen
 Section: Tweaks
-Depends: mobilesubstrate,  firmware (>=9.0)
+Depends: mobilesubstrate, firmware (>=9.0)
 Filename: ./debs/com.haoict.redditnoads_0.0.1_iphoneos-arm.deb
 Size: 4700
 MD5sum: b849188cad54c2ec2947f52115021b93
@@ -241,12 +436,28 @@ SHA1: f9b376e4ccf5320d54f4d03974ad797faff2d896
 SHA256: 782eb7aede48b986a06e17cab22b6cc194cb34d587a43b32f035153d40d2843e
 Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.haoict.redditnoads
 
+Package: com.haoict.redditnoads
+Name: Reddit No Ads
+Version: 1.0.0
+Architecture:  iphoneos-arm
+Description: Hide "promoted" post for Reddit app
+Maintainer: ✞ E L L E V Y C
+Author: Hao Nguyen
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>=10.0), com.haoict.libhdev (>=2.0.0), preferenceloader
+Filename: ./debs/com.haoict.redditnoads_1.0.0_iphoneos-arm.deb
+Size: 228814
+MD5sum: DBA5F0999FE0242B5560D7216AE0DECC
+SHA1: D6F5697FBE4E7C676DB81CAFE278D49160942CF8
+SHA256: CD02CBBC085B1B39154E752E94BB3C8F5AE3533A17A174F1540ABDB0CDDDBD36
+Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.haoict.redditnoads
+
 Package: com.haoict.twitternoads
 Name: Twitter No Ads
 Version: 0.0.2
 Architecture:  iphoneos-arm
 Description: Hide "promoted" post for Twitter app
-Maintainer: Cathedrale is a wizard
+Maintainer: ✞ E L L E V Y C
 Author: Hao Nguyen
 Section: Tweaks
 Depends: mobilesubstrate,  firmware (>=9.0)
@@ -257,12 +468,28 @@ SHA1: e768d5fabb2008a6031ffe91187e6d4646c73038
 SHA256: a659bbd85338220419ed433642f5fd684851357a925bdd77aeb0a2d75e63b6c7
 Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.haoict.twitternoads
 
+Package: com.haoict.twitternoads
+Name: Twitter No Ads
+Version: 1.2.1
+Architecture:  iphoneos-arm
+Description: Hide "promoted" post for Twitter app, Remove Ads, Hide who to follow section, Can save video (long press on video to save)
+Maintainer: ✞ E L L E V Y C
+Author: Hao Nguyen
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>=10.0), preferenceloader, com.haoict.libhdev (>=2.0.0)
+Filename: ./debs/com.haoict.twitternoads_1.2.1_iphoneos-arm.deb
+Size: 126952
+MD5sum: F5830FF1A485ADC78A0D464A845C433B
+SHA1: DC47B3BFA6EB6858BE363C78F7E21E8F5DC6FE0C
+SHA256: D55953C811A0AE7EF76F630FD0BCBE5D078929BBF632E7F8EE6234DCAA4E1D64
+Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.haoict.twitternoads
+
 Package: com.ichitaso.autobrightness11
 Name: AutoBrightnessToggle(CCSupport)
 Version: 0.1-4-1
 Architecture:  iphoneos-arm
 Description: Turn on/off Auto-Brightess from the control center
-Maintainer: Cathedrale is a wizard
+Maintainer: ✞ E L L E V Y C
 Author: ichitaso
 Section: Addons (ControlCenter)
 Depends: com.opa334.ccsupport, firmware (>=11.0)
@@ -278,7 +505,7 @@ Name: AutoLockToggle(CCSupport)
 Version: 0.1-3-1
 Architecture:  iphoneos-arm
 Description: Turn on/off Auto-Lock from the control center
-Maintainer: Cathedrale is a wizard
+Maintainer: ✞ E L L E V Y C
 Author: ichitaso
 Section: Addons (ControlCenter)
 Depends: com.opa334.ccsupport, firmware (>=11.0)
@@ -294,7 +521,7 @@ Name: LocationService(CCSupport)
 Version: 0.1-4-1
 Architecture:  iphoneos-arm
 Description: Turn on/off LocationService from the control center
-Maintainer: Cathedrale is a wizard
+Maintainer: ✞ E L L E V Y C
 Author: ichitaso
 Section: Addons (ControlCenter)
 Depends: com.opa334.ccsupport(>=1.2), firmware (>=11.0)
@@ -310,7 +537,7 @@ Name: PowerSelector(iOS11 to 13)
 Version: 1.2.6
 Architecture:  iphoneos-arm
 Description: The power supply relation of a device is operated
-Maintainer: Cathedrale is a wizard
+Maintainer: ✞ E L L E V Y C
 Author: ichitaso
 Section: Utilities
 Depends: com.opa334.ccsupport(>=1.2), firmware (>=11.0)
@@ -326,7 +553,7 @@ Name: CCLinker
 Version: 1.2.1
 Architecture:  iphoneos-arm
 Description: Open the settings pane for the CC Toogles by using gestures
-Maintainer: Cathedrale is a wizard
+Maintainer: ✞ E L L E V Y C
 Author: P2KDev
 Section: Addons (ControlCenter)
 Depends: mobilesubstrate, com.spark.libsparkapplist
@@ -342,7 +569,7 @@ Name: Wraith
 Version: 0.0.6
 Architecture:  iphoneos-arm
 Description: A sweet snapchat tweak
-Maintainer: Cathedrale is a wizard
+Maintainer: ✞ E L L E V Y C
 Author: Justin Carlson
 Section: Tweaks
 Depends: mobilesubstrate, firmware(>=8.0), com.aeonlucid.snaphide2(>=1.0.0)
@@ -353,12 +580,30 @@ SHA1: b36403875c12ddb175a7e38a84a3a0424460b961
 SHA256: e2fbbf0e15dc68f01f217d8b18689ae59948de2d71a2309cdb85c6ca98622bbd
 Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.ion.wraith
 
+Package: com.itaysoft.icaughtuxii
+Name: iCaughtU 12+
+Version: 2.1.1
+Architecture:  iphoneos-arm
+Description: The most complete tweak to enhance the security of your device
+Maintainer: ✞ E L L E V Y C
+Author: Itay
+Section: Tweaks
+Replaces: com.itaysoft.icaughtu, com.itaysoft.icaughtupro, com.itaysoft.icaughtupro8, com.itaysoft.icaughtupro9, com.itaysoft.icaughtupro10
+Depends: mobilesubstrate, preferenceloader, firmware (>=11.0), com.rpetrich.rocketbootstrap
+Conflicts: com.itaysoft.icaughtu, com.itaysoft.icaughtupro, com.itaysoft.icaughtupro8, com.itaysoft.icaughtupro9, com.itaysoft.icaughtupro10
+Filename: ./debs/com.itaysoft.icaughtuxii_2.1.1_iphoneos-arm.deb
+Size: 708536
+MD5sum: 9BC4FDF52458AF2A54046C2DC59C0E88
+SHA1: 190052B19943750D9B5B73B61821519AF5B882D5
+SHA256: 69644F3F671F49999F5F6528FACA7F535A0B471839465FE3B3806DD2F197EDCE
+Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.itaysoft.icaughtuxii
+
 Package: com.jailbreak365.safeccmodules
 Name: CCmodules
 Version: 1.5-1
 Architecture:  iphoneos-arm
 Description: Control center modules for iOS 11/12/13
-Maintainer: Cathedrale is a wizard
+Maintainer: ✞ E L L E V Y C
 Author: jailbreak365
 Section: Addons (ControlCenter)
 Filename: ./debs/com.jailbreak365.safeccmodules_1.5-1.deb
@@ -368,12 +613,60 @@ SHA1: bec6a4fa62d5fbd0ceb8e7798858a7b48959f816
 SHA256: f385f0f9ca371b8111b0eb1b859bcfbed61de9314ddf2d2a879008cd12a52a2a
 Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.jailbreak365.safeccmodules
 
+Package: com.jakeashacks.realcc
+Name: RealCC
+Version: 1.0.2
+Architecture:  iphoneos-arm
+Description: Disable wi-fi from the iOS CC
+Maintainer: ✞ E L L E V Y C
+Author: Jake James
+Section: Addons (ControlCenter)
+Depends: mobilesubstrate (>=0.9.5000), firmware (>=11.0)
+Filename: ./debs/com.jakeashacks.realcc_1.0.2_iphoneos-arm.deb
+Size:6600
+MD5sum: 24C5155F1D2B028B2CC1C5E8F2251EC4
+SHA1: CA5F4B511D7D99E6137ED2FEBE9B0DF770DCB86D
+SHA256: 14C50ED9ED21A4C56DFDAC085997085374F3BF32ECAF922B1BC5271AA3EC9ED6
+Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.jakeashacks.realcc
+
+Package: com.johnzaro.perfectreddit
+Name: PerfectReddit
+Version: 1.5
+Architecture:  iphoneos-arm
+Description: Remove Promoted Posts, Remove all suggestions and edit theme colors !
+Maintainer: ✞ E L L E V Y C
+Author: johnzaro
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker, ws.hbang.common (>=1.14), firmware (>=12.0)
+Filename: ./debs/com.johnzaro.perfectreddit_1.5_iphoneos-arm.deb
+Size:72976
+MD5sum: CF3A2AD6CC19B1090DFBB708BCEB96C5
+SHA1: 4BB93C0781301AA171B5D9DF3A5123520E2CB508
+SHA256: CB3D305B0FA9844E2ACDD0ABB7C0C0B441CCD7359297BDA836C80591006F8055
+Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.johnzaro.perfectreddit
+
+Package: com.julioverne.goodwifi
+Name: GoodWiFi
+Version: 0.0~beta5a
+Architecture:  iphoneos-arm
+Description: Better WiFi Preferences
+Maintainer: ✞ E L L E V Y C
+Author: julioverne
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.julioverne.goodwifi_0.0~beta5a_iphoneos-arm.deb
+Size:97784
+MD5sum: F2A089C39C03A94288E1EE486A95FB47
+SHA1: 0280CB3866D7602C6629744CED945376A89D4EE9
+SHA256: AB72A0CB5BB3FF6355A419220AC5B073FF171B4E8BA270EBB5D87BD4313C9B2F
+Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.julioverne.goodwifi
+
 Package: com.julioverne.mimport
 Name: MImport
 Version: 0.0~beta36a
 Architecture:  iphoneos-arm
 Description: Media importer directly from music app
-Maintainer: Cathedrale is a wizard
+Maintainer: ✞ E L L E V Y C
 Author: Julioverne
 Section: Utilities
 Depends: mobilesubstrate, firmware(>=6.0), unzip, unrar
@@ -389,7 +682,7 @@ Name: NtSpeed
 Version: 0.2~beta7
 Architecture:  iphoneos-arm
 Description: See Active Trafic network speed
-Maintainer: Cathedrale is a wizard
+Maintainer: ✞ E L L E V Y C
 Author: Julioverne
 Section: Tweaks
 Depends: mobilesubstrate, firmware(>=6.0), preferenceloader
@@ -405,7 +698,7 @@ Name: CCVibration
 Version: 1.0.1
 Architecture:  iphoneos-arm
 Description: Control center module to enable/disable vibration
-Maintainer: Cathedrale is a wizard
+Maintainer: ✞ E L L E V Y C
 Author: KingPuffdaddi
 Section: Addons (ControlCenter)
 Depends: mobilesubstrate(>=0.9.5000), firmware(>=11.0), com.opa334.ccsupport
@@ -421,7 +714,7 @@ Name: PrefixUI
 Version: 1.2.6
 Architecture:  iphoneos-arm
 Description: An awesome framework of some sort
-Maintainer: Cathedrale is a wizard
+Maintainer: ✞ E L L E V Y C
 Author: LaughingQuoll
 Section: System
 Depends: me.nepeta.libcolorpicker, com.spark.libsparkapplist
@@ -437,7 +730,7 @@ Name: ReProvision
 Version: 0.5.2-EOL
 Architecture:  iphoneos-arm
 Description: Re-sign applications on your device !
-Maintainer: Cathedrale is a wizard
+Maintainer: ✞ E L L E V Y C
 Author: Matt Clarke
 Section: System
 Depends: firmware (>=9.0)
@@ -448,12 +741,29 @@ SHA1: 898f3cabd61b55cd1bfae80b92f5e385491ccd89
 SHA256: 596c4a544ddd272e99f384a51722b68ed03e261f553f3304caba94e0ac936e49
 Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.matchstic.reprovision
 
+Package: com.matchstic.xenhtml
+Name: Xen HTML
+Version: 2.0~beta2.1
+Architecture:  iphoneos-arm
+Description: Unified HTML rendering; lockscreen and homescreen !
+Maintainer: ✞ E L L E V Y C
+Author: Matt Clarke
+Section: System
+Provides: com.groovycarrot.groovylock, com.bushe.lockhtml4, com.bushe.lockhtml3, com.bushe.lockhtml2, cydget, com.groovycarrot.sbhtml, com.junesiphone.xeninfo, com.modmyi.widgetweather3
+Depends: firmware (>=9.0), mobilesubstrate, preferenceloader, firmware(>=11.0) | com.unlimapps.uaunbox
+Filename: ./debs/com.matchstic.xenhtml_2.0~beta2.1_iphoneos-arm.deb
+Size: 6474506
+MD5sum: D6CA5513926DB0CDE48A9F5E39EC4E38
+SHA1: B293FD804667BB88D50D449A9523CD2E4241E74B
+SHA256: 764CE9ABC05808C20DED3A1A4FD88967C73FB7AC45CBC88508850810BC474D49
+Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.matchstic.xenhtml
+
 Package: com.midnightchips.bettersettings
 Name: BetterSettings
 Version: 0.1.3
 Architecture:  iphoneos-arm
 Description: Settings your way
-Maintainer: Cathedrale is a wizard
+Maintainer: ✞ E L L E V Y C
 Author: midnightchips
 Section: Tweaks
 Depends: mobilesubstrate, com.muirey03.libimagepicker, com.creaturesurvive.libcscolorpicker, com.creaturecoding.libcspreferences, org.thebigboss.libcolorpicker
@@ -469,7 +779,7 @@ Name: Clean Tab
 Version: 0.0.2
 Architecture:  iphoneos-arm
 Description: Remove iOS Tab Bar Labels
-Maintainer: Cathedrale is a wizard
+Maintainer: ✞ E L L E V Y C
 Author: midnightchips
 Section: Tweaks
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap, applist, ws.hbang.common (>=1.11)
@@ -480,12 +790,44 @@ SHA1: fd7690fac81adb0fc0b6d25c7813cb8e893743d8
 SHA256: 1d85d8eb61ae4144d6606bc5d5bf550f67c31004d583de9b1458109c147e0f09
 Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.midnightchips.cleantab
 
+Package: com.mom.11
+Name: Color System
+Version: 1.1
+Architecture:  iphoneos-arm
+Description: An awesome mobilesubstrate tweak !
+Maintainer: ✞ E L L E V Y C
+Author: mostafa89
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: ./debs/com.mom.11_1.1_iphoneos-arm.deb
+Size: 90292
+MD5sum: 777392202B426DCCC4CEC16665EEC097
+SHA1: 20EF48F5B3CD95532FEE270A63C97B3811C94F79
+SHA256: 8874C08C7338B37444B80D3A1E5E48CDE63280117FC37891F849B9449B8AAFAD
+Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.mom.11
+
+Package: com.mtac.ctf
+Name: CaptureTheFlag
+Version: 1.0.2
+Architecture:  iphoneos-arm
+Description: Stop the Sindhi string bug from freezing your device !
+Maintainer: ✞ E L L E V Y C
+Author: MTAC
+Section: Tweaks
+Depends: mobilesubstrate, firmware(>=11.0)
+Filename: ./debs/com.mtac.ctf_1.0.2_iphoneos-arm.deb
+Size: 10374
+MD5sum: 4AC3319B371EDC171C7C9C9F31703BCC
+SHA1: 76E41A088C102324BFA4EBBF4F72D55452BA93B6
+SHA256: E67161F47D562DF1BFE1448EA10E51CF4BF62A50575346975E5424764477B028
+Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.mtac.ctf
+
 Package: com.opa334.ccsupport
 Name: CCSupport
 Version: 1.2.2
 Architecture:  iphoneos-arm
 Description: Support tweak for CC modules
-Maintainer: Cathedrale is a wizard
+Maintainer: ✞ E L L E V Y C
 Author: opa334
 Section: Tweaks
 Depends: mobilesubstrate, firmware(>=11.0)
@@ -496,12 +838,28 @@ SHA1: 39adc47176ff48dcb495804891fdaef9a453ae18
 SHA256: e41dd7d92ff44770680bec46c0badc8fd815b3b85884b85106a2a9e363e1a17a
 Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.opa334.ccsupport
 
+Package: com.opa334.safariplus
+Name: Safari Plus
+Version: 1.7.12
+Architecture:  iphoneos-arm
+Description: Various enhancements to Safari !
+Maintainer: ✞ E L L E V Y C
+Author: opa334
+Section: Tweaks
+Depends: mobilesubstrate (>=0.9.5000), preferenceloader, ws.hbang.common, com.creaturesurvive.libcscolorpicker, com.rpetrich.rocketbootstrap, firmware(>=8.0)
+Filename: ./debs/com.opa334.safariplus_1.7.12_iphoneos-arm.deb
+Size: 1873554
+MD5sum: 7BFF085BF6AF600FFEE1E26E6D0868AB
+SHA1: 651AAEFD234D78E72DDD24B7A99FEC0306CFA019
+SHA256: BDD0790EA3EE231198FBE0DB2ACB1A1CEBE44AA66F3FB97A6D3EB25ADA8E1384
+Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.opa334.safariplus
+
 Package: com.orangebananaspy.nudekeysios12
 Name: NudeKeys (iOS 12)
 Version: 1.0.0~b8
 Architecture:  iphoneos-arm
 Description: Strip those sexy keys!
-Maintainer: Cathedrale is a wizard
+Maintainer: ✞ E L L E V Y C
 Author: Orangebananaspy
 Section: Tweaks
 Depends: mobilesubstrate, preferenceloader, firmware(>=12.0)
@@ -518,7 +876,7 @@ Name: TweakReviewsDB
 Version: 0.6
 Architecture:  iphoneos-arm
 Description: Review and rate packages
-Maintainer: Cathedrale is a wizard
+Maintainer: ✞ E L L E V Y C
 Author: PixelOmer
 Section: Tweaks
 Depends: mobilesubstrate, firmware(>=8.0)
@@ -535,7 +893,7 @@ Name: CleanTabs
 Version: 1.1
 Architecture:  iphoneos-arm
 Description: Hide Labels of the Tab-Buttons
-Maintainer: Cathedrale is a wizard
+Maintainer: ✞ E L L E V Y C
 Author: ROwDrunner
 Section: Tweaks
 Depends: mobilesubstrate
@@ -551,7 +909,7 @@ Name: MinimalXI 2
 Version: 1.1
 Architecture:  iphoneos-arm
 Description: Minimal system ui editor
-Maintainer: Cathedrale is a wizard
+Maintainer: ✞ E L L E V Y C
 Author: ROwDrunner
 Section: Tweaks
 Depends: mobilesubstrate, ws.hbang.common(>=1.11)
@@ -562,12 +920,92 @@ SHA1: d6e3b5df6549302b4376f0258f9c4c8e498e174f
 SHA256: 4f0d4f38282db28be2afaeb65fdd926b4b8dc4d9aeb2dac8690e8c872e9b9f8e
 Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.r0wdrunner.minimalxi2
 
+Package: com.rpgfarm.a-font
+Name: A-Font
+Version: 1.7.1
+Architecture:  iphoneos-arm
+Description: Change your font
+Maintainer: ✞ E L L E V Y C
+Author: Baw Appie
+Section: Tweaks
+Depends: mobilesubstrate, applist (>=1.5.15~beta1)
+Filename: ./debs/com.rpgfarm.a-font_1.7.1_iphoneos-arm.deb
+Size: 825756
+MD5sum: DFC8E8B216769C338B783E875041261B
+SHA1: 318625D546461765171AD2631A6E8FF1F4E6F5C5
+SHA256: 59B20321756FB886B13EEBCE10A480ECDDE5152691DF2CB5A039477EA22EA33F
+Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.rpgfarm.a-font
+
+Package: com.shepgoba.colorscroll
+Name: ColorScroll
+Version: 1.0.1
+Architecture:  iphoneos-arm
+Description: Color your scroll indicator
+Maintainer: ✞ E L L E V Y C
+Author: shepgoba
+Section: Tweaks
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker (>=1.6.3) | me.nepeta.libcolorpicker
+Filename: ./debs/com.shepgoba.colorscroll_1.0.1_iphoneos-arm.deb
+Size: 29428
+MD5sum: 460517C9A30C35BF3010781869D56CA0
+SHA1: 514D44647B4924B70D87E764F07C03A33202F4FA
+SHA256: 1FDBE09F3182FA6A072005C66FCB3C30ED4745CCEAFE44482D8DDFBBDFC72383
+Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.shepgoba.colorscroll
+
+Package: com.spark.ccmusicartwork
+Name: CCMusicArtwork
+Version: 2.2.0
+Architecture:  iphoneos-arm
+Description: Shows album artwork behind the music module
+Maintainer: ✞ E L L E V Y C
+Author: Spark
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: ./debs/com.spark.ccmusicartwork_2.2.0_iphoneos-arm.deb
+Size: 282782
+MD5sum: 3DE0620E3BD7FFAEA79C10B2D668531B
+SHA1: 83BCC8300302F264048770594A36E06312CE0C10
+SHA256: C59D8C34CE49B949730C07D000CBB1FFC94893668C135449ED66AE02B6649A28
+Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.spark.ccmusicartwork
+
+Package: com.spark.doubletaplock
+Name: DoubleTapLock
+Version: 2.0.0
+Architecture:  iphoneos-arm
+Description: Double tap homescreen wallpaper to lock device
+Maintainer: ✞ E L L E V Y C
+Author: Spark
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.spark.doubletaplock_2.0.0_iphoneos-arm.deb
+Size: 80860
+MD5sum: BA3517E65D904648AEB1530E8D4D36F6
+SHA1: 6171AE8AEAAB3BEB37EA6AB17C5203634E9A4E21
+SHA256: 080CFD34FD28210097D789345629C57C4108EE4DB784BF8D9D6C40E16B2790D9
+Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.spark.doubletaplock
+
+Package: com.spark.lowbatterybanner
+Name: LowBatteryBanner
+Version: 1.0.2
+Architecture:  iphoneos-arm
+Description: Replace low power alert with a banner notification !
+Maintainer: ✞ E L L E V Y C
+Author: Spark
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: ./debs/com.spark.lowbatterybanner_1.0.2_iphoneos-arm.deb
+Size: 12790
+MD5sum: 330EFA70127CB86B0948998851D34AE3
+SHA1: 17DEDAB6318BDAEF582B69A5A1B6AD28384A21F9
+SHA256: D71CDE6493C8930E4CEADD03F653A1A1E447B9D5DCBCEF79B89B64BFD0489D4B
+Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.spark.lowbatterybanner
+
 Package: com.spark.snowboard.ui
 Name: Snowboard UI Extension
 Version: 1.0.0~beta1
 Architecture:  iphoneos-arm
 Description: UI Extension for Snowboard
-Maintainer: Cathedrale is a wizard
+Maintainer: ✞ E L L E V Y C
 Author: Spark
 Section: Addons(Snowboard)
 Depends: mobilesubstrate, com.spark.snowboard(>>1.2.22), com.thuthuatjb.iconrepo
@@ -578,12 +1016,44 @@ SHA1: e4d1d2bcb2607441d985d41f42aaff9da05daa16
 SHA256: d730de22a426c977e22ea54f70daf45c21e8f03b4e3fb5f4b1a8a2210207949f
 Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.spark.snowboard.ui
 
+Package: com.thecasle.nine
+Name: Nine
+Version: 0.2.5
+Architecture:  iphoneos-arm
+Description: Reworks the notification center
+Maintainer: ✞ E L L E V Y C
+Author: Jake kaslwiez
+Section: Tweaks
+Depends: mobilesubstrate (>=0.9.5000), preferenceloader, ws.hbang.common (>=1.12), org.thebigboss.libcolorpicker, firmware (>=11.0)
+Filename: ./debs/com.thecasle.nine_0.2.5_iphoneos-arm.deb
+Size: 1483592
+MD5sum: 1F19F8DFF12910DBCF210DE2C84AF80D
+SHA1: B8AC20DBCB511DEB92A23802A75BC76238CCEFD5
+SHA256: 387185BD8B067C99BD5E637F4EFBCCBD89DB37977749F504F99B55791864FA2D
+Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.thecasle.nine
+
+Package: com.twickd.t0mi.cydiaplus
+Name: CydiaPlus
+Version: 1.2
+Architecture:  iphoneos-arm
+Description: The only tweak you need for Cydia
+Maintainer: ✞ E L L E V Y C
+Author: t0mi
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: ./debs/com.twickd.t0mi.cydiaplus_1.2_iphoneos-arm.deb
+Size: 91104
+MD5sum: 6DAD10E066DFEA54D4ACAAB6FFBAD269
+SHA1: 4D0342FDB8E27ADCB06B86F98E53CF1147AEB96B
+SHA256: 508462778F93BD9F9311398EA7F339BA1C7854DF95F7C25657F10D4C514D64A7
+Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.twickd.t0mi.cydiaplus
+
 Package: com.twttrvideodl
 Name: twttrVideoDL
 Version: 1.0
 Architecture:  iphoneos-arm
 Description: Download Twitter Videos
-Maintainer: Cathedrale is a wizard
+Maintainer: ✞ E L L E V Y C
 Author: Aesthyrica
 Section: Tweaks
 Depends: mobilesubstrate
@@ -599,7 +1069,7 @@ Name: HomeGesture
 Version: 2.1.4
 Architecture:  iphoneos-arm
 Description: Enable iphone X home gesture on other devices
-Maintainer: Cathedrale is a wizard
+Maintainer: ✞ E L L E V Y C
 Author: VitaTaf/MidnightChips/PINPAL
 Section: Tweaks
 Depends: mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker, org.thebigboss.libcolorpicker, firmware(>=11.0), com.spark.libsparkapplist
@@ -615,7 +1085,7 @@ Name: NoNCHeaderView
 Version: 1.0.0
 Architecture:  iphoneos-arm
 Description: Hide notification center header label on iOS 12!
-Maintainer: Cathedrale is a wizard
+Maintainer: ✞ E L L E V Y C
 Author: CydiaGeek
 Section: Tweaks
 Depends: mobilesubstrate
@@ -631,7 +1101,7 @@ Name: Redeb
 Version: 1.3.7
 Architecture:  iphoneos-arm
 Description: Repackage any of your tweaks locally!
-Maintainer: Cathedrale is a wizard
+Maintainer: ✞ E L L E V Y C
 Author: DYA37 and T.Herak
 Section: Utilities
 Depends: bash(>=4.0.17-13), coreutils(>=8.12-12p), grep(>=2.5.4-3), sed(>=4.1.5-7), gawk(>=3.1.6-2p), apt7(>=0.7.25.3-6)
@@ -642,12 +1112,72 @@ SHA1: dfdac9cc58eecf95a5ed21fdfcb29cb1a3496e1c
 SHA256: 5d6a228438815c4fb436a42e22d50c790bfe5b76a1b4c474e507177690dbe5cf
 Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.yourepo.dya37.redeb
 
+Package: github.io.gfp.piui
+Name: Pik UI
+Version: 1.0
+Architecture:  iphoneos-arm
+Description: A clean & Faded Look to your Phone by Theming UI
+Maintainer: ✞ E L L E V Y C
+Author: Devy_Design
+Section: Themes
+Filename: ./debs/github.io.gfp.pikui_1.0_iphoneos-arm.deb
+Size: 797336
+MD5sum: 83344890D956FA0D6D736EB719AAA7A6
+SHA1: B6595D07C6B4B64ECBCA1ED4106DDA5F3D8585D3
+SHA256: B7A91C4B7D385E2C17BAEE371C9C0B3BB2F2A7B80DE594F7CDE6786ABE955752
+Depiction: https://elprofesor1160.github.io/killem/depictions/?p=github.io.gfp.piui
+
+Package: in.net.mario.tweak.fixappadmin
+Name: aFixToAppAdmin
+Version: 1.0.2.3
+Architecture:  iphoneos-arm
+Description: try to fix App Admin crash when update on iOS 12.2~13.5
+Maintainer: ✞ E L L E V Y C
+Author: Mario Cheung
+Section: Tweaks
+Filename: ./debs/in.net.mario.tweak.fixappadmin_1.0.2.3_iphoneos-arm.deb
+Size: 8218
+MD5sum: E0A07D4AA396089FAEC955BC6BA61B49
+SHA1: 9AE3E62B7ACDED309179705DE027CDEB51C9EED2
+SHA256: D4B2CF1A22137A3BC15964C0823B2148155565BE8D221D819CC2037A9CF33443
+Depiction: https://elprofesor1160.github.io/killem/depictions/?p=in.net.mario.tweak.fixappadmin
+
+Package: it.dreamcode.ft
+Name: FingerTouch
+Version: 0.0.6b2
+Architecture:  iphoneos-arm
+Description: Touch ID gestures
+Maintainer: ✞ E L L E V Y C
+Author: Michele Primavera
+Section: Tweaks
+Filename: ./debs/it.dreamcode.ft_0.0.6b2_iphoneos-arm.deb
+Size: 27206
+MD5sum: 8024C4011E7AB6F9D0D56E4C0E5419D4
+SHA1: B4EF8AE53AA52C679C06D3E1D4636B257FA05EEA
+SHA256: F4DCFA058211924B5A897775BA6B414ACCE171058F9700F6D9B26BB4627BA205
+Depiction: https://elprofesor1160.github.io/killem/depictions/?p=it.dreamcode.ft
+
+Package: jp.r-plus.menusupport
+Name: MenuSupport
+Version: 1.0
+Architecture:  iphoneos-arm
+Description: Simply plugin loader for iOS system menu
+Maintainer: ✞ E L L E V Y C
+Author: r_plus
+Section: Tweaks
+Filename: ./debs/jp.r-plus.menusupport_1.0_iphoneos-arm.deb
+Size: 47476
+MD5sum: 567FED462358D29F8349896D5CBEFF57
+SHA1: 31BACD6DDBB1AE08434D523BB2E817E93A5EC78F
+SHA256: 158214ADB005FEA58A66BB462A63C31B672E3B0712E620B56CB6C670B9C433D6
+Depiction: https://elprofesor1160.github.io/killem/depictions/?p=jp.r-plus.menusupport
+
 Package: me.kritanta.homeplus
 Name: HomePlus~Beta
 Version: 0.4.9~beta
 Architecture:  iphoneos-arm
 Description: Dynamic, live homescreen layout with an intuitive UI
-Maintainer: Cathedrale is a wizard
+Maintainer: ✞ E L L E V Y C
 Author: Kritanta
 Section: Tweaks
 Depends: mobilesubstrate
@@ -658,12 +1188,29 @@ SHA1: 0b157a4fad9238a8867e9189995769b19eef572f
 SHA256: 420ce9f52e148a17ce65b7fa36f211b50cc0c33543698f65075ba7bba2b14ce6
 Depiction: https://elprofesor1160.github.io/killem/depictions/?p=me.kritanta.homeplus
 
+Package: me.nepeta.begonecia-11
+Name: BegoneCIA (iOS11, 12, 13)
+Version: 0.3.2
+Architecture:  iphoneos-arm
+Description: CC toogle to disable microphone, camera and GPS
+Maintainer: ✞ E L L E V Y C
+Author: Nepeta 
+Section: Tweaks
+Depends: mobilesubstrate, com.opa334.ccsupport, ws.hbang.common (>=1.11), firmware (>=11.0), applist
+Conflicts: me.nepeta.begonecia-10
+Filename: ./debs/me.nepeta.begonecia-11_0.3.2_iphoneos-arm.deb
+Size: 82734
+MD5sum: AC42906F50BBAFF43D31D9ADDA54C5EC
+SHA1: 3A3CB47BC0EAF5A5F1EC7F00C5E2FBAB3EB84CA1
+SHA256: 58DC4CCADEFD4609CDF01E6695ABA36B147ABAE30A9887C0F04064D5D74E3554
+Depiction: https://elprofesor1160.github.io/killem/depictions/?p=me.nepeta.begonecia-11
+
 Package: me.nepeta.libnepeta
 Name: libnepeta
 Version: 0.1.1-2+debug
 Architecture:  iphoneos-arm
 Description: Nepeta's color utils
-Maintainer: Cathedrale is a wizard
+Maintainer: ✞ E L L E V Y C
 Author: Nepeta
 Section: Development (Nepeta)
 Filename: ./debs/me.nepeta.libnepeta_0.1.1-2+debug_iphoneos-arm.deb
@@ -678,7 +1225,7 @@ Name: Nereid
 Version: 0.1.8-1
 Architecture:  iphoneos-arm
 Description: LockScreen music player redesign
-Maintainer: Cathedrale is a wizard
+Maintainer: ✞ E L L E V Y C
 Author: Nepeta
 Section: Tweaks
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), me.nepeta.libcolorpicker | org.thebigboss.libcolorpicker (>= 1.6.3), me.nepeta.libnepeta, firmware (>= 11.0)
@@ -694,7 +1241,7 @@ Name: Notifica
 Version: 0.3.1
 Architecture:  iphoneos-arm
 Description: Notification customizer
-Maintainer: Cathedrale is a wizard
+Maintainer: ✞ E L L E V Y C
 Author: Nepeta
 Section: Tweaks
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), me.nepeta.libcolorpicker | org.thebigboss.libcolorpicker (>= 1.6.3), me.nepeta.libnepeta, firmware (>= 11.0)
@@ -710,7 +1257,7 @@ Name: Selector
 Version: 0.1.3
 Architecture:  iphoneos-arm
 Description: Select text to search or translate
-Maintainer: Cathedrale is a wizard
+Maintainer: ✞ E L L E V Y C
 Author: Nepeta
 Section: Tweaks
 Depends: mobilesubstrate, ws.hbang.common(>=1.11), firmware(>=11.0)
@@ -726,7 +1273,7 @@ Name: Unsub
 Version: 0.1.9
 Architecture:  iphoneos-arm
 Description: Disable tweak injection(Substrate/Substitute) in certain apps!
-Maintainer: Cathedrale is a wizard
+Maintainer: ✞ E L L E V Y C
 Author: Nepeta
 Section: Tweaks
 Depends: mobilesubstrate, ws.hbang.common(>=1.11), applist, firmware(>=9.0)
@@ -742,7 +1289,7 @@ Name: NewGridSwitcher
 Version: 1.1.0
 Architecture:  iphoneos-arm
 Description: A grid switcher on iOS 11 and above
-Maintainer: Cathedrale is a wizard
+Maintainer: ✞ E L L E V Y C
 Author: relative
 Section: Tweaks
 Depends: mobilesubstrate(>=0.9.5000), firmware(>=11.0)
@@ -758,7 +1305,7 @@ Name: Moveable12
 Version: 1.0.0~beta29~32
 Architecture:  iphoneos-arm
 Description: Arrange statusbar icons!
-Maintainer: Cathedrale is a wizard
+Maintainer: ✞ E L L E V Y C
 Author: Josh Harris(tateu)
 Section: Tweaks
 Depends: mobilesubstrate, firmware(>=11.0), preferenceloader
@@ -775,7 +1322,7 @@ Name: PhotoData12
 Version: 1.0.0~beta19~3
 Architecture:  iphoneos-arm
 Description: View photo exif data and Video data in the photoApp
-Maintainer: Cathedrale is a wizard
+Maintainer: ✞ E L L E V Y C
 Author: Josh Harris(tateu)
 Section: Tweaks
 Depends: mobilesubstrate, firmware(>=11.0), preferenceloader
@@ -787,12 +1334,140 @@ SHA1: 3a6118086566ba39f73d617c18edd732705c8aa9
 SHA256: 798bd9ddf04778687a6578db673c15249dbac3e7ac5f1fb6ab41d6dd8955ecc1
 Depiction: https://elprofesor1160.github.io/killem/depictions/?p=net.tateu.photodata12
 
+Package: org.mr.instalauncher2
+Name: InstaLauncher 2
+Version: 1.7.1
+Architecture:  iphoneos-arm
+Description: Access ANY app instantly
+Maintainer: ✞ E L L E V Y C
+Author: Jonathan Winger Lang
+Section: Tweaks
+Depends: mobilesubstrate, firmware(>=12.1), preferenceloader, applist (>=1.5.15)
+Conflicts: com.jontelang.instalauncher2.beta
+Filename: ./debs/org.mr.instalauncher2_1.7.1_iphoneos-arm.deb
+Size: 346904
+MD5sum: C32E413C82B87D430853F237F9FEB5F6
+SHA1: 2402874568FEAFF116A97C6A448704450A9883F8
+SHA256: 45520A1E7D3690CE33B38499AB9FB5FE2B310B447D31752F9C1737B7034FD530
+Depiction: https://elprofesor1160.github.io/killem/depictions/?p=org.mr.instalauncher2
+
+Package: org.mr.lyre
+Name: LyreCC
+Version: 1.1
+Architecture:  iphoneos-arm
+Description: Premium & well designed CC icons !
+Maintainer: ✞ E L L E V Y C
+Author: Bousrik
+Section: Themes
+Filename: ./debs/org.mr.lyre_1.1_iphoneos-arm.deb
+Size: 3183424
+MD5sum: 2B2E9B8BCCD397CDC0EC8230271F0D06
+SHA1: A3E2477580C9631CA5637B340BDBC6C718A4CD41
+SHA256: A7B06C295BD200FE5FFEE23AF86245053B7B9E48C6C90ED092444E9DC6663E36
+Depiction: https://mainrepo.org/package/497
+
+Package: org.mr.magamaevo
+Name: Magma Evo
+Version: 2.0.1
+Architecture:  iphoneos-arm
+Description: Redefine your Control Center !
+Maintainer: ✞ E L L E V Y C
+Author: NoisyFlake
+Section: Themes
+Filename: ./debs/org.mr.magmaevo_2.0.1_iphoneos-arm.deb
+Size: 1455980
+MD5sum: 83E9C7377D97C23BD5A57E90235A60D3
+SHA1: 71930F3E88896388EAD2214D51017A6E36C700AA
+SHA256: C86ED6550C23D8BEAA68505D5D025DFAD30908C711775866F914C3A9FB975D1D
+Depiction: https://mainrepo.org/index.php?pid=94
+
+Package: org.mr.smartnetwork
+Name: SmartNetwork
+Version: 1.0.8-1k
+Architecture:  iphoneos-arm
+Description: Having a smartphone is useless without smart features and functions !
+Maintainer: ✞ E L L E V Y C
+Author: elias
+Section: Tweaks
+Depends: mobilesubstrate, net.limneos.libbulletin, com.spark.libsparkapplist, ws.hbang.common
+Filename: ./debs/org.mr.smartnetwork_1.0.8-1k_iphoneos-arm.deb
+Size: 286512
+MD5sum: 6C61C7F0FF74C16E13C3EDE76693852F
+SHA1: 781F48F06D62DE7950705B22E367D8BC378067D2
+SHA256: 7B1C8812D6A16922A88E3D65919D85B30C87057931ECA50ED9E96699898481EE
+Depiction: https://mainrepo.org/package/702
+
+Package: org.mr.sonus12
+Name: Sonus12
+Version: 1.2.0-1k
+Architecture:  iphoneos-arm
+Description: Having a smartphone is useless without smart features and functions !
+Maintainer: ✞ E L L E V Y C
+Author: ubik
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, me.nepeta.libcolorpicker
+Conflicts: org.fwdr.sonus
+Filename: ./debs/org.mr.sonus12_1.2.0-1k_iphoneos-arm.deb
+Size: 122270
+MD5sum: CF40E46C8E52C3EA7DFE3CBFE979B5CA
+SHA1: 82ED06B426BE53CCB9E6E7054DEAC61427D75DB0
+SHA256: A5664E92B7FD850D7BFE2EFDC377AC1FEC1ACFCF22C9CB37FDE6D0F8F3828DF9
+Depiction: https://mainrepo.org/index.php?pid=288
+
+Package: ru.rejail.carbon
+Name: Carbon Dark Mode
+Version: 1.5
+Architecture:  iphoneos-arm
+Description: Dark Mode for iphone
+Maintainer: ✞ E L L E V Y C
+Author: OxideLabs
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist, com.opa334.ccsupport, com.rpetrich.rocketbootstrap
+Filename: ./debs/ru.rejail.carbon_1.5_iphoneos-arm.deb
+Size: 132298
+MD5sum: 6D155E00A725474979D1A74F70CA56E0
+SHA1: ED446EAE74370093D1462CFE3B231B626B7CF7A1
+SHA256: DAF3DAC393EDE5A5F774E0A49F2829018E67FB8EACF795CC9F61780D3508563B
+Depiction: https://elprofesor1160.github.io/killem/depictions/?p=ru.rejail.carbon
+
+Package: ru.rejail.limneosos
+Name: ✞ E L L E V Y C
+Version: 2.0.2
+Architecture:  iphoneos-arm
+Description: Tuez tous les trucs de Limneos hahaha !
+Maintainer: Cathedrale is a wizard
+Author: ✞ E L L E V Y C
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: ./debs/ru.rejail.limneosos_2.0.2_iphoneos-arm.deb
+Size: 36140
+MD5sum: 65371BF089FA9697AA8E7BC6980D6890
+SHA1: D1CA85C2529EA41D31E9FFB253C1F59B09D3201F
+SHA256: 75BBD041105D834A9DD5C90C0E82EA0B856C3576F5DB35A4F2B3DB984C049815
+Depiction: https://elprofesor1160.github.io/killem/depictions/?p=ru.rejail.limneosos
+
+Package: ru.rejail.switchus
+Name: Switchus
+Version: 1.5.1
+Architecture:  iphoneos-arm
+Description: Make a good things !
+Maintainer: ✞ E L L E V Y C
+Author: SynnyG
+Section: Tweaks
+Depends: mobilesubstrate, applist, preferenceloader, ws.hbang.common (>=1.11), firmware (>=11.0)
+Filename: ./debs/ru.rejail.switchus_1.5.1_iphoneos-arm.deb
+Size: 317308
+MD5sum: 79D5C46189AE6837CD02BE67C34CABB8
+SHA1: 941A10FA01AEE78BF827220BC681734E78AAD41D
+SHA256: 5F69238F41C76368BF6B4906A8B8BEE612E5CA5A29B82DB4CC609F8D1D3E1092
+Depiction: https://elprofesor1160.github.io/killem/depictions/?p=ru.rejail.switchus
+
 Package: tk.ethanrdoesmc.translucencyparallax
 Name: Translucency Parallax
 Version: 0.1.8-EarlyAcess-1+debug
 Architecture:  iphoneos-arm
 Description: Make your apps translucent. Add a personnal touch to iOS.
-Maintainer: Cathedrale is a wizard
+Maintainer: ✞ E L L E V Y C
 Author: EthanRDoesMC
 Section: Tweaks
 Depends: mobilesubstrate | substitute, applist
@@ -802,6 +1477,22 @@ MD5sum: 2e58a5345b38aae8c8b6e95fa52a98e3
 SHA1: 1c9da471ea34cc0faee9ecf9f999dcf26c4fe58e
 SHA256: 32a2d16b1fa227e4efb914898334445f287c36d9d1616edbaaa949e502df9f13
 Depiction: https://elprofesor1160.github.io/killem/depictions/?p=tk.ethanrdoesmc.translucencyparallax
+
+Package: xyz.royalapps.cleanhomescreen
+Name: CleanHomeScreen
+Version: 1.0.4
+Architecture:  iphoneos-arm
+Description: Remove all the clutter from your home screen and lock screen !
+Maintainer: ✞ E L L E V Y C
+Author: Justin Proulx
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/xyz.royalapps.cleanhomescreen_1.0.4_iphoneos-arm.deb
+Size: 32608
+MD5sum: BAB1BE9C128A0C698DFA5DA8ADFC0141
+SHA1: CA6B82EA99C6822531B89562146E07D5B484AE87
+SHA256: DA724CE6B83164C74B2E73FC30E168EF58DCDF9EC341B3C884F1A8BADFDEFD83
+Depiction: https://elprofesor1160.github.io/killem/depictions/?p=xyz.royalapps.cleanhomescreen
 
 Package: me.conorthedev.peep
 Version: 1.0
