@@ -356,7 +356,7 @@ SHA1: ebce9d8baec7448965596b07b508c70bb4cba58c
 SHA256: 70aefe25398a36d0e92dd0cb640302b86d71e08f7e8642b5b2fbc02651e38e2c
 Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.gilesgc.cccalc 
 
-Package: com.gilshahar7.exactime
+Package: com.gilshahar7.exacttime
 Name: ExactTime
 Version: 1.8
 Architecture:  iphoneos-arm
@@ -372,7 +372,7 @@ SHA1: DC967296D9E1080CF1CC0408EB22E7C4FC52C947
 SHA256: BE36CDE6E1510094CA83C132EABCA39A6B1390757B42447331B8D73B51D1C75E
 Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.gilshahar7.exactime
 
-Package: com.gilshahar7.exactimephone
+Package: com.gilshahar7.exacttimephone
 Name: ExactTimePhone
 Version: 1.0-1+debug
 Architecture:  iphoneos-arm
@@ -693,7 +693,7 @@ SHA1: 5c3de4df487731ae2a2707d9c5c349c0a0e93090
 SHA256: 37839218e79a5614cd7ead93bc2ea75b560cfeccc60388cf16d7daa61139ece3
 Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.julioverne.ntspeed
 
-Package: com.kingpuffdaddi.controlcenterccvibration
+Package: com.kingpuffdaddi.control-center.ccvibration
 Name: CCVibration
 Version: 1.0.1
 Architecture:  iphoneos-arm
@@ -1112,7 +1112,7 @@ SHA1: dfdac9cc58eecf95a5ed21fdfcb29cb1a3496e1c
 SHA256: 5d6a228438815c4fb436a42e22d50c790bfe5b76a1b4c474e507177690dbe5cf
 Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.yourepo.dya37.redeb
 
-Package: github.io.gfp.piui
+Package: github.io.gfp.pikui
 Name: Pik UI
 Version: 1.0
 Architecture:  iphoneos-arm
@@ -1374,6 +1374,8 @@ Description: Redefine your Control Center !
 Maintainer: ✞ E L L E V Y C
 Author: NoisyFlake
 Section: Themes
+Depends: mobilesubstrate, firmware (>=12.0), preferenceloader, com.opa334.ccsupport, com.spark.libsparkcolourpicker
+Conflicts: com.noisyflake.magma, com.noisyflake.magmapro
 Filename: ./debs/org.mr.magmaevo_2.0.1_iphoneos-arm.deb
 Size: 1455980
 MD5sum: 83E9C7377D97C23BD5A57E90235A60D3
