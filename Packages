@@ -1366,7 +1366,7 @@ SHA1: A3E2477580C9631CA5637B340BDBC6C718A4CD41
 SHA256: A7B06C295BD200FE5FFEE23AF86245053B7B9E48C6C90ED092444E9DC6663E36
 Depiction: https://mainrepo.org/package/497
 
-Package: org.mr.magamaevo
+Package: org.mr.magmaevo
 Name: Magma Evo
 Version: 2.0.1
 Architecture:  iphoneos-arm
