@@ -30,71 +30,6 @@ Description: Highlight downloaded items in app store!
 Author: Samg_is_a_Ninja
 Name: chlorophyll
 
-Package: com.hackyouriphone.deezelife
-Version: 0.5
-Architecture: iphoneos-arm
-Maintainer: ✞ E L L E V Y C
-Depends: mobilesubstrate
-Filename: ./debs/com.hackyouriphone.deezelife_0.5_iphoneos-arm.deb
-Size: 54114
-MD5sum: 60849d21cb58e52b3dd483111feea849
-SHA1: 854609b35b48d1c953d011a0d8539ed9cb16853b
-SHA256: 3016ce53d186c9da08e7aa9293d168bf9b4ac23a3dad738af842eccb819f5ea6
-Section: Tweaks
-Description: Deezer fully premium
-Author: Julioverne
-Name: Deezelife
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.hackyouriphone.deezelife
-
-Package: com.johnzaro.networkspeed13
-Version: 2.4
-Architecture: iphoneos-arm
-Maintainer: ✞ E L L E V Y C
-Depends: mobilesubstrate, com.spark.libsparkapplist, com.spark.libsparkcolourpicker, preferenceloader, ws.hbang.common(>= 1.14), firmware(>= 12)
-Filename: ./debs/com.johnzaro.networkspeed13_2.4_iphoneos-arm.deb
-Size: 68616
-MD5sum: 3cfd11c8eda213f24cbd3718c9a29dcd
-SHA1: fc56fcd432ebc95dc1d7965853b821435db5deb0
-SHA256: 813dbe8bfe0ca13f066559fc9d16f57deaf8dbbcc1c5f002a702eb16474ea77e
-Section: Tweaks
-Description: Pour montrer le debit de la connexion internet
-Author: John Zaro
-Name: NetworkSpeed13
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.johnzaro.networkspeed13
-
-Package: com.johnzaro.networkspeed13
-Version: 2.7
-Architecture: iphoneos-arm
-Maintainer: ✞ E L L E V Y C
-Depends: mobilesubstrate, com.spark.libsparkapplist, com.spark.libsparkcolourpicker, preferenceloader, ws.hbang.common(>= 1.14), firmware(>= 12)
-Filename: ./debs/com.johnzaro.networkspeed13_2.7_iphoneos-arm.deb
-Size: 98320
-MD5sum: C3C12B4BBD894F013B0EF43A419109C3
-SHA1: 26B8669F0D271FD028A6DE9EC59DD49FAD69DBEF
-SHA256: B8D2AE80FEA08196093F131574C3792DBC4A279EAD13C441DDF0996F74E893CE
-Section: Tweaks
-Description: Pour montrer le debit de la connexion internet
-Author: John Zaro
-Name: NetworkSpeed13
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.johnzaro.networkspeed13
-
-Package: com.ichitaso.primalfolder
-Name: primalfolder
-Version: 0.0.9
-Architecture:  iphoneos-arm
-Description: Customiser les dossiers/ Display to folder as icon and launch actions for folders
-Maintainer: ✞ E L L E V Y C
-Author: ichitaso
-Section: Tweaks
-Depends: mobilesubstrate, preferenceloader, firmware(>= 10.0)
-Conflicts: me.qusic.taptapfolder, com.lizynz.folder6plus, info.rpdev.betterfourbyyfourfolders
-Filename: ./debs/com.ichitaso.primalfolder_0.0.9_iphoneos-arm.deb
-Size: 126626
-MD5sum: bf0d4d12b9486c938da1e391fca9354b
-SHA1: e12766b84523df248c320bbffa605cbc8d4964ff
-SHA256: dbb636c9704b5bce4fd4d92512957d676679adda7992c272a963a161d9942a25
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.ichitaso.primalfolder
-
 Package: co.hurouftech.safarifeatures
 Name: Safari Features
 Version: 1.3.2
@@ -109,7 +44,7 @@ Size: 120254
 MD5sum: D606F8A81874AD2F40C849E6D7AE90CE
 SHA1: B50BE1110B1108A34D67A9E194D0ECD3C55811C4
 SHA256: 9A17F76B64C22C275E234164B11B2B2D7D8F12CF55FE62CB3294D4B7CA67668E
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=co.hurouftech.safarifeatures
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/co.hurouftech.safarifeatures.html
 
 Package: com.aeonlucid.snaphide2
 Name: PicaHide
@@ -125,7 +60,7 @@ Size: 136516
 MD5sum: 4a97632a66c20f9620c928428b7233de
 SHA1: 94d4b6955f2cbebbd7c61956289d462de526a9d9
 SHA256: 20f02a174c6a01e3af6201e18f29950da26295b6326bdeb1bc59a392cf86bebe
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.aeonlucid.snaphide2
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.aeonlucid.snaphide2.html
 
 Package: com.aesthyrica.nord
 Name: Nord for whatsApp
@@ -141,7 +76,7 @@ Size: 112554
 MD5sum: 30261a37436b5d6cb7fb86642c7d054b
 SHA1: 95f63d30a3985d29a1adfb74517450c7be558b4b
 SHA256: 6af367dfd5ee1dd99535d1079e582e3830a45107900d4215304fab021c5e0582
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.aesthyrica.nord
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.aesthyrica.nord.html
 
 Package: com.atwiiks.betterccxi
 Name: BetterCCXI
@@ -157,7 +92,7 @@ Size: 132776
 MD5sum: 86048ED3FD59490D56A3BDFFDF5DCEAB
 SHA1: 05A56C83F52ACD83627C8237F5AF6EF66081A7DA
 SHA256: 2AAF38DEF923501ED93D15ED5071734FF92680D715CBE5F999A84A0BE9A5FE8B
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.atwiiks.betterccxi
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.atwiiks.betterccxi.html
 
 Package: com.cabralcole.timeformat
 Name: TimeFormat
@@ -173,7 +108,7 @@ Size: 36826
 MD5sum: d19d2e01d73fea8226c83eb845792291
 SHA1: 4d031677f381113aef07f25cf55a28863d2cb712
 SHA256: 96f81d12f6666437e05a12fe3607162ae021837ba17e880d8d913516f3c025be
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.cabralcole.timeformat
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.cabralcole.timeformat.html
 
 Package: com.cpdigitaldarkroom.barmoji
 Name: Barmoji
@@ -189,7 +124,7 @@ Size: 110398
 MD5sum: 524f37b9929f19585a90d5c0e000449e
 SHA1: b3bfb1e3a39ccf846338f2aa310ebfd9d30e9b7e
 SHA256: ec753ae00b66816d447270e1560608875cbf63e6f8797911ba7d43c42324cbd3
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.cpdigitaldarkroom.barmoji
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.cpdigitaldarkroom.barmoji.html
 
 Package: com.creaturecoding.shuffle
 Name: Shuffle
@@ -206,7 +141,7 @@ Size: 376866
 MD5sum: 7e028709e98f1bcdb961817a3d3a01e5
 SHA1: d9e003c7234ec7ae8e9805ec64e86fd8e5dd9d61
 SHA256: 6d6d531f72a54c7c02e84117ab968e93ce3aee86ef60309849f740cf3c755af2
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.creaturecoding.shuffle 
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.creaturecoding.shuffle.html 
 
 Package: com.cydiageek.ccclearmodulesbg
 Name: CCClearModulesBG
@@ -222,7 +157,7 @@ Size: 122560
 MD5sum: 28fb9ba91b2049e022d113190984ea81
 SHA1: a3943086a9c3f67c9944a192e0a1159d857952a9
 SHA256: 52244cc605fc9ce0020ad81ae37d8c0b3503d1211601f1cb1733011fd1f65a6a
-Depiction: https://elprofesor1160.github.io/killem/?p=com.cydiageek.ccclearmodulesbg 
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.cydiageek.ccclearmodulesbg.html 
 
 Package: com.exile90.icleanerpro
 Name: iCleaner Pro
@@ -239,7 +174,7 @@ Size: 5610388
 MD5sum: aa9cc55ccb7441ca2b3ce75ce542cfec
 SHA1: f9455d6563cb600eca730a0fb884bf504b4b594c
 SHA256: 1c63b636491bf3f8ccf161c8dc5b97ad4feb94609bc6acf3f9f362871bcaba33
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.exile90.icleanerpro
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.exile90.icleanerpro.html
 
 Package: com.exile90.icleanerpro
 Name: iCleaner Pro
@@ -256,7 +191,7 @@ Size: 5354314
 MD5sum: EAE9D04B64D7422FD36BF8EE0C4FE604
 SHA1: 99290B7A89A5FFF030DC9F9E601CA61F56794131
 SHA256: D27035A6204FFF5984BB53D37984F33F07546A0E6C627C97D04D2FC08ED42A70
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.exile90.icleanerpro
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.exile90.icleanerpro.html
 
 Package: com.f0u4d.watusitools
 Name: WatusiTools
@@ -273,7 +208,7 @@ Size: 13775920
 MD5sum: AAEC7FDBDA6476BD101070515F53EEA3
 SHA1: 988B599E1EA152B6FC772BCB7CBF05329BEE93AF
 SHA256: 044AEEBF99C87D3564C8E96740C698E368E56A011BF866C5860102DDE2EEB7F5
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.f0u4d.watusitools
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.f0u4d.watusitools.html
 
 Package: com.fortysixandtwo.alkaline
 Name: Alkaline
@@ -289,7 +224,7 @@ Size: 172906
 MD5sum: 64917AA883C29938B125FAEF2F96491A
 SHA1: A4539F933A0E1CD055E9BDF3CA452E691E0E983A
 SHA256: 917E9C64A6E63E1610B971CB9E2817930B7D44770EAB7F73DD7288F6D2788D61
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.fortysixandtwo.alkaline
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.fortysixandtwo.alkaline.html
 
 Package: com.fouadraheb.watusi
 Name: Watusi 2 for WhatsApp
@@ -306,7 +241,7 @@ Size: 4787430
 MD5sum: 3E4D0A649B71CC3F27A8F85FD00EA784
 SHA1: 375B84B26B31FB74207BD0C69DCC5150BCCA2E1B
 SHA256: 4A2ED5C0E06E46FC7DF1B30E69F2330D9D276B445C464867674E9DD5EA2B06F9
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.fouadraheb.watusi
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.fouadraheb.watusi.html
 
 Package: com.foxfort.zenumbra
 Name: Zenumbra
@@ -322,7 +257,7 @@ Size: 10554
 MD5sum: d81fc808a4544481a697b213c1da62ef
 SHA1: 6c23d93caf00c889ec216ae5bbc8c226b3b5ec1f
 SHA256: 7290ec8f7e104a71be39724dc0c00ed8ab83ef6f64d5835f268eae7133833c33
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.foxfort.zenumbra
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.foxfort.zenumbra.html
 
 Package: com.foxfort.zenumbra
 Name: Zenumbra
@@ -338,7 +273,7 @@ Size: 10908
 MD5sum: C60D3F65146866BD6F3F5F08318C4B8C
 SHA1: EEBB8220DF951866603FCA473DE448600339235B
 SHA256: 513EF6D4E46531F025A1CCDDB9C7C5A04F64F6CB3176C78830EB92943B1E205E
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.foxfort.zenumbra
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.foxfort.zenumbra.html
 
 Package: com.gilesgc.cccalc
 Name: CCCalc
@@ -354,7 +289,7 @@ Size: 31450
 MD5sum: 21ad081c9449be4bf853a1e4fe45e1da
 SHA1: ebce9d8baec7448965596b07b508c70bb4cba58c
 SHA256: 70aefe25398a36d0e92dd0cb640302b86d71e08f7e8642b5b2fbc02651e38e2c
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.gilesgc.cccalc 
+Depiction:  https://elprofesor1160.github.io/killem/depictions/web/com.gilesgc.cccalc.html
 
 Package: com.gilshahar7.exacttime
 Name: ExactTime
@@ -370,7 +305,7 @@ Size: 26418
 MD5sum: CAE92CEEE567020F3B4B0F497A7180AD
 SHA1: DC967296D9E1080CF1CC0408EB22E7C4FC52C947
 SHA256: BE36CDE6E1510094CA83C132EABCA39A6B1390757B42447331B8D73B51D1C75E
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.gilshahar7.exactime
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.gilshahar7.exacttime.html
 
 Package: com.gilshahar7.exacttimephone
 Name: ExactTimePhone
@@ -386,7 +321,23 @@ Size: 11684
 MD5sum: 752E3AC7F12DBE68A090E9B06CF2338E
 SHA1: 84B5D63156E352F51644AFE954F3AACEF01AEF54
 SHA256: D03AB4864D1DD677A3EB13053624CAF5969BAAFAED94094D31C6B1041527AE7F
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.gilshahar7.exactimephone
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.gilshahar7.exacttimephone.html
+
+Package: com.hackyouriphone.deezelife
+Version: 0.5
+Architecture: iphoneos-arm
+Maintainer: ✞ E L L E V Y C
+Depends: mobilesubstrate
+Filename: ./debs/com.hackyouriphone.deezelife_0.5_iphoneos-arm.deb
+Size: 54114
+MD5sum: 60849d21cb58e52b3dd483111feea849
+SHA1: 854609b35b48d1c953d011a0d8539ed9cb16853b
+SHA256: 3016ce53d186c9da08e7aa9293d168bf9b4ac23a3dad738af842eccb819f5ea6
+Section: Tweaks
+Description: Deezer fully premium
+Author: Julioverne
+Name: Deezelife
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.hackyouriphone.deezelife.html
 
 Package: com.haoict.instanoads
 Name: Instagram No Ads
@@ -402,7 +353,7 @@ Size: 64008
 MD5sum: E1E706A94F15B710225BFAC2CC7B5E2E
 SHA1: F746CF04B7D69C0F875DAF6E47AC1D73EF6944E4
 SHA256: 739ACCAB3BAFBCB2884E089A9AB8B13F0C9E19493064240245C828F0DC303E08
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.haoict.instanoads
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.haoict.instanoads.html
 
 Package: com.haoict.libhdev
 Name: libhdev
@@ -418,7 +369,7 @@ Size: 57908
 MD5sum: FB4B934C2F94597A2938704E15A04006
 SHA1: 9127A4EB1E00871A452E0E2289D004E82C88B654
 SHA256: 709537B465FABBC0C044A97FF5FD0E1DDA476466155A249D1EBCBBD7AE177BB4
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.haoict.libhdev
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.haoict.libhdev.html
 
 Package: com.haoict.redditnoads
 Name: Reddit No Ads
@@ -434,7 +385,7 @@ Size: 4700
 MD5sum: b849188cad54c2ec2947f52115021b93
 SHA1: f9b376e4ccf5320d54f4d03974ad797faff2d896
 SHA256: 782eb7aede48b986a06e17cab22b6cc194cb34d587a43b32f035153d40d2843e
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.haoict.redditnoads
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.haoict.redditnoads.html
 
 Package: com.haoict.redditnoads
 Name: Reddit No Ads
@@ -450,7 +401,7 @@ Size: 228814
 MD5sum: DBA5F0999FE0242B5560D7216AE0DECC
 SHA1: D6F5697FBE4E7C676DB81CAFE278D49160942CF8
 SHA256: CD02CBBC085B1B39154E752E94BB3C8F5AE3533A17A174F1540ABDB0CDDDBD36
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.haoict.redditnoads
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.haoict.redditnoads.html
 
 Package: com.haoict.twitternoads
 Name: Twitter No Ads
@@ -466,7 +417,7 @@ Size: 5278
 MD5sum: 6f8849d9394ec4dd4fdecce3a776279d
 SHA1: e768d5fabb2008a6031ffe91187e6d4646c73038
 SHA256: a659bbd85338220419ed433642f5fd684851357a925bdd77aeb0a2d75e63b6c7
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.haoict.twitternoads
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.haoict.twitternoads.html
 
 Package: com.haoict.twitternoads
 Name: Twitter No Ads
@@ -482,7 +433,7 @@ Size: 126952
 MD5sum: F5830FF1A485ADC78A0D464A845C433B
 SHA1: DC47B3BFA6EB6858BE363C78F7E21E8F5DC6FE0C
 SHA256: D55953C811A0AE7EF76F630FD0BCBE5D078929BBF632E7F8EE6234DCAA4E1D64
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.haoict.twitternoads
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.haoict.twitternoads.html
 
 Package: com.ichitaso.autobrightness11
 Name: AutoBrightnessToggle(CCSupport)
@@ -494,11 +445,11 @@ Author: ichitaso
 Section: Addons (ControlCenter)
 Depends: com.opa334.ccsupport, firmware (>=11.0)
 Filename: ./debs/com.ichitaso.autobrightness11_0.1-4-1_iphoneos-arm.deb
-Size: 22208
+Size: 222080.1-4-1
 MD5sum: 7ff8457036130fdaa8c572b466307e95
 SHA1: a3c279e8a97fa7c4b9ddcc92ccab081bd77527ba
 SHA256: 0fc87ba3de3afa6da193971da52593c9903a4c3592a45d6384d099946c23fd54
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.ichitaso.autobrightness11
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.ichitaso.autobrightness11.html
 
 Package: com.ichitaso.autolockcc
 Name: AutoLockToggle(CCSupport)
@@ -514,11 +465,11 @@ Size: 31350
 MD5sum: b9e16ddfe5bf5c046710c05f11ae41cb
 SHA1: 18df66c57684ea91b6525c3fb097947b8c774f1a
 SHA256: bab2364200b63000c783dfca9680a8ab6a2ad1dfe716f57d7c85dc0bd3ddc2ca
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.ichitaso.autolockcc
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.ichitaso.autolockcc.html
 
 Package: com.ichitaso.locationservicecc
 Name: LocationService(CCSupport)
-Version: 0.1-4-1
+Version: 
 Architecture:  iphoneos-arm
 Description: Turn on/off LocationService from the control center
 Maintainer: ✞ E L L E V Y C
@@ -530,7 +481,7 @@ Size: 58574
 MD5sum: 7a0e8fc3dca86ffbc084d0e8779832c2
 SHA1: b2dc211b0c309dabe8fea00704b54c7cd5ea42fa
 SHA256: 958a1a03c56889856779add0e1adb269b8dd332259f993adacab236eddf5f277
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.ichitaso.locationservicecc
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.ichitaso.locationservicecc.html
 
 Package: com.ichitaso.powerselector11
 Name: PowerSelector(iOS11 to 13)
@@ -546,7 +497,24 @@ Size: 406004
 MD5sum: 49ab07a53002d39f018c5860b262bdb7
 SHA1: 0122d84edfb7f482e5c27836d2a6289f850c57cd
 SHA256: fd64754e5eec05f0bf80caed3d71afc6d5962683d3463bf3a7d64afaff069235
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.ichitaso.powerselector11
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.ichitaso.powerselector11.html
+
+Package: com.ichitaso.primalfolder
+Name: primalfolder
+Version: 0.0.9
+Architecture:  iphoneos-arm
+Description: Customiser les dossiers/ Display to folder as icon and launch actions for folders
+Maintainer: ✞ E L L E V Y C
+Author: ichitaso
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, firmware(>= 10.0)
+Conflicts: me.qusic.taptapfolder, com.lizynz.folder6plus, info.rpdev.betterfourbyyfourfolders
+Filename: ./debs/com.ichitaso.primalfolder_0.0.9_iphoneos-arm.deb
+Size: 126626
+MD5sum: bf0d4d12b9486c938da1e391fca9354b
+SHA1: e12766b84523df248c320bbffa605cbc8d4964ff
+SHA256: dbb636c9704b5bce4fd4d92512957d676679adda7992c272a963a161d9942a25
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.ichitaso.primalfolder.html
 
 Package: com.imkpatil.cclinker
 Name: CCLinker
@@ -562,7 +530,7 @@ Size: 26370
 MD5sum: 49db733864a53b91b55ce34c494399ff
 SHA1: d578baa27b9dad4fefce38b503746c5004e83b8a
 SHA256: e2211432404538091638d1080fa0ed92f70bc2c51805a06365d932760d044610
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.imkpatil.cclinker
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.imkpatil.cclinker.html
 
 Package: com.ion.wraith
 Name: Wraith
@@ -578,7 +546,7 @@ Size: 80098
 MD5sum: 71acadbcd23006d7e136bfef322a1755
 SHA1: b36403875c12ddb175a7e38a84a3a0424460b961
 SHA256: e2fbbf0e15dc68f01f217d8b18689ae59948de2d71a2309cdb85c6ca98622bbd
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.ion.wraith
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.ion.wraith.html
 
 Package: com.itaysoft.icaughtuxii
 Name: iCaughtU 12+
@@ -596,7 +564,7 @@ Size: 708536
 MD5sum: 9BC4FDF52458AF2A54046C2DC59C0E88
 SHA1: 190052B19943750D9B5B73B61821519AF5B882D5
 SHA256: 69644F3F671F49999F5F6528FACA7F535A0B471839465FE3B3806DD2F197EDCE
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.itaysoft.icaughtuxii
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.itaysoft.icaughtuxii.html
 
 Package: com.jailbreak365.safeccmodules
 Name: CCmodules
@@ -611,7 +579,7 @@ Size: 1127204
 MD5sum: 05138418e9b9d060813b5708bb47cd95
 SHA1: bec6a4fa62d5fbd0ceb8e7798858a7b48959f816
 SHA256: f385f0f9ca371b8111b0eb1b859bcfbed61de9314ddf2d2a879008cd12a52a2a
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.jailbreak365.safeccmodules
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.jailbreak365.safeccmodules.html
 
 Package: com.jakeashacks.realcc
 Name: RealCC
@@ -627,7 +595,39 @@ Size:6600
 MD5sum: 24C5155F1D2B028B2CC1C5E8F2251EC4
 SHA1: CA5F4B511D7D99E6137ED2FEBE9B0DF770DCB86D
 SHA256: 14C50ED9ED21A4C56DFDAC085997085374F3BF32ECAF922B1BC5271AA3EC9ED6
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.jakeashacks.realcc
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.jakeashacks.realcc.html
+
+Package: com.johnzaro.networkspeed13
+Version: 2.4
+Architecture: iphoneos-arm
+Maintainer: ✞ E L L E V Y C
+Depends: mobilesubstrate, com.spark.libsparkapplist, com.spark.libsparkcolourpicker, preferenceloader, ws.hbang.common(>= 1.14), firmware(>= 12)
+Filename: ./debs/com.johnzaro.networkspeed13_2.4_iphoneos-arm.deb
+Size: 68616
+MD5sum: 3cfd11c8eda213f24cbd3718c9a29dcd
+SHA1: fc56fcd432ebc95dc1d7965853b821435db5deb0
+SHA256: 813dbe8bfe0ca13f066559fc9d16f57deaf8dbbcc1c5f002a702eb16474ea77e
+Section: Tweaks
+Description: Pour montrer le debit de la connexion internet
+Author: John Zaro
+Name: NetworkSpeed13
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.johnzaro.networkspeed13.html
+
+Package: com.johnzaro.networkspeed13
+Version: 2.7
+Architecture: iphoneos-arm
+Maintainer: ✞ E L L E V Y C
+Depends: mobilesubstrate, com.spark.libsparkapplist, com.spark.libsparkcolourpicker, preferenceloader, ws.hbang.common(>= 1.14), firmware(>= 12)
+Filename: ./debs/com.johnzaro.networkspeed13_2.7_iphoneos-arm.deb
+Size: 98320
+MD5sum: C3C12B4BBD894F013B0EF43A419109C3
+SHA1: 26B8669F0D271FD028A6DE9EC59DD49FAD69DBEF
+SHA256: B8D2AE80FEA08196093F131574C3792DBC4A279EAD13C441DDF0996F74E893CE
+Section: Tweaks
+Description: Pour montrer le debit de la connexion internet
+Author: John Zaro
+Name: NetworkSpeed13
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.johnzaro.networkspeed13.html
 
 Package: com.johnzaro.perfectreddit
 Name: PerfectReddit
@@ -643,7 +643,7 @@ Size:72976
 MD5sum: CF3A2AD6CC19B1090DFBB708BCEB96C5
 SHA1: 4BB93C0781301AA171B5D9DF3A5123520E2CB508
 SHA256: CB3D305B0FA9844E2ACDD0ABB7C0C0B441CCD7359297BDA836C80591006F8055
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.johnzaro.perfectreddit
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.johnzaro.perfectreddit.html
 
 Package: com.julioverne.goodwifi
 Name: GoodWiFi
@@ -659,7 +659,7 @@ Size:97784
 MD5sum: F2A089C39C03A94288E1EE486A95FB47
 SHA1: 0280CB3866D7602C6629744CED945376A89D4EE9
 SHA256: AB72A0CB5BB3FF6355A419220AC5B073FF171B4E8BA270EBB5D87BD4313C9B2F
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.julioverne.goodwifi
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.julioverne.goodwifi.html
 
 Package: com.julioverne.mimport
 Name: MImport
@@ -675,7 +675,7 @@ Size: 1033606
 MD5sum: acd899bb59ef58d06e5a3ab1d12eb878
 SHA1: 07c2a4cd7c7ef459046fd12b0e8571f28cd7c27d
 SHA256: 4d39f210ae2173ad4026e96449aad4a2460c61409e243f59ddf7cf51c0e438a3
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.julioverne.mimport
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.julioverne.mimport.html
 
 Package: com.julioverne.ntspeed
 Name: NtSpeed
@@ -691,7 +691,7 @@ Size: 110786
 MD5sum: 7abddd352f1a50d4e959837b0ab03522
 SHA1: 5c3de4df487731ae2a2707d9c5c349c0a0e93090
 SHA256: 37839218e79a5614cd7ead93bc2ea75b560cfeccc60388cf16d7daa61139ece3
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.julioverne.ntspeed
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.julioverne.ntspeed.html
 
 Package: com.kingpuffdaddi.control-center.ccvibration
 Name: CCVibration
@@ -707,7 +707,7 @@ Size: 19982
 MD5sum: e15a044de4d645f75acadbd038db85f7
 SHA1: 88f8c4cb5738063277e409386844c1650d50349c
 SHA256: 8c972cc8d97634ea9ca6877f20352aaa708602602e23016650584e3e292715eb
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.kingpuffdaddi.controlcenterccvibration
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.kingpuffdaddi.control-center.ccvibration.html
 
 Package: com.laughingquoll.prefixui
 Name: PrefixUI
@@ -723,7 +723,7 @@ Size: 45108
 MD5sum: b8d93e96dcfb0483ee578d71693e20cb
 SHA1: ce9836535ed8906b7dfdd5c04fad36e879c8353c
 SHA256: 74805202f9a47e89444f70c1c3dd6650e1612a33c163463c6ff465d877021735
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.laughingquoll.prefixui
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.laughingquoll.prefixui.html
 
 Package: com.matchstic.reprovision
 Name: ReProvision
@@ -741,7 +741,7 @@ Size: 14435080
 MD5sum: 8cb6329dacb417e8ff8d3d8b644757f5
 SHA1: 898f3cabd61b55cd1bfae80b92f5e385491ccd89
 SHA256: 596c4a544ddd272e99f384a51722b68ed03e261f553f3304caba94e0ac936e49
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.matchstic.reprovision
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.matchstic.reprovision.html
 
 Package: com.matchstic.xenhtml
 Name: Xen HTML
@@ -758,7 +758,7 @@ Size: 6474506
 MD5sum: D6CA5513926DB0CDE48A9F5E39EC4E38
 SHA1: B293FD804667BB88D50D449A9523CD2E4241E74B
 SHA256: 764CE9ABC05808C20DED3A1A4FD88967C73FB7AC45CBC88508850810BC474D49
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.matchstic.xenhtml
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.matchstic.xenhtml.html
 
 Package: com.midnightchips.bettersettings
 Name: BetterSettings
@@ -774,7 +774,7 @@ Size: 1275086
 MD5sum: 25ec5cef3d527883d3c6dd247948cd43
 SHA1: 74f981081d4aa14587f0191dd7949c855db2fbdb
 SHA256: 46ef995386c2eeee7c4a3c24c8dd0d942aa04d755812ad4c71893b66754331da
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.midnightchips.bettersettings
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.midnightchips.bettersettings.html
 
 Package: com.midnightchips.cleantab
 Name: Clean Tab
@@ -790,7 +790,7 @@ Size: 46188
 MD5sum: 21618b2420303eb8a6fe9d58e0fb1649
 SHA1: fd7690fac81adb0fc0b6d25c7813cb8e893743d8
 SHA256: 1d85d8eb61ae4144d6606bc5d5bf550f67c31004d583de9b1458109c147e0f09
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.midnightchips.cleantab
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.midnightchips.cleantab.html
 
 Package: com.mom.11
 Name: Color System
@@ -806,7 +806,7 @@ Size: 90292
 MD5sum: 777392202B426DCCC4CEC16665EEC097
 SHA1: 20EF48F5B3CD95532FEE270A63C97B3811C94F79
 SHA256: 8874C08C7338B37444B80D3A1E5E48CDE63280117FC37891F849B9449B8AAFAD
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.mom.11
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.mom.11.html
 
 Package: com.mtac.ctf
 Name: CaptureTheFlag
@@ -822,7 +822,7 @@ Size: 10374
 MD5sum: 4AC3319B371EDC171C7C9C9F31703BCC
 SHA1: 76E41A088C102324BFA4EBBF4F72D55452BA93B6
 SHA256: E67161F47D562DF1BFE1448EA10E51CF4BF62A50575346975E5424764477B028
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.mtac.ctf
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.mtac.ctf.html
 
 Package: com.opa334.ccsupport
 Name: CCSupport
@@ -838,7 +838,7 @@ Size: 35312
 MD5sum: 17ed6254911b6492bb12db7344a0eb9f
 SHA1: 39adc47176ff48dcb495804891fdaef9a453ae18
 SHA256: e41dd7d92ff44770680bec46c0badc8fd815b3b85884b85106a2a9e363e1a17a
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.opa334.ccsupport
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.opa334.ccsupport.html
 
 Package: com.opa334.safariplus
 Name: Safari Plus
@@ -854,11 +854,11 @@ Size: 1873554
 MD5sum: 7BFF085BF6AF600FFEE1E26E6D0868AB
 SHA1: 651AAEFD234D78E72DDD24B7A99FEC0306CFA019
 SHA256: BDD0790EA3EE231198FBE0DB2ACB1A1CEBE44AA66F3FB97A6D3EB25ADA8E1384
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.opa334.safariplus
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.opa334.safariplus.html
 
-Package: com.orangebananaspy.nudekeysios12
+Package: 
 Name: NudeKeys (iOS 12)
-Version: 1.0.0~b8
+Version: 1.0.0~b8com.orangebananaspy.nudekeysios12
 Architecture:  iphoneos-arm
 Description: Strip those sexy keys!
 Maintainer: ✞ E L L E V Y C
@@ -871,7 +871,7 @@ Size: 2006424
 MD5sum: 8e143e361593ec2241d7fed5d2e6229e
 SHA1: b0aca9737a61b1bbf15b6477409b7a8215e509a1
 SHA256: aa76a082c4b2f8f61baf90a86dbbcb4a94bc8f1c2c0b0e02d8aa788455dcb274
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.orangebananaspy.nudekeysios12
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.orangebananaspy.nudekeysios12.html
 
 Package: com.pixelomer.tweakreviews-db
 Name: TweakReviewsDB
@@ -888,7 +888,7 @@ Size: 138306
 MD5sum: 7b83af7826e11a963d52a20a61b2abcf
 SHA1: 188228819ac3eb2783b07e26f6f1329b42688cfd
 SHA256: 03a2cc8ac61d4596e50fc5a161fed1b302c14a0b2a0fc8c556344a821623503c
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.pixelomer.tweakreviews-db
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.pixelomer.tweakreviews-db.html
 
 Package: com.r0wdrunner.cleantabs
 Name: CleanTabs
@@ -904,7 +904,7 @@ Size: 5830
 MD5sum: c504a002da32c39663ac81be4c7fe13b
 SHA1: 36e0597e070d11aa3eb1b16915dbb79673055925
 SHA256: 4a7ba470d99a5a5b4ba622491b137c817c47b3238f45e348c883630617c1d1a8
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.r0wdrunner.cleantabs
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.r0wdrunner.cleantabs.html
 
 Package: com.r0wdrunner.minimalxi2
 Name: MinimalXI 2
@@ -920,7 +920,7 @@ Size: 31072
 MD5sum: f6534ba1dc1b5859d494b0d9b56ede06
 SHA1: d6e3b5df6549302b4376f0258f9c4c8e498e174f
 SHA256: 4f0d4f38282db28be2afaeb65fdd926b4b8dc4d9aeb2dac8690e8c872e9b9f8e
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.r0wdrunner.minimalxi2
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.r0wdrunner.minimalxi2.html
 
 Package: com.rpgfarm.a-font
 Name: A-Font
@@ -936,7 +936,7 @@ Size: 825756
 MD5sum: DFC8E8B216769C338B783E875041261B
 SHA1: 318625D546461765171AD2631A6E8FF1F4E6F5C5
 SHA256: 59B20321756FB886B13EEBCE10A480ECDDE5152691DF2CB5A039477EA22EA33F
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.rpgfarm.a-font
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.rpgfarm.a-font.html
 
 Package: com.shepgoba.colorscroll
 Name: ColorScroll
@@ -952,7 +952,7 @@ Size: 29428
 MD5sum: 460517C9A30C35BF3010781869D56CA0
 SHA1: 514D44647B4924B70D87E764F07C03A33202F4FA
 SHA256: 1FDBE09F3182FA6A072005C66FCB3C30ED4745CCEAFE44482D8DDFBBDFC72383
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.shepgoba.colorscroll
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.shepgoba.colorscroll.html
 
 Package: com.spark.ccmusicartwork
 Name: CCMusicArtwork
@@ -968,7 +968,7 @@ Size: 282782
 MD5sum: 3DE0620E3BD7FFAEA79C10B2D668531B
 SHA1: 83BCC8300302F264048770594A36E06312CE0C10
 SHA256: C59D8C34CE49B949730C07D000CBB1FFC94893668C135449ED66AE02B6649A28
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.spark.ccmusicartwork
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.spark.ccmusicartwork.html
 
 Package: com.spark.doubletaplock
 Name: DoubleTapLock
@@ -984,7 +984,7 @@ Size: 80860
 MD5sum: BA3517E65D904648AEB1530E8D4D36F6
 SHA1: 6171AE8AEAAB3BEB37EA6AB17C5203634E9A4E21
 SHA256: 080CFD34FD28210097D789345629C57C4108EE4DB784BF8D9D6C40E16B2790D9
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.spark.doubletaplock
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.spark.doubletaplock.html
 
 Package: com.spark.lowbatterybanner
 Name: LowBatteryBanner
@@ -1000,7 +1000,7 @@ Size: 12790
 MD5sum: 330EFA70127CB86B0948998851D34AE3
 SHA1: 17DEDAB6318BDAEF582B69A5A1B6AD28384A21F9
 SHA256: D71CDE6493C8930E4CEADD03F653A1A1E447B9D5DCBCEF79B89B64BFD0489D4B
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.spark.lowbatterybanner
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.spark.lowbatterybanner.html
 
 Package: com.spark.snowboard.ui
 Name: Snowboard UI Extension
@@ -1016,7 +1016,7 @@ Size: 83254
 MD5sum: adc3a56adb69397df2ef7506187419ae
 SHA1: e4d1d2bcb2607441d985d41f42aaff9da05daa16
 SHA256: d730de22a426c977e22ea54f70daf45c21e8f03b4e3fb5f4b1a8a2210207949f
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.spark.snowboard.ui
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.spark.snowboard.ui.html
 
 Package: com.thecasle.nine
 Name: Nine
@@ -1032,7 +1032,7 @@ Size: 1483592
 MD5sum: 1F19F8DFF12910DBCF210DE2C84AF80D
 SHA1: B8AC20DBCB511DEB92A23802A75BC76238CCEFD5
 SHA256: 387185BD8B067C99BD5E637F4EFBCCBD89DB37977749F504F99B55791864FA2D
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.thecasle.nine
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.thecasle.nine.html
 
 Package: com.twickd.t0mi.cydiaplus
 Name: CydiaPlus
@@ -1048,7 +1048,7 @@ Size: 91104
 MD5sum: 6DAD10E066DFEA54D4ACAAB6FFBAD269
 SHA1: 4D0342FDB8E27ADCB06B86F98E53CF1147AEB96B
 SHA256: 508462778F93BD9F9311398EA7F339BA1C7854DF95F7C25657F10D4C514D64A7
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.twickd.t0mi.cydiaplus
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.twickd.t0mi.cydiaplus.html
 
 Package: com.twttrvideodl
 Name: twttrVideoDL
@@ -1064,7 +1064,7 @@ Size: 108206
 MD5sum: 0ff191fd9563c130146f426b7c740c0b
 SHA1: fa52ec873d9bf1610b70df13c351be0c7e4d7d08
 SHA256: 4f62f35df76fe8d9b229e0cef361eba319127a435601587781d171b8660f835a
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.twttrvideodl
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.twttrvideodl.html
 
 Package: com.vitataf.homegesture
 Name: HomeGesture
@@ -1080,7 +1080,7 @@ Size: 2334790
 MD5sum: 24b3eda3d5b435cb491e61c2afdeb07a
 SHA1: 324402687404118f5c8e8217752da016a84f5252
 SHA256: 07321d3f68e1ee60f15eb40c90910f5e8597a15228c3fd5d5bae29b01c532f46
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.vitataf.homegesture
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.vitataf.homegesture.html
 
 Package: com.yourepo.cydiageek.noncheaderview
 Name: NoNCHeaderView
@@ -1096,7 +1096,7 @@ Size: 10164
 MD5sum: d953f03aed3ca23ed6d073a6fb8d99a9
 SHA1: 3b0195b6c78256124df44dbe9ef3e2bcede4d7f1
 SHA256: 0b9136b302d2e3ddd724cc9e9cdfa0d18ad4b25bcc5f2c18b6b41c94e025ee32
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.yourepo.cydiageek.noncheaderview
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.yourepo.cydiageek.noncheaderview.html
 
 Package: com.yourepo.dya37.redeb
 Name: Redeb
@@ -1112,7 +1112,7 @@ Size: 3518
 MD5sum: 6d1b138e1a1b9ffc9803297b5dff4622
 SHA1: dfdac9cc58eecf95a5ed21fdfcb29cb1a3496e1c
 SHA256: 5d6a228438815c4fb436a42e22d50c790bfe5b76a1b4c474e507177690dbe5cf
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=com.yourepo.dya37.redeb
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.yourepo.dya37.redeb.html
 
 Package: github.io.gfp.pikui
 Name: Pik UI
@@ -1127,7 +1127,7 @@ Size: 797336
 MD5sum: 83344890D956FA0D6D736EB719AAA7A6
 SHA1: B6595D07C6B4B64ECBCA1ED4106DDA5F3D8585D3
 SHA256: B7A91C4B7D385E2C17BAEE371C9C0B3BB2F2A7B80DE594F7CDE6786ABE955752
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=github.io.gfp.piui
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/github.io.gfp.pikui.html
 
 Package: in.net.mario.tweak.fixappadmin
 Name: aFixToAppAdmin
@@ -1142,7 +1142,7 @@ Size: 8218
 MD5sum: E0A07D4AA396089FAEC955BC6BA61B49
 SHA1: 9AE3E62B7ACDED309179705DE027CDEB51C9EED2
 SHA256: D4B2CF1A22137A3BC15964C0823B2148155565BE8D221D819CC2037A9CF33443
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=in.net.mario.tweak.fixappadmin
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/in.net.mario.tweak.fixappadmin.html
 
 Package: it.dreamcode.ft
 Name: FingerTouch
@@ -1157,7 +1157,7 @@ Size: 27206
 MD5sum: 8024C4011E7AB6F9D0D56E4C0E5419D4
 SHA1: B4EF8AE53AA52C679C06D3E1D4636B257FA05EEA
 SHA256: F4DCFA058211924B5A897775BA6B414ACCE171058F9700F6D9B26BB4627BA205
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=it.dreamcode.ft
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/it.dreamcode.ft.html
 
 Package: jp.r-plus.menusupport
 Name: MenuSupport
@@ -1172,7 +1172,7 @@ Size: 47476
 MD5sum: 567FED462358D29F8349896D5CBEFF57
 SHA1: 31BACD6DDBB1AE08434D523BB2E817E93A5EC78F
 SHA256: 158214ADB005FEA58A66BB462A63C31B672E3B0712E620B56CB6C670B9C433D6
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=jp.r-plus.menusupport
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/jp.r-plus.menusupport.html
 
 Package: me.kritanta.homeplus
 Name: HomePlus~Beta
@@ -1188,7 +1188,7 @@ Size: 1351238
 MD5sum: 93c45388185822a7cc80508cc8ebf031
 SHA1: 0b157a4fad9238a8867e9189995769b19eef572f
 SHA256: 420ce9f52e148a17ce65b7fa36f211b50cc0c33543698f65075ba7bba2b14ce6
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=me.kritanta.homeplus
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/me.kritanta.homeplus.html
 
 Package: me.nepeta.begonecia-11
 Name: BegoneCIA (iOS11, 12, 13)
@@ -1205,7 +1205,7 @@ Size: 82734
 MD5sum: AC42906F50BBAFF43D31D9ADDA54C5EC
 SHA1: 3A3CB47BC0EAF5A5F1EC7F00C5E2FBAB3EB84CA1
 SHA256: 58DC4CCADEFD4609CDF01E6695ABA36B147ABAE30A9887C0F04064D5D74E3554
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=me.nepeta.begonecia-11
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/me.nepeta.begonecia-11.html
 
 Package: me.nepeta.libnepeta
 Name: libnepeta
@@ -1220,7 +1220,7 @@ Size: 49336
 MD5sum: 0c9b5ecfabf6a232ebd58d6188feec39
 SHA1: 2581187540328ba927f57881ae749cdf9a3f39f3
 SHA256: 0ed6e5157ab5cde5b86342277100cfa3d7abefe11232e3e77ed5a0394b225395
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=me.nepeta.libnepeta
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/me.nepeta.libnepeta.html
 
 Package: me.nepeta.nereid
 Name: Nereid
@@ -1236,7 +1236,7 @@ Size: 139854
 MD5sum: f119d0fe0b1873d009a743b6c5fa38c6
 SHA1: e0508d8bdaf0debad96a27b4fd0c34d0f5c88b64
 SHA256: ce894b2d080d9da226e92eea286a17b46ae67cf20f2baf04fdb69190139a01d7
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=me.nepeta.nereid
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/me.nepeta.nereid.html
 
 Package: me.nepeta.notifica
 Name: Notifica
@@ -1252,7 +1252,7 @@ Size: 478554
 MD5sum: e5355fc5854cb10d8760e75c4bce168b
 SHA1: 016062478b74f7d0443bb52d52ea7933a4392d02
 SHA256: 57f24fb3cb38aafae7a6467b1e70188c1de2288a9655c46c502a29aa5a858ebd
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=me.nepeta.notifica
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/me.nepeta.notifica.html
 
 Package: me.nepeta.selector
 Name: Selector
@@ -1268,7 +1268,7 @@ Size: 59368
 MD5sum: 226ebf9212d1d914502d581c61a3a485
 SHA1: fc55c063f1303078a099aefcd3ac2cd68513e19e
 SHA256: ebd2eff3b07268fabce309277dfbe806b5d244ff339429d37ff897cdaeda5ad1
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=me.nepeta.selector
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/me.nepeta.selector.html
 
 Package: me.nepeta.unsub
 Name: Unsub
@@ -1284,7 +1284,7 @@ Size: 102554
 MD5sum: cdfde8d7b7a9066c0f75b85098aa47ef
 SHA1: f09291a4cf4297f946e5a3756ada49e35bb49fa0
 SHA256: 04ff209bb61c9ee022010d1f7f274fb48b2b4d9c135e9afba61834057cbbbde2
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=me.nepeta.unsub
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/me.nepeta.unsub.html
 
 Package: me.sethstephens.newgridswitcher
 Name: NewGridSwitcher
@@ -1300,7 +1300,7 @@ Size: 6564
 MD5sum: cb6d6d12dd5938322bbae6d79fcd1b0c
 SHA1: b52419d2de7a2df45697b21baa375d0d4db8abc7
 SHA256: 94ec20ed9aacd45c9a051b3e58295cdc9481a761df646d3170508a6ac6411e6e
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=me.sethstephens.newgridswitcher
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/me.sethstephens.newgridswitcher.html
 
 Package: net.tateu.moveable12
 Name: Moveable12
@@ -1317,7 +1317,7 @@ Size: 308718
 MD5sum: d8c5774723152155ec4a9d16b2972a7e
 SHA1: fe5a1013f9c7f2dd60893610b69ce48706ee16b6
 SHA256: 294da28851ca630f6b537a097c9eaeaa0162407f5d76bf05c22e809a44bdd0d9
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=net.tateu.moveable12
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/net.tateu.moveable12.html
 
 Package: net.tateu.photodata12
 Name: PhotoData12
@@ -1334,7 +1334,7 @@ Size: 175074
 MD5sum: e40c8d52bf401afa2baa2d2998fcc668
 SHA1: 3a6118086566ba39f73d617c18edd732705c8aa9
 SHA256: 798bd9ddf04778687a6578db673c15249dbac3e7ac5f1fb6ab41d6dd8955ecc1
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=net.tateu.photodata12
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/net.tateu.photodata12.html
 
 Package: org.mr.instalauncher2
 Name: InstaLauncher 2
@@ -1351,7 +1351,7 @@ Size: 346904
 MD5sum: C32E413C82B87D430853F237F9FEB5F6
 SHA1: 2402874568FEAFF116A97C6A448704450A9883F8
 SHA256: 45520A1E7D3690CE33B38499AB9FB5FE2B310B447D31752F9C1737B7034FD530
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=org.mr.instalauncher2
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/org.mr.instalauncher2.html
 
 Package: org.mr.lyre
 Name: LyreCC
@@ -1366,7 +1366,7 @@ Size: 3183424
 MD5sum: 2B2E9B8BCCD397CDC0EC8230271F0D06
 SHA1: A3E2477580C9631CA5637B340BDBC6C718A4CD41
 SHA256: A7B06C295BD200FE5FFEE23AF86245053B7B9E48C6C90ED092444E9DC6663E36
-Depiction: https://mainrepo.org/package/497
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/org.mr.lyre.html
 
 Package: org.mr.magmaevo
 Name: Magma Evo
@@ -1383,7 +1383,7 @@ Size: 1455980
 MD5sum: 83E9C7377D97C23BD5A57E90235A60D3
 SHA1: 71930F3E88896388EAD2214D51017A6E36C700AA
 SHA256: C86ED6550C23D8BEAA68505D5D025DFAD30908C711775866F914C3A9FB975D1D
-Depiction: https://mainrepo.org/index.php?pid=94
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/org.mr.magmaevo.html
 
 Package: org.mr.smartnetwork
 Name: SmartNetwork
@@ -1399,7 +1399,7 @@ Size: 286512
 MD5sum: 6C61C7F0FF74C16E13C3EDE76693852F
 SHA1: 781F48F06D62DE7950705B22E367D8BC378067D2
 SHA256: 7B1C8812D6A16922A88E3D65919D85B30C87057931ECA50ED9E96699898481EE
-Depiction: https://mainrepo.org/package/702
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/org.mr.smartnetwork.html
 
 Package: org.mr.sonus12
 Name: Sonus12
@@ -1416,7 +1416,7 @@ Size: 122270
 MD5sum: CF40E46C8E52C3EA7DFE3CBFE979B5CA
 SHA1: 82ED06B426BE53CCB9E6E7054DEAC61427D75DB0
 SHA256: A5664E92B7FD850D7BFE2EFDC377AC1FEC1ACFCF22C9CB37FDE6D0F8F3828DF9
-Depiction: https://mainrepo.org/index.php?pid=288
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/org.mr.sonus12.html
 
 Package: ru.rejail.carbon
 Name: Carbon Dark Mode
@@ -1432,7 +1432,7 @@ Size: 132298
 MD5sum: 6D155E00A725474979D1A74F70CA56E0
 SHA1: ED446EAE74370093D1462CFE3B231B626B7CF7A1
 SHA256: DAF3DAC393EDE5A5F774E0A49F2829018E67FB8EACF795CC9F61780D3508563B
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=ru.rejail.carbon
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/ru.rejail.carbon.html
 
 Package: ru.rejail.limneosos
 Name: ✞ E L L E V Y C
@@ -1464,11 +1464,11 @@ Size: 317308
 MD5sum: 79D5C46189AE6837CD02BE67C34CABB8
 SHA1: 941A10FA01AEE78BF827220BC681734E78AAD41D
 SHA256: 5F69238F41C76368BF6B4906A8B8BEE612E5CA5A29B82DB4CC609F8D1D3E1092
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=ru.rejail.switchus
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/ru.rejail.switchus.html
 
 Package: tk.ethanrdoesmc.translucencyparallax
 Name: Translucency Parallax
-Version: 0.1.8-EarlyAcess-1+debug
+Version: 0.1.8~EarlyAcess~1+debug
 Architecture:  iphoneos-arm
 Description: Make your apps translucent. Add a personnal touch to iOS.
 Maintainer: ✞ E L L E V Y C
@@ -1481,7 +1481,7 @@ Size: 104234
 MD5sum: 2e58a5345b38aae8c8b6e95fa52a98e3
 SHA1: 1c9da471ea34cc0faee9ecf9f999dcf26c4fe58e
 SHA256: 32a2d16b1fa227e4efb914898334445f287c36d9d1616edbaaa949e502df9f13
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=tk.ethanrdoesmc.translucencyparallax
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/tk.ethanrdoesmc.translucencyparallax.html
 
 Package: xyz.royalapps.cleanhomescreen
 Name: CleanHomeScreen
@@ -1497,7 +1497,7 @@ Size: 32608
 MD5sum: BAB1BE9C128A0C698DFA5DA8ADFC0141
 SHA1: CA6B82EA99C6822531B89562146E07D5B484AE87
 SHA256: DA724CE6B83164C74B2E73FC30E168EF58DCDF9EC341B3C884F1A8BADFDEFD83
-Depiction: https://elprofesor1160.github.io/killem/depictions/?p=xyz.royalapps.cleanhomescreen
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/xyz.royalapps.cleanhomescreen.html
 
 Package: me.conorthedev.peep
 Version: 1.0
