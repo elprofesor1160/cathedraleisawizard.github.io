@@ -1517,3 +1517,23 @@ Icon: https://repo.conorthedev.me/assets/me.conorthedev.peep/icon.png
 Moderndepiction: https://repo.conorthedev.me/depiction/native/me.conorthedev.peep.json
 Name: peep
 Tags: compatible_min::ios12.0, compatible_max::ios13.4.1
+
+Package: me.conorthedev.shylabels13
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: ConorTheDev <support@conorthedev.me>
+Filename: ./pkg/me.conorthedev.shylabels13.deb
+Size: 36780
+MD5sum: fa1715ff14d5881ddb81ae9223e6a3f0
+SHA1: 2cdc5a9beefbdbf2f4b1e767bedeb4f9324e1d66
+SHA256: 4cc4e29bd05be6b85f75fc8cabad846df955f67aa10b33ca781d618cdca967eb
+Section: Tweaks
+Homepage: https://repo.conorthedev.me
+Description: The original Shy Labels Tweak, updated for iOS 13!
+Author: ConorTheDev <support@conorthedev.me>
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/me.conorthedev.shylabels13.html
+Icon: https://repo.conorthedev.me/assets/me.conorthedev.shylabels13/icon.png
+Moderndepiction: https://repo.conorthedev.me/depiction/native/me.conorthedev.shylabels13.json
+Name: ShyLabels
+Sileodepiction: https://repo.conorthedev.me/depiction/native/me.conorthedev.shylabels13.json
+Tags: compatible_min::ios12.0, compatible_max::ios13.4.1
