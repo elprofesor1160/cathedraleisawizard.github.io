@@ -1522,7 +1522,7 @@ Package: me.conorthedev.shylabels13
 Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: ConorTheDev <support@conorthedev.me>
-Filename: ./pkg/me.conorthedev.shylabels13.deb
+Filename: ./debs/me.conorthedev.shylabels13.deb
 Size: 36780
 MD5sum: fa1715ff14d5881ddb81ae9223e6a3f0
 SHA1: 2cdc5a9beefbdbf2f4b1e767bedeb4f9324e1d66
