@@ -33,7 +33,7 @@ Name: chlorophyll
 Package: applist
 Name: AppList
 Version: 1.5.16
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Allow extensions to read the list of installed apps !
 Maintainer: ✞ E L L E V Y C
 Author: Ryan Petrich
@@ -52,7 +52,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: apt
 Name: APT
 Version: 1.8.2~3
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: The advanced packaging tool from Debian  !
 Maintainer: ✞ E L L E V Y C
 Author: ✞ E L L E V Y C
@@ -75,7 +75,7 @@ Package: bash
 Name: Bourne-Again SHell
 Priority: required
 Version: 5.0.3~2
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: The best shell ever written by Brian Fox  !
 Maintainer: ✞ E L L E V Y C
 Author: ✞ E L L E V Y C
@@ -94,7 +94,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: co.hurouftech.safarifeatures
 Name: Safari Features
 Version: 1.3.2
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Customize Safari Features in Iphone, Ipod, and Ipad (Support iOS 12/13)!
 Maintainer: ✞ E L L E V Y C
 Author: HuroufTech
@@ -111,7 +111,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.aeonlucid.snaphide2
 Name: PicaHide
 Version: 1.2.2
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Disables Snapchat jailbreak / tweak detection
 Maintainer: ✞ E L L E V Y C
 Author: AeonLucid
@@ -128,7 +128,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.aesthyrica.nord
 Name: Nord for whatsApp
 Version: 1.3
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Color WhatsApp freely/ Colorier WhatsApp
 Maintainer: ✞ E L L E V Y C
 Author: aesthyrica
@@ -145,7 +145,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.atwiiks.betterccxi
 Name: BetterCCXI
 Version: 1.6.0
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Enhance your control center on iOS 12/13
 Maintainer: ✞ E L L E V Y C
 Author: ATWiiks
@@ -162,7 +162,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.cabralcole.timeformat
 Name: TimeFormat
 Version: 1.0.1
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Change statusbar time format
 Maintainer: ✞ E L L E V Y C
 Author: cole cabral
@@ -179,7 +179,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.cpdigitaldarkroom.barmoji
 Name: Barmoji
 Version: 2020.3
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Quick Emoji Acess Bar
 Maintainer: ✞ E L L E V Y C
 Author: CP Digital Darkroom
@@ -196,7 +196,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.creaturecoding.libcspreferences
 Name: libCSPreferences
 Version: 1.4.5
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: A Preference Library that doesn't suck
 Maintainer: ✞ E L L E V Y C
 Author: CreatureSurvive
@@ -214,7 +214,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.creaturecoding.shuffle
 Name: Shuffle
 Version: 1.1.4
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Mix up your preferences/ Arranger les parametres 
 Maintainer: ✞ E L L E V Y C
 Author: CreatureSurvive
@@ -232,7 +232,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.creaturesurvive.libcscolorpicker
 Name: libCSColorpicker
 Version: 1.0.3
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: A minimal color picker library for developers 
 Maintainer: ✞ E L L E V Y C
 Author: CreatureSurvive
@@ -250,7 +250,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.cydiageek.ccclearmodulesbg
 Name: CCClearModulesBG
 Version: 1.0.9
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Make the control center modules clear
 Maintainer: ✞ E L L E V Y C
 Author: CydiaGeek
@@ -267,7 +267,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.exile90.icleanerpro
 Name: iCleaner Pro
 Version: 7.8.2
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: The first real iOS system cleaner & optimizer !
 Maintainer: ✞ E L L E V Y C
 Author: Ivano Bilenchi
@@ -285,7 +285,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.exile90.icleanerpro
 Name: iCleaner Pro
 Version: 7.8.3~beta1
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: The first real iOS system cleaner & optimizer !
 Maintainer: ✞ E L L E V Y C
 Author: Ivano Bilenchi
@@ -303,7 +303,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.f0u4d.watusitools
 Name: WatusiTools
 Version: 2.1.22
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Library for watusi and whatsapp tweaks
 Maintainer: ✞ E L L E V Y C
 Author: Fouad Raheb
@@ -321,7 +321,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.fortysixandtwo.alkaline
 Name: Alkaline
 Version: 1.3
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Themeable status bar battery replacement for iOS
 Maintainer: ✞ E L L E V Y C
 Author: magn2o
@@ -338,7 +338,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.fouadraheb.watusi
 Name: Watusi 2 for WhatsApp
 Version: 1.2.41
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: The all-in-one tweak for WhatsApp Messenger !
 Maintainer: ✞ E L L E V Y C
 Author: Fouad Raheb
@@ -356,7 +356,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.foxfort.zenumbra
 Name: Zenumbra
 Version: 1.0.1
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Show number of installed packages per repo for Zebra !
 Maintainer: ✞ E L L E V Y C
 Author: FoxfortMobile
@@ -373,7 +373,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.foxfort.zenumbra
 Name: Zenumbra
 Version: 1.0.3
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Show number of installed packages per repo for Zebra !
 Maintainer: ✞ E L L E V Y C
 Author: FoxfortMobile
@@ -390,7 +390,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.gilesgc.cccalc
 Name: CCCalc
 Version: 1.1.2
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Turn your calculator module into a real calculator
 Maintainer: ✞ E L L E V Y C
 Author: gilesgc
@@ -407,7 +407,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.gilshahar7.exacttime
 Name: ExactTime
 Version: 1.8
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Shows the exact time of a notif !
 Maintainer: ✞ E L L E V Y C
 Author: gilshahar7
@@ -424,7 +424,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.gilshahar7.exacttimephone
 Name: ExactTimePhone
 Version: 1.0-1+debug
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Adds an exact time to the calls log in the stock phone app !
 Maintainer: ✞ E L L E V Y C
 Author: gilshahar7
@@ -458,7 +458,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.haoict.instanoads
 Name: Instagram No Ads
 Version: 1.1.0
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Free and open source tweak for Instagram , Remove Ads
 Maintainer: ✞ E L L E V Y C
 Author: Hao Nguyen
@@ -475,7 +475,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.haoict.libhdev
 Name: libhdev
 Version: 2.0.0
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Developer library for better preferences and useful utilities.
 Maintainer: ✞ E L L E V Y C
 Author: Hao Nguyen
@@ -492,7 +492,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.haoict.redditnoads
 Name: Reddit No Ads
 Version: 0.0.1
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Hide "promoted" post for Reddit app
 Maintainer: ✞ E L L E V Y C
 Author: Hao Nguyen
@@ -509,7 +509,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.haoict.redditnoads
 Name: Reddit No Ads
 Version: 1.0.0
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Hide "promoted" post for Reddit app
 Maintainer: ✞ E L L E V Y C
 Author: Hao Nguyen
@@ -526,7 +526,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.haoict.twitternoads
 Name: Twitter No Ads
 Version: 0.0.2
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Hide "promoted" post for Twitter app
 Maintainer: ✞ E L L E V Y C
 Author: Hao Nguyen
@@ -543,7 +543,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.haoict.twitternoads
 Name: Twitter No Ads
 Version: 1.2.1
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Hide "promoted" post for Twitter app, Remove Ads, Hide who to follow section, Can save video (long press on video to save)
 Maintainer: ✞ E L L E V Y C
 Author: Hao Nguyen
@@ -560,7 +560,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.ichitaso.autobrightness11
 Name: AutoBrightnessToggle(CCSupport)
 Version: 0.1-4-1
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Turn on/off Auto-Brightess from the control center
 Maintainer: ✞ E L L E V Y C
 Author: ichitaso
@@ -577,7 +577,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.ichitaso.autolockcc
 Name: AutoLockToggle(CCSupport)
 Version: 0.1-3-1
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Turn on/off Auto-Lock from the control center
 Maintainer: ✞ E L L E V Y C
 Author: ichitaso
@@ -593,8 +593,8 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 
 Package: com.ichitaso.locationservicecc
 Name: LocationService(CCSupport)
-Version: 
-Architecture:  iphoneos-arm
+Version: 0.1-4-1
+Architecture: iphoneos-arm
 Description: Turn on/off LocationService from the control center
 Maintainer: ✞ E L L E V Y C
 Author: ichitaso
@@ -611,7 +611,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.ichitaso.powerselector11
 Name: PowerSelector(iOS11 to 13)
 Version: 1.2.6
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: The power supply relation of a device is operated
 Maintainer: ✞ E L L E V Y C
 Author: ichitaso
@@ -628,7 +628,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.ichitaso.primalfolder
 Name: primalfolder
 Version: 0.0.9
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Customiser les dossiers/ Display to folder as icon and launch actions for folders
 Maintainer: ✞ E L L E V Y C
 Author: ichitaso
@@ -646,7 +646,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.imkpatil.cclinker
 Name: CCLinker
 Version: 1.2.1
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Open the settings pane for the CC Toogles by using gestures
 Maintainer: ✞ E L L E V Y C
 Author: P2KDev
@@ -663,7 +663,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.ion.wraith
 Name: Wraith
 Version: 0.0.6
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: A sweet snapchat tweak
 Maintainer: ✞ E L L E V Y C
 Author: Justin Carlson
@@ -680,7 +680,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.itaysoft.icaughtuxii
 Name: iCaughtU 12+
 Version: 2.1.1
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: The most complete tweak to enhance the security of your device
 Maintainer: ✞ E L L E V Y C
 Author: Itay
@@ -699,7 +699,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.jailbreak365.safeccmodules
 Name: CCmodules
 Version: 1.5-1
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Control center modules for iOS 11/12/13
 Maintainer: ✞ E L L E V Y C
 Author: jailbreak365
@@ -715,7 +715,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.jakeashacks.realcc
 Name: RealCC
 Version: 1.0.2
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Disable wi-fi from the iOS CC
 Maintainer: ✞ E L L E V Y C
 Author: Jake James
@@ -766,7 +766,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.johnzaro.perfectreddit
 Name: PerfectReddit
 Version: 1.5
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Remove Promoted Posts, Remove all suggestions and edit theme colors !
 Maintainer: ✞ E L L E V Y C
 Author: johnzaro
@@ -783,7 +783,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.julioverne.goodwifi
 Name: GoodWiFi
 Version: 0.0~beta5a
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Better WiFi Preferences
 Maintainer: ✞ E L L E V Y C
 Author: julioverne
@@ -800,7 +800,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.julioverne.mimport
 Name: MImport
 Version: 0.0~beta36a
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Media importer directly from music app
 Maintainer: ✞ E L L E V Y C
 Author: Julioverne
@@ -817,7 +817,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.julioverne.ntspeed
 Name: NtSpeed
 Version: 0.2~beta7
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: See Active Trafic network speed
 Maintainer: ✞ E L L E V Y C
 Author: Julioverne
@@ -834,7 +834,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.kingpuffdaddi.control-center.ccvibration
 Name: CCVibration
 Version: 1.0.1
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Control center module to enable/disable vibration
 Maintainer: ✞ E L L E V Y C
 Author: KingPuffdaddi
@@ -851,7 +851,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.kingpuffdaddi.control-center.ccvibration
 Name: CCVibration
 Version: 1.0.2
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Control center module to enable/disable vibration
 Maintainer: ✞ E L L E V Y C
 Author: KingPuffdaddi
@@ -904,7 +904,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.matchstic.xenhtml
 Name: Xen HTML
 Version: 2.0~beta2.1
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Unified HTML rendering; lockscreen and homescreen !
 Maintainer: ✞ E L L E V Y C
 Author: Matt Clarke
@@ -922,7 +922,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.midnightchips.bettersettings
 Name: BetterSettings
 Version: 0.1.3
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Settings your way
 Maintainer: ✞ E L L E V Y C
 Author: midnightchips
@@ -939,7 +939,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.midnightchips.cleantab
 Name: Clean Tab
 Version: 0.0.2
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Remove iOS Tab Bar Labels
 Maintainer: ✞ E L L E V Y C
 Author: midnightchips
@@ -956,7 +956,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.mom.11
 Name: Color System
 Version: 1.1
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: An awesome mobilesubstrate tweak !
 Maintainer: ✞ E L L E V Y C
 Author: mostafa89
@@ -973,7 +973,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.mtac.ctf
 Name: CaptureTheFlag
 Version: 1.0.2
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Stop the Sindhi string bug from freezing your device !
 Maintainer: ✞ E L L E V Y C
 Author: MTAC
@@ -990,7 +990,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.muirey03.libimagepicker
 Name: libimagepicker
 Version: 1.0.4
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: A simple library for choosing images in preferences bundles !
 Maintainer: ✞ E L L E V Y C
 Author: Muirey03
@@ -1006,7 +1006,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.muirey03.libmryipc
 Name: libMRYIPC
 Version: 1.0
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Easy-to-use, RocketBootstrap-less iOS IPC !
 Maintainer: ✞ E L L E V Y C
 Author: Muirey03
@@ -1023,7 +1023,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.opa334.ccsupport
 Name: CCSupport
 Version: 1.2.2
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Support tweak for CC modules
 Maintainer: ✞ E L L E V Y C
 Author: opa334
@@ -1040,7 +1040,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.opa334.safariplus
 Name: Safari Plus
 Version: 1.7.12
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Various enhancements to Safari !
 Maintainer: ✞ E L L E V Y C
 Author: opa334
@@ -1057,7 +1057,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.orangebananaspy.nudekeysios12
 Name: NudeKeys (iOS 12)
 Version: 1.0.0~b8
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Strip those sexy keys!
 Maintainer: ✞ E L L E V Y C
 Author: Orangebananaspy
@@ -1075,7 +1075,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.pixelomer.tweakreviews-db
 Name: TweakReviewsDB
 Version: 0.6
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Review and rate packages
 Maintainer: ✞ E L L E V Y C
 Author: PixelOmer
@@ -1093,7 +1093,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.r0wdrunner.cleantabs
 Name: CleanTabs
 Version: 1.1
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Hide Labels of the Tab-Buttons
 Maintainer: ✞ E L L E V Y C
 Author: ROwDrunner
@@ -1110,7 +1110,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.r0wdrunner.minimalxi2
 Name: MinimalXI 2
 Version: 1.1
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Minimal system ui editor
 Maintainer: ✞ E L L E V Y C
 Author: ROwDrunner
@@ -1127,7 +1127,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.rpetrich.rocketbootstrap
 Name: RocketBootstrap
 Version: 1.0.9
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Support library allowing tweaks to communicate with sandboxed processes !
 Maintainer: ✞ E L L E V Y C
 Author: Ryan Petrich
@@ -1145,7 +1145,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.rpgfarm.a-font
 Name: A-Font
 Version: 1.7.1
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Change your font
 Maintainer: ✞ E L L E V Y C
 Author: Baw Appie
@@ -1162,7 +1162,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.shepgoba.colorscroll
 Name: ColorScroll
 Version: 1.0.1
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Color your scroll indicator
 Maintainer: ✞ E L L E V Y C
 Author: shepgoba
@@ -1179,7 +1179,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.spark.ccmusicartwork
 Name: CCMusicArtwork
 Version: 2.2.0
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Shows album artwork behind the music module
 Maintainer: ✞ E L L E V Y C
 Author: Spark
@@ -1196,7 +1196,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.spark.doubletaplock
 Name: DoubleTapLock
 Version: 2.0.0
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Double tap homescreen wallpaper to lock device
 Maintainer: ✞ E L L E V Y C
 Author: Spark
@@ -1213,7 +1213,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.spark.libsparkapplist
 Name: libSparkApplist
 Version: 1.0.9
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: AppList alternative
 Maintainer: ✞ E L L E V Y C
 Author: Spark
@@ -1229,7 +1229,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.spark.libsparkcolourpicker
 Name: libsparkcolourpicker
 Version: 1.0.0
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Simple to implement, simple to use colour picker library.
 Maintainer: ✞ E L L E V Y C
 Author: Spark
@@ -1246,7 +1246,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.spark.lowbatterybanner
 Name: LowBatteryBanner
 Version: 1.0.2
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Replace low power alert with a banner notification !
 Maintainer: ✞ E L L E V Y C
 Author: Spark
@@ -1263,7 +1263,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.spark.snowboard.ui
 Name: Snowboard UI Extension
 Version: 1.0.0~beta1
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: UI Extension for Snowboard
 Maintainer: ✞ E L L E V Y C
 Author: Spark
@@ -1280,7 +1280,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.spark.snowboard.ui
 Name: Snowboard UI Extension
 Version: 1.0.43~Beta3
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: UI Extension for Snowboard
 Maintainer: ✞ E L L E V Y C
 Author: Spark
@@ -1297,7 +1297,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.spark.snowboard
 Name: SnowBoard
 Version: 1.3.0~Beta3
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Snowboard theming engine !
 Maintainer: ✞ E L L E V Y C
 Author: Spark & Dennis D. Bednarz
@@ -1317,7 +1317,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.thecasle.nine
 Name: Nine
 Version: 0.2.5
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Reworks the notification center
 Maintainer: ✞ E L L E V Y C
 Author: Jake kaslwiez
@@ -1334,7 +1334,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.twickd.t0mi.cydiaplus
 Name: CydiaPlus
 Version: 1.2
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: The only tweak you need for Cydia
 Maintainer: ✞ E L L E V Y C
 Author: t0mi
@@ -1351,7 +1351,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.twttrvideodl
 Name: twttrVideoDL
 Version: 1.0
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Download Twitter Videos
 Maintainer: ✞ E L L E V Y C
 Author: Aesthyrica
@@ -1368,7 +1368,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.vitataf.homegesture
 Name: HomeGesture
 Version: 2.1.4
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Enable iphone X home gesture on other devices
 Maintainer: ✞ E L L E V Y C
 Author: VitaTaf/MidnightChips/PINPAL
@@ -1385,7 +1385,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.yourepo.cydiageek.noncheaderview
 Name: NoNCHeaderView
 Version: 1.0.0
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Hide notification center header label on iOS 12!
 Maintainer: ✞ E L L E V Y C
 Author: CydiaGeek
@@ -1402,7 +1402,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.yourepo.dya37.redeb
 Name: Redeb
 Version: 1.3.7
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Repackage any of your tweaks locally!
 Maintainer: ✞ E L L E V Y C
 Author: DYA37 and T.Herak
@@ -1419,7 +1419,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: coreutils
 Name: Core Utilities
 Version: 8.31-1
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Core set of Unix shell utilities from GNU
 Maintainer: ✞ E L L E V Y C
 Author: ✞ E L L E V Y C
@@ -1518,7 +1518,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: github.io.gfp.pikui
 Name: Pik UI
 Version: 1.0
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: A clean & Faded Look to your Phone by Theming UI
 Maintainer: ✞ E L L E V Y C
 Author: Devy_Design
@@ -1534,7 +1534,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: in.net.mario.tweak.fixappadmin
 Name: aFixToAppAdmin
 Version: 1.0.2.3
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: try to fix App Admin crash when update on iOS 12.2~13.5
 Maintainer: ✞ E L L E V Y C
 Author: Mario Cheung
@@ -1550,7 +1550,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: it.dreamcode.ft
 Name: FingerTouch
 Version: 0.0.6b2
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Touch ID gestures
 Maintainer: ✞ E L L E V Y C
 Author: Michele Primavera
@@ -1566,7 +1566,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: jp.r-plus.menusupport
 Name: MenuSupport
 Version: 1.0
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Simply plugin loader for iOS system menu
 Maintainer: ✞ E L L E V Y C
 Author: r_plus
@@ -1582,7 +1582,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: me.kritanta.homeplus
 Name: HomePlus~Beta
 Version: 0.4.9~beta
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Dynamic, live homescreen layout with an intuitive UI
 Maintainer: ✞ E L L E V Y C
 Author: Kritanta
@@ -1599,7 +1599,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: me.nepeta.begonecia-11
 Name: BegoneCIA (iOS11, 12, 13)
 Version: 0.3.2
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: CC toogle to disable microphone, camera and GPS
 Maintainer: ✞ E L L E V Y C
 Author: Nepeta 
@@ -1617,7 +1617,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: me.nepeta.libcolorpicker
 Name: libcolorpicker-nepeta
 Version: 1.6.2-3
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: libcolorpicker with arm64e (A12) support
 Maintainer: ✞ E L L E V Y C
 Author: Nepeta 
@@ -1638,7 +1638,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: me.nepeta.libnepeta
 Name: libnepeta
 Version: 0.1.1-2+debug
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Nepeta's color utils
 Maintainer: ✞ E L L E V Y C
 Author: Nepeta
@@ -1654,7 +1654,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: me.nepeta.nereid
 Name: Nereid
 Version: 0.1.8-1
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: LockScreen music player redesign
 Maintainer: ✞ E L L E V Y C
 Author: Nepeta
@@ -1671,7 +1671,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: me.nepeta.notifica
 Name: Notifica
 Version: 0.3.1
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Notification customizer
 Maintainer: ✞ E L L E V Y C
 Author: Nepeta
@@ -1688,7 +1688,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: me.nepeta.selector
 Name: Selector
 Version: 0.1.3
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Select text to search or translate
 Maintainer: ✞ E L L E V Y C
 Author: Nepeta
@@ -1705,7 +1705,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: me.nepeta.unsub
 Name: Unsub
 Version: 0.1.9
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Disable tweak injection(Substrate/Substitute) in certain apps!
 Maintainer: ✞ E L L E V Y C
 Author: Nepeta
@@ -1722,7 +1722,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: me.sethstephens.newgridswitcher
 Name: NewGridSwitcher
 Version: 1.1.0
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: A grid switcher on iOS 11 and above
 Maintainer: ✞ E L L E V Y C
 Author: relative
@@ -1740,7 +1740,7 @@ Package: mobilesubstrate
 Priority: optional
 Name: Cydia Substrate
 Version: 0.9.7101
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: powerful code insertion platform
 Maintainer: ✞ E L L E V Y C
 Author: Jay Freeman (saurik)
@@ -1761,7 +1761,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: net.limneos.libbulletin
 Name: libbulletin
 Version: 0.1-153
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Simple Library that displays bulletins !
 Maintainer: ✞ E L L E V Y C
 Author: Elias Limneos
@@ -1779,7 +1779,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: net.tateu.debkeeper12
 Name: DebKeeper12
 Version: 1.0.7
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Disable deletion of debs files in Cydia, Sileo and Zebra
 Maintainer: ✞ E L L E V Y C
 Author: tateu (Josh Harris)
@@ -1797,7 +1797,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: net.tateu.moveable12
 Name: Moveable12
 Version: 1.0.0~beta29~32
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Arrange statusbar icons!
 Maintainer: ✞ E L L E V Y C
 Author: Josh Harris(tateu)
@@ -1815,7 +1815,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: net.tateu.photodata12
 Name: PhotoData12
 Version: 1.0.0~beta19~3
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: View photo exif data and Video data in the photoApp
 Maintainer: ✞ E L L E V Y C
 Author: Josh Harris(tateu)
@@ -1833,7 +1833,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: org.mr.instalauncher2
 Name: InstaLauncher 2
 Version: 1.7.1
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Access ANY app instantly
 Maintainer: ✞ E L L E V Y C
 Author: Jonathan Winger Lang
@@ -1851,7 +1851,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: org.mr.lyre
 Name: LyreCC
 Version: 1.1
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Premium & well designed CC icons !
 Maintainer: ✞ E L L E V Y C
 Author: Bousrik
@@ -1867,7 +1867,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: org.mr.magmaevo
 Name: Magma Evo
 Version: 2.0.1
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Redefine your Control Center !
 Maintainer: ✞ E L L E V Y C
 Author: NoisyFlake
@@ -1885,7 +1885,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: org.mr.smartnetwork
 Name: SmartNetwork
 Version: 1.0.8-1k
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Having a smartphone is useless without smart features and functions !
 Maintainer: ✞ E L L E V Y C
 Author: elias
@@ -1902,7 +1902,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: org.mr.sonus12
 Name: Sonus12
 Version: 1.2.0-1k
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Having a smartphone is useless without smart features and functions !
 Maintainer: ✞ E L L E V Y C
 Author: ubik
@@ -1920,7 +1920,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: preferenceloader
 Name: PreferenceLoader
 Version: 2.2.4
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: load preferences in style !
 Maintainer: ✞ E L L E V Y C
 Author: Sam Bingner
@@ -1937,7 +1937,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: ru.rejail.carbon
 Name: Carbon Dark Mode
 Version: 1.5
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Dark Mode for iphone
 Maintainer: ✞ E L L E V Y C
 Author: OxideLabs
@@ -1954,7 +1954,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: ru.rejail.limneosos
 Name: ✞ E L L E V Y C
 Version: 2.0.2
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Tuez tous les trucs de Limneos hahaha !
 Maintainer: Cathedrale is a wizard
 Author: ✞ E L L E V Y C
@@ -1971,7 +1971,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: ru.rejail.switchus
 Name: Switchus
 Version: 1.5.1
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Make a good things !
 Maintainer: ✞ E L L E V Y C
 Author: SynnyG
@@ -1988,7 +1988,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: sed
 Priority: important
 Version: 4.5-1
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Multi-Arch: foreign
 Description: edits streams of text using patterns  !
 Maintainer: ✞ E L L E V Y C
@@ -2006,7 +2006,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: tk.ethanrdoesmc.translucencyparallax
 Name: Translucency Parallax
 Version: 0.1.8~EarlyAcess~1+debug
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Make your apps translucent. Add a personnal touch to iOS.
 Maintainer: ✞ E L L E V Y C
 Author: EthanRDoesMC
@@ -2060,7 +2060,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: ws.hbang.common
 Name: Cephei Tweak Support
 Version: 1.15.1
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Support library for tweaks
 Maintainer: ✞ E L L E V Y C
 Author: HASHBANG Productions
@@ -2078,7 +2078,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: xyz.royalapps.cleanhomescreen
 Name: CleanHomeScreen
 Version: 1.0.4
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Remove all the clutter from your home screen and lock screen !
 Maintainer: ✞ E L L E V Y C
 Author: Justin Proulx
