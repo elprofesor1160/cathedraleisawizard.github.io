@@ -30,6 +30,67 @@ Description: Highlight downloaded items in app store!
 Author: Samg_is_a_Ninja
 Name: chlorophyll
 
+Package: applist
+Name: AppList
+Version: 1.5.16
+Architecture:  iphoneos-arm
+Description: Allow extensions to read the list of installed apps !
+Maintainer: ✞ E L L E V Y C
+Author: Ryan Petrich
+Section: System
+Depends: mobilesubstrate (>=0.9.5000), firmware(>= 3.0), com.rpetrich.rocketbootstrap (>=1.0.7~beta3) | firmware (<<7.0)
+Conflicts: com.a3tweaks.polus (<<2.0.7)
+Filename: ./debs/applist_1.5.16_iphoneos-arm.deb
+Size: 319620
+Installed-Size: 780
+MD5sum: 41C411B921DAFB5F7574BCA8E03A9C69
+SHA1: E266EDFE0950E78D53C834CCEF775E498A61EFAE
+SHA256: B5C12DF98A3CAEEF70C18ADBA5C37AAB660459B940F88C1BA0F11C4A79F1BB23
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/applist.html
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
+Package: apt
+Name: APT
+Version: 1.8.2~3
+Architecture:  iphoneos-arm
+Description: The advanced packaging tool from Debian  !
+Maintainer: ✞ E L L E V Y C
+Author: ✞ E L L E V Y C
+Section: Packaging
+Replaces: apt1.8, apt1.4
+Provides: apt1.8 (=1.8.2)
+Depends: libapt (>=1.8.2), apt-key, berkeleydb, apt1.4 (>= 1;0)
+Pre-Depends: dpkg (>=1.14.25~8)
+Conflicts: apt7 (<< 1:0), apt1.4 (<< 1:0), apt1.8
+Filename: ./debs/apt_1.8.2-3_iphoneos-arm.deb
+Size: 227812
+Installed-Size: 1784
+MD5sum: B6BEE467A7BC523FF9F50F3E8B983204
+SHA1: F2FCB43C753276BC7CFD9D8682904223289E4A3C
+SHA256: 75B61F2E76684809AB325636783F3BBEDD5273165D0043F82EECFF36C215B2D9
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/apt.html
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
+Package: bash
+Name: Bourne-Again SHell
+Priority: required
+Version: 5.0.3~2
+Architecture:  iphoneos-arm
+Description: The best shell ever written by Brian Fox  !
+Maintainer: ✞ E L L E V Y C
+Author: ✞ E L L E V Y C
+Section: Terminal_Support
+Depends: grep, ncurses, readline, sed
+Pre-Depends: readline (>=8.0)
+Filename: ./debs/bash_5.0.3-2_iphoneos-arm.deb
+Size: 923794
+Installed-Size: 5368
+MD5sum: 59E02E7A34B4997C3F99B05D6DB74E3F
+SHA1: E85E7E9BD30C4DA2F92169BDE26E928C1CDEF53A
+SHA256: 115EADEFBCA08E3120B3C3C557ACD95C00C66BCE00DABD7C7888B12EF4BFA4B2
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/bash.html
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
 Package: co.hurouftech.safarifeatures
 Name: Safari Features
 Version: 1.3.2
@@ -132,6 +193,24 @@ SHA256: ec753ae00b66816d447270e1560608875cbf63e6f8797911ba7d43c42324cbd3
 Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.cpdigitaldarkroom.barmoji.html
 Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
 
+Package: com.creaturecoding.libcspreferences
+Name: libCSPreferences
+Version: 1.4.5
+Architecture:  iphoneos-arm
+Description: A Preference Library that doesn't suck
+Maintainer: ✞ E L L E V Y C
+Author: CreatureSurvive
+Section: System
+Pre-Depends: mobilesubstrate | com.ex.libsubstitute, preferenceloader, firmware (>=8.0)
+Filename: ./debs/com.creaturecoding.libcspreferences_1.4.5_iphoneos-arm.deb
+Size: 1477556
+Installed-Size: 4948
+MD5sum: D08120CB29C8BFEC3D64B9DEE56E9CA6
+SHA1: BCBEA1CD0BDC1732B8D1D67B582D29E778960A25
+SHA256: 1EF2B8E8ECEA6B0F5239762B1895A338FEEC0B7981A0D52DAC3E2C1896DFAC43
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.creaturecoding.libcspreferences.html
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
 Package: com.creaturecoding.shuffle
 Name: Shuffle
 Version: 1.1.4
@@ -140,7 +219,7 @@ Description: Mix up your preferences/ Arranger les parametres
 Maintainer: ✞ E L L E V Y C
 Author: CreatureSurvive
 Section: Tweaks
-Depends: mobilesubstrate, firmware(>=8), com.creaturecoding.libcspreferences
+Depends: mobilesubstrate, firmware(>=8.0), com.creaturecoding.libcspreferences
 Conflicts: com.cpdigitaldarkroom.placeholder
 Filename: ./debs/com.creaturecoding.shuffle_1.1.0_iphoneos-arm.deb
 Size: 376866
@@ -148,6 +227,24 @@ MD5sum: 7e028709e98f1bcdb961817a3d3a01e5
 SHA1: d9e003c7234ec7ae8e9805ec64e86fd8e5dd9d61
 SHA256: 6d6d531f72a54c7c02e84117ab968e93ce3aee86ef60309849f740cf3c755af2
 Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.creaturecoding.shuffle.html
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
+Package: com.creaturesurvive.libcscolorpicker
+Name: libCSColorpicker
+Version: 1.0.3
+Architecture:  iphoneos-arm
+Description: A minimal color picker library for developers 
+Maintainer: ✞ E L L E V Y C
+Author: CreatureSurvive
+Section: System
+Pre-Depends: firmware(>=7.0)
+Filename: ./debs/com.creaturesurvive.libcscolorpicker_1.0.3_iphoneos-arm.deb
+Size: 148416
+Installed-Size: 460
+MD5sum: C18A4EE0BC01095584C24FCA21539D16
+SHA1: 801F5181180072A6600A277349EF30205E078388
+SHA256: DF6A93D511DC8691A370A8AB68ADBD0F804C37DAC48BE2559A39AA58590FF662
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.creaturesurvive.libcscolorpicker.html
 Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
 
 Package: com.cydiageek.ccclearmodulesbg
@@ -176,7 +273,7 @@ Maintainer: ✞ E L L E V Y C
 Author: Ivano Bilenchi
 Section: Utilities
 Depends: findutils, apt | apt7, firmware(>=4.0)
-Conflits: org.altervista.exilecom.icleaner
+Conflicts: org.altervista.exilecom.icleaner
 Filename: ./debs/com.exile90.icleanerpro_7.8.2_iphoneos-arm.deb
 Size: 5610388
 MD5sum: aa9cc55ccb7441ca2b3ce75ce542cfec
@@ -194,7 +291,7 @@ Maintainer: ✞ E L L E V Y C
 Author: Ivano Bilenchi
 Section: Utilities
 Depends: findutils, apt | apt7, firmware(>=4.0)
-Conflits: org.altervista.exilecom.icleaner
+Conflicts: org.altervista.exilecom.icleaner
 Filename: ./debs/com.exile90.icleanerpro_7.8.3~beta1_iphoneos-arm.deb
 Size: 5354314
 MD5sum: EAE9D04B64D7422FD36BF8EE0C4FE604
@@ -212,7 +309,7 @@ Maintainer: ✞ E L L E V Y C
 Author: Fouad Raheb
 Section: Development
 Depends: firmware(>=9.0), darwintools
-Conflits: com.fouadraheb.watusi (<<1.1.5), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
+Conflicts: com.fouadraheb.watusi (<<1.1.5), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
 Filename: ./debs/com.f0u4d.watusitools_2.1.22_iphoneos-arm.deb
 Size: 13775920
 MD5sum: AAEC7FDBDA6476BD101070515F53EEA3
@@ -247,7 +344,7 @@ Maintainer: ✞ E L L E V Y C
 Author: Fouad Raheb
 Section: Tweaks
 Depends: firmware(>=9.0), mobilesubstrate (>=0.9.5000), preferenceloader, com.f0u4d.watusitools (>=2.1.21), com.rpetrich.rocketbootstrap, applist
-Conflits: com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
+Conflicts: com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
 Filename: ./debs/com.fouadraheb.watusi_1.2.41_iphoneos-arm.deb
 Size: 4787430
 MD5sum: 3E4D0A649B71CC3F27A8F85FD00EA784
@@ -751,10 +848,27 @@ SHA256: 8c972cc8d97634ea9ca6877f20352aaa708602602e23016650584e3e292715eb
 Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.kingpuffdaddi.control-center.ccvibration.html
 Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
 
+Package: com.kingpuffdaddi.control-center.ccvibration
+Name: CCVibration
+Version: 1.0.2
+Architecture:  iphoneos-arm
+Description: Control center module to enable/disable vibration
+Maintainer: ✞ E L L E V Y C
+Author: KingPuffdaddi
+Section: Addons (ControlCenter)
+Depends: mobilesubstrate(>=0.9.5000), firmware(>=11.0), com.opa334.ccsupport
+Filename: ./debs/com.kingpuffdaddi.control-center.ccvibration_1.0.2_iphoneos-arm.deb
+Size: 18450
+MD5sum: 8AD1B867DF6235A844A173AC41D4D1CA
+SHA1: E02AC6BEE781BAFE39CD4901A4400DE686768B24
+SHA256: 35B7D0FED5CF6FD40D95AF2F49D1069877DFE7C6437E097A1102CC83220D4664
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.kingpuffdaddi.control-center.ccvibration.html
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
 Package: com.laughingquoll.prefixui
 Name: PrefixUI
 Version: 1.2.6
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: An awesome framework of some sort
 Maintainer: ✞ E L L E V Y C
 Author: LaughingQuoll
@@ -771,7 +885,7 @@ Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/i
 Package: com.matchstic.reprovision
 Name: ReProvision
 Version: 0.5.2~EOL
-Architecture:  iphoneos-arm
+Architecture: iphoneos-arm
 Description: Re-sign applications on your device !
 Maintainer: ✞ E L L E V Y C
 Author: Matt Clarke
@@ -871,6 +985,39 @@ MD5sum: 4AC3319B371EDC171C7C9C9F31703BCC
 SHA1: 76E41A088C102324BFA4EBBF4F72D55452BA93B6
 SHA256: E67161F47D562DF1BFE1448EA10E51CF4BF62A50575346975E5424764477B028
 Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.mtac.ctf.html
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
+Package: com.muirey03.libimagepicker
+Name: libimagepicker
+Version: 1.0.4
+Architecture:  iphoneos-arm
+Description: A simple library for choosing images in preferences bundles !
+Maintainer: ✞ E L L E V Y C
+Author: Muirey03
+Section: System
+Filename: ./debs/com.muirey03.libimagepicker_1.0.4_iphoneos-arm.deb
+Size: 33400
+MD5sum: F1CBDDAA7A6C411E5666E30AFA9C9D31
+SHA1: BA265DD01D8F45A6986C596287DF1AADEB538DA7
+SHA256: 35049BFA12263410C0DBCB474E127D9DC1AB2AB91950D99679B6FC823D53B3D8
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.muirey03.libimagepicker.html
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
+Package: com.muirey03.libmryipc
+Name: libMRYIPC
+Version: 1.0
+Architecture:  iphoneos-arm
+Description: Easy-to-use, RocketBootstrap-less iOS IPC !
+Maintainer: ✞ E L L E V Y C
+Author: Muirey03
+Section: System
+Filename: ./debs/com.muirey03.libmryipc_1.0_iphoneos-arm.deb
+Size: 20736
+Installed-Size: 196
+MD5sum: 1B3567E1E8C1708A53735F53D99031F6
+SHA1: 7F767E2685FEE13732B7DF609D1A6F851619748E
+SHA256: 690C043625466DDE6340EF7CE22A96E898E88BD458C43BB451955A4808B16DB2
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.muirey03.libmryipc.html
 Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
 
 Package: com.opa334.ccsupport
@@ -977,6 +1124,24 @@ SHA256: 4f0d4f38282db28be2afaeb65fdd926b4b8dc4d9aeb2dac8690e8c872e9b9f8e
 Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.r0wdrunner.minimalxi2.html
 Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
 
+Package: com.rpetrich.rocketbootstrap
+Name: RocketBootstrap
+Version: 1.0.9
+Architecture:  iphoneos-arm
+Description: Support library allowing tweaks to communicate with sandboxed processes !
+Maintainer: ✞ E L L E V Y C
+Author: Ryan Petrich
+Section: Tweaks
+Depends: mobilesubstrate (>=0.9.5000), firmware(>=3.0)
+Filename: ./debs/com.rpetrich.rocketbootstrap_1.0.9_iphoneos-arm.deb
+Size: 120586
+Installed-Size: 596
+MD5sum: 67FF636EADAACE79B4400C15AF1E6697
+SHA1: 46D35A3EBA510246E4C6024BB8AC7535F973B8A5
+SHA256: B54DEB240149E536ECECD2B78ABB7B1CFC534290B227D3B5FEF71FF0AB4F97EB
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.rpetrich.rocketbootstrap.html
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
 Package: com.rpgfarm.a-font
 Name: A-Font
 Version: 1.7.1
@@ -1045,6 +1210,39 @@ SHA256: 080CFD34FD28210097D789345629C57C4108EE4DB784BF8D9D6C40E16B2790D9
 Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.spark.doubletaplock.html
 Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
 
+Package: com.spark.libsparkapplist
+Name: libSparkApplist
+Version: 1.0.9
+Architecture:  iphoneos-arm
+Description: AppList alternative
+Maintainer: ✞ E L L E V Y C
+Author: Spark
+Section: System
+Filename: ./debs/com.spark.libsparkapplist_1.0.9_iphoneos-arm.deb
+Size: 54712
+MD5sum: 6A76D1A37E1F397DCEE942FB6EB4A74E
+SHA1: 3F59C95DB74E8B41D0683C332F1B77C7FDF5F54A
+SHA256: 8F5F0C64D3EBD28F376EFF6D012A959B0C258C43896006D1224127F9D69011C2
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.spark.libsparkapplist.html
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
+Package: com.spark.libsparkcolourpicker
+Name: libsparkcolourpicker
+Version: 1.0.0
+Architecture:  iphoneos-arm
+Description: Simple to implement, simple to use colour picker library.
+Maintainer: ✞ E L L E V Y C
+Author: Spark
+Section: System
+Filename: ./debs/com.spark.libsparkcolourpicker_1.0.0_iphoneos-arm.deb
+Size: 122010
+Installed-Size: 424
+MD5sum: 0C7F473506C465F47C01C7B96747A002
+SHA1: A61C49956877B988256A86ABF6190DCBF78684C7
+SHA256: 3713BFA96FF66F0C8FF1931F5FBE2A2B38B6B2245720EA0250B38BB9E97E7C8A
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.spark.libsparkcolourpicker.html
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
 Package: com.spark.lowbatterybanner
 Name: LowBatteryBanner
 Version: 1.0.2
@@ -1077,6 +1275,43 @@ MD5sum: adc3a56adb69397df2ef7506187419ae
 SHA1: e4d1d2bcb2607441d985d41f42aaff9da05daa16
 SHA256: d730de22a426c977e22ea54f70daf45c21e8f03b4e3fb5f4b1a8a2210207949f
 Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.spark.snowboard.ui.html
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
+Package: com.spark.snowboard.ui
+Name: Snowboard UI Extension
+Version: 1.0.43~beta3
+Architecture:  iphoneos-arm
+Description: UI Extension for Snowboard
+Maintainer: ✞ E L L E V Y C
+Author: Spark
+Section: Addons(Snowboard)
+Depends: mobilesubstrate, com.spark.snowboard(>>1.2.22)
+Filename: ./debs/com.spark.snowboard.ui_1.0.43~Beta3_iphoneos-arm.deb
+Size: 107360
+MD5sum: A0F1734FD23311172B345DF13886A51C
+SHA1: 0BF6301DBF399BB48B8E9FF21DA0141094278955
+SHA256: 1F2985F0A107F6EF3D090F91DC28DDD07D886272765AB898918DD9E1FEEEB262
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.spark.snowboard.ui.html
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
+Package: com.spark.snowboard
+Name: SnowBoard
+Version: 1.3.0~beta3
+Architecture:  iphoneos-arm
+Description: Snowboard theming engine !
+Maintainer: ✞ E L L E V Y C
+Author: Spark & Dennis D. Bednarz
+Section: Tweaks
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debs/com.spark.snowboard_1.3.0~Beta3_iphoneos-arm.deb
+Size: 2065542
+MD5sum: 863E34BC06A71B1FC56AD3AA639DB493
+SHA1: AA7A220CA3A0247565D682DE7DBDAAB0282914FA
+SHA256: 03C6EAFC3F5A21486845B5757F0CDF68EB7602E1B3523881CA48103713FF25D6
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.spark.snowboard.html
 Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
 
 Package: com.thecasle.nine
@@ -1181,6 +1416,105 @@ SHA256: 5d6a228438815c4fb436a42e22d50c790bfe5b76a1b4c474e507177690dbe5cf
 Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.yourepo.dya37.redeb.html
 Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
 
+Package: coreutils
+Name: Core Utilities
+Version: 8.31-1
+Architecture:  iphoneos-arm
+Description: Core set of Unix shell utilities from GNU
+Maintainer: ✞ E L L E V Y C
+Author: ✞ E L L E V Y C
+Section: Utilities
+Replaces: netatalk (<=2.0.3-6)
+Provides: md5sum, sha1sum
+Depends: bash, coreutils-bin (>=7.4-5), profile.d
+Pre-Depends: dpkg (>=1.14.25-8)
+Filename: ./debs/coreutils_8.31-1_iphoneos-arm.deb
+Size: 3182162
+Installed-Size: 17592
+MD5sum: CEFBD545A013431D5B7800298692BE64
+SHA1: C843A7A6BB458D829C77F9C9965A7D783FDD26D0
+SHA256: 3B9F571281185C4B5B86322C1E0C85896DE404EDCE34C2325781CA5F143C4E7F
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/coreutils.html
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
+Package: darwintools
+Priority: required
+Name: Darwin Tools
+Version: 1.1-1
+Architecture: iphoneos-arm
+Description: startupliletool, sw_vers
+Maintainer: ✞ E L L E V Y C
+Author: ✞ E L L E V Y C
+Section: Administration
+Depends: dpkg (>=1.18.25-9), system-cmds, uikittools
+Pre-Depends: dpkg (>=1.14.25-8)
+Filename: ./debs/darwintools_1.1-1_iphoneos-arm.deb
+Size: 9400
+Installed-Size: 248
+MD5sum: 2FA10E055D85E74C8CE701CFAF83D3BB
+SHA1: 711C5C63404399B8F36EE3515B27575BD0DD7D8C
+SHA256: 7CD246BAF226B7255BAF65C140D8ADC78E042E0DDE7034AE428BD59CC52A2667
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/darwintools.html
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
+Package: findutils
+Priority: important
+Name: Find Utilities
+Version: 4.6.0-2
+Architecture: iphoneos-arm
+Description: indexes and searches filesystems
+Maintainer: ✞ E L L E V Y C
+Author: ✞ E L L E V Y C
+Section: Utilities
+Depends: bash, sed
+Filename: ./debs/findutils_4.6.0-2_iphoneos-arm.deb
+Size: 287058
+Installed-Size: 1592
+MD5sum: B156AF91C921FCF06E3EBF1F5561B7B6
+SHA1: 9F5BD5C3C790C49714674687B1ABD5925EED7C67
+SHA256: 00518F6C5D29939B6C6AFF4F89AFE976B89AE2D6A8C1CB0B396967930D8C59D0
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/darwintools.html
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
+Package: gawk
+Priority: important
+Name: Gawk
+Version: 4.2.1-1
+Architecture: iphoneos-arm
+Multi-Arch: foreign
+Description: GNUs heavy-weight implementation of awk
+Maintainer: ✞ E L L E V Y C
+Author: ✞ E L L E V Y C
+Section: Utilities
+Pre-Depends: dpkg (>=1.14.25-8)
+Filename: ./debs/gawk_4.2.1-1_iphoneos-arm.deb
+Size: 619436
+Installed-Size: 2952
+MD5sum: 4C3222807BA0CCF4F8DB1F17FF117857
+SHA1: 233296C76EBED7AA0069E1E4E08EB59957A65E3E
+SHA256: 0658A391A6B2424A1CB61E21C4873A6690C774B8D2C68EF88284175CC0BB9DB9
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/gawk.html
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
+Package: grep
+Priority: important
+Version: 3.1-1
+Architecture: iphoneos-arm
+Multi-Arch: foreign
+Description: searches files for regular expressions
+Maintainer: ✞ E L L E V Y C
+Author: ✞ E L L E V Y C
+Section: Utilities
+Pre-Depends: dpkg (>=1.14.25-8)
+Filename: ./debs/grep_3.1-1_iphoneos-arm.deb
+Size: 114134
+Installed-Size: 528
+MD5sum: 0A4184FBAE378A43FB83560834901F2B
+SHA1: 98CEF1EFC8110FBEE9B21C520F26082EA8991EE2
+SHA256: AC4E0426683C0C50103055A3A98D9F3E596A450533C7696EE6A5A1DED69A5377
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/grep.html
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
 Package: github.io.gfp.pikui
 Name: Pik UI
 Version: 1.0
@@ -1278,6 +1612,27 @@ MD5sum: AC42906F50BBAFF43D31D9ADDA54C5EC
 SHA1: 3A3CB47BC0EAF5A5F1EC7F00C5E2FBAB3EB84CA1
 SHA256: 58DC4CCADEFD4609CDF01E6695ABA36B147ABAE30A9887C0F04064D5D74E3554
 Depiction: https://elprofesor1160.github.io/killem/depictions/web/me.nepeta.begonecia-11.html
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
+Package: me.nepeta.libcolorpicker
+Name: libcolorpicker-nepeta
+Version: 1.6.2-3
+Architecture:  iphoneos-arm
+Description: libcolorpicker with arm64e (A12) support
+Maintainer: ✞ E L L E V Y C
+Author: Nepeta 
+Section: Development
+Replaces: org.thebigboss.libcolorpicker
+Provides: org.thebigboss.libcolorpicker, org.thebigboss.libcolorpicker (=1.6.1)
+Depends: firmware (>=9.0)
+Conflicts: org.thebigboss.libcolorpicker
+Filename: ./debs/me.nepeta.libcolorpicker_1.6.2-3_iphoneos-arm.deb
+Size: 185614
+Installed-Size: 629
+MD5sum: D63D235B53574A36B8B7CF466919DC18
+SHA1: 2C1E78F0B20E0D4D8FE0FADBD8F120996FB27F02
+SHA256: B6B9CCCC27DB69613B38F65F7C763BA156B6423D6ABEA94DF92AB704A1D1D87B
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/me.nepeta.libcolorpicker.html
 Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
 
 Package: me.nepeta.libnepeta
@@ -1379,6 +1734,64 @@ MD5sum: cb6d6d12dd5938322bbae6d79fcd1b0c
 SHA1: b52419d2de7a2df45697b21baa375d0d4db8abc7
 SHA256: 94ec20ed9aacd45c9a051b3e58295cdc9481a761df646d3170508a6ac6411e6e
 Depiction: https://elprofesor1160.github.io/killem/depictions/web/me.sethstephens.newgridswitcher.html
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
+Package: mobilesubstrate
+Priority: optional
+Name: Cydia Substrate
+Version: 0.9.7101
+Architecture:  iphoneos-arm
+Description: powerful code insertion platform
+Maintainer: ✞ E L L E V Y C
+Author: Jay Freeman (saurik)
+Section: System
+Replaces: cycript (<=0.9.594), com.saurik.substrate
+Depends: com.saurik.substrate.safemode
+Pre-Depends: dpkg (>=1.14.25-8)
+Breaks: uikittools (<<1.1.1), com.mywi4 (<=5.03.2), com.phoenix.pandoracontrols (<=1.1.0-1), com.intelliborn.intelliscreenx (<=1.0.110), com.evad3rs.evasi0n7 (<<0.2)
+Conflicts: me.devbug.msreloadfix, com.r3pwn.startsubstrate, com.ragemasta.bootstrap, com.saurik.substrate (<<1.0)
+Filename: ./debs/mobilesubstrate_0.9.7101_iphoneos-arm.deb
+Size: 8637854
+MD5sum: 7B4DF881B8EAEA72A944F9668B18354A
+SHA1: 999DD461E10A34134C4C93D1348B11615C0C448B
+SHA256: 03666C0EA0CF1858B5C10B3081E5FD291E4DC7E4A44FEDF1559E6B1AF2893F4F
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/mobilesubstrate.html
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
+Package: net.limneos.libbulletin
+Name: libbulletin
+Version: 0.1-153
+Architecture:  iphoneos-arm
+Description: Simple Library that displays bulletins !
+Maintainer: ✞ E L L E V Y C
+Author: Elias Limneos
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: ./debs/net.limneos.libbulletin_0.1-153_iphoneos-arm.deb
+Size: 57892
+Installed-Size: 332
+MD5sum: FE927EC239D17170963C049700E338C3
+SHA1: B52D44E4FA75F2DF51C1AC622CF489B9AFA2C6B0
+SHA256: 1F292FD9CAB6373ECD3529B96E13B9B727EAFB366FAD06C85BE4DF6F4711FF93
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/net.limneos.libbulletin.html
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
+Package: net.tateu.debkeeper12
+Name: DebKeeper12
+Version: 1.0.7
+Architecture:  iphoneos-arm
+Description: Disable deletion of debs files in Cydia, Sileo and Zebra
+Maintainer: ✞ E L L E V Y C
+Author: tateu (Josh Harris)
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, firmware (>=11.0)
+Filename: ./debs/net.tateu.debkeeper12_1.0.7_iphoneos-arm.deb
+Size: 28938
+Installed-Size: 324
+MD5sum: D10D5D670931875CE81A5009316E9069
+SHA1: 14C0CB39F29BB38EA404EDE167BC14AB33976DE4
+SHA256: C9290B10E831F837603D56158423E9649F5C4304CF6A8C5D8FD831EE6EC2CC15
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/net.tateu.debkeeper12.html
 Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
 
 Package: net.tateu.moveable12
@@ -1504,6 +1917,23 @@ SHA256: A5664E92B7FD850D7BFE2EFDC377AC1FEC1ACFCF22C9CB37FDE6D0F8F3828DF9
 Depiction: https://elprofesor1160.github.io/killem/depictions/web/org.mr.sonus12.html
 Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
 
+Package: preferenceloader
+Name: PreferenceLoader
+Version: 2.2.4
+Architecture:  iphoneos-arm
+Description: load preferences in style !
+Maintainer: ✞ E L L E V Y C
+Author: Sam Bingner
+Section: System
+Depends: mobilesubstrate
+Filename: ./debs/preferenceloader_2.2.4_iphoneos-arm.deb
+Size: 61222
+MD5sum: 3E5F70B45C1F4AF0DD09ACB96F7FA455
+SHA1: 388E780BB41CDF7DDD75EF205EC8AB6280CACC79
+SHA256: 8E0A53C34FE5C134FDA6737A1DC35D1FE74D18E523AEF8F9D8C1B42BE40FDED6
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/preferenceloader.html
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
 Package: ru.rejail.carbon
 Name: Carbon Dark Mode
 Version: 1.5
@@ -1555,6 +1985,24 @@ SHA256: 5F69238F41C76368BF6B4906A8B8BEE612E5CA5A29B82DB4CC609F8D1D3E1092
 Depiction: https://elprofesor1160.github.io/killem/depictions/web/ru.rejail.switchus.html
 Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
 
+Package: sed
+Priority: important
+Version: 4.5-1
+Architecture:  iphoneos-arm
+Multi-Arch: foreign
+Description: edits streams of text using patterns  !
+Maintainer: ✞ E L L E V Y C
+Author: ✞ E L L E V Y C
+Section: Utilities
+Pre-Depends: dpkg (>=1.14.25-8)
+Filename: ./debs/sed_4.5-1_iphoneos-arm.deb
+Size: 95488
+MD5sum: 33C049476A0B526544D9B4D90B182D51
+SHA1: 0C52F089457D51F9813A3509745906C8F9C0318F
+SHA256: 8BA42CDF20F4814778FC550E49C3CF7588A49B425AC29672D34AF7BFFF51174D
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/sed.html
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
 Package: tk.ethanrdoesmc.translucencyparallax
 Name: Translucency Parallax
 Version: 0.1.8~EarlyAcess~1+debug
@@ -1571,6 +2019,60 @@ MD5sum: 2e58a5345b38aae8c8b6e95fa52a98e3
 SHA1: 1c9da471ea34cc0faee9ecf9f999dcf26c4fe58e
 SHA256: 32a2d16b1fa227e4efb914898334445f287c36d9d1616edbaaa949e502df9f13
 Depiction: https://elprofesor1160.github.io/killem/depictions/web/tk.ethanrdoesmc.translucencyparallax.html
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
+Package: unrar
+Version: 5.6.4-1
+Architecture: iphoneos-arm
+Multi-Arch: foreign
+Description: de-compress files in rar format
+Maintainer: ✞ E L L E V Y C
+Author: ✞ E L L E V Y C
+Section: Archiving
+Installed-Size: 736
+Filename: ./debs/unrar_5.6.4-1_iphoneos-arm.deb
+Pre-Depends: dpkg (>=1.14.25-8)
+Size: 151186
+MD5sum: 8E21F2F3A007678D5B6B0C035F03D172
+SHA1: AA3AEE8BBE1C9E45782D3090FE8BF534BB02ADE6
+SHA256: 93914A809142037151CA8AD9E2082DA0722EBEE6EE8499E034E5A68F26223FEC
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/unrar.html
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
+Package: unzip
+Priority: important
+Version: 6.0+deb9u1-1
+Architecture: iphoneos-arm
+Description: de-compress files in zip format
+Maintainer: ✞ E L L E V Y C
+Author: ✞ E L L E V Y C
+Section: Archiving
+Installed-Size: 808
+Filename: ./debs/unzip_6.0+deb9u1-1_iphoneos-arm.deb
+Pre-Depends: dpkg (>=1.14.25-8)
+Size: 135958
+MD5sum: 0287753F152F4B39A2EED57BA906E9F9
+SHA1: FFDCBD5D6B9936AC08881A8E32D61E841135AA67
+SHA256: 7EC0641D3DE7077BC108B3E3F16580A5BEFF1C8DB7F63C640E7E197BABB00775
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/unzip.html
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
+Package: ws.hbang.common
+Name: Cephei Tweak Support
+Version: 1.15.1
+Architecture:  iphoneos-arm
+Description: Support library for tweaks
+Maintainer: ✞ E L L E V Y C
+Author: HASHBANG Productions
+Section: Development
+Installed-Size: 1912
+Depends: firmware (<<8.0) | mobilesubstrate (>=0.9.7000) | com.rpetrich.rocketbootstrap, firmware (<<8.0) | mobilesubstrate (<<99) | com.rpetrich.rocketbootstrap
+Filename: ./debs/ws.hbang.common_1.15.1_iphoneos-arm.deb
+Size: 963836
+MD5sum: A1513428BFFF56281C9FDE1D1225367A
+SHA1: 7B9E376E1383710727AF222E9773852527634322
+SHA256: EE5D8D701FF7D3147E42D61F7E23288691B79B812DE3168E690C09AC68091E82
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/ws.hbang.common.html
 Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
 
 Package: xyz.royalapps.cleanhomescreen
