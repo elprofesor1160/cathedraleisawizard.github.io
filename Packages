@@ -1475,23 +1475,6 @@ SHA256: 7CD246BAF226B7255BAF65C140D8ADC78E042E0DDE7034AE428BD59CC52A2667
 Depiction: https://elprofesor1160.github.io/killem/depictions/web/darwintools.html
 Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
 
-Package: EyeSeeYou
-Name: EyeSeeYou
-Version: 2.0.2
-Architecture: iphoneos-arm
-Description: Tuez tous les trucs de Limneos hahaha !
-Maintainer: ✞ E L L E V Y C
-Author: ✞ E L L E V Y C
-Section: Tweaks
-Depends: mobilesubstrate
-Filename: ./debs/EyeSeeYou_2.0.2_iphoneos-arm.deb
-Size: 36078
-MD5sum: 22C603187F52B591344EF509BEAB05BB
-SHA1: 3B9F1DBE1DAAB56150475D63FF07844B02C275C3
-SHA256: 1CB012135755F41AA0336760CA9C4A1A74CA742AD1317E184B728DCEB7F82946
-Depiction: https://elprofesor1160.github.io/killem/depictions/web/ru.rejail.limneosos.html
-Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
-
 Package: findutils
 Priority: important
 Name: Find Utilities
@@ -1984,6 +1967,23 @@ MD5sum: 6D155E00A725474979D1A74F70CA56E0
 SHA1: ED446EAE74370093D1462CFE3B231B626B7CF7A1
 SHA256: DAF3DAC393EDE5A5F774E0A49F2829018E67FB8EACF795CC9F61780D3508563B
 Depiction: https://elprofesor1160.github.io/killem/depictions/web/ru.rejail.carbon.html
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
+Package: ru.rejail.limneosos
+Name: EyeSeeYou ✞
+Version: 2.0.2
+Architecture: iphoneos-arm
+Description: Tuez tous les trucs de Limneos hahaha !
+Maintainer: Cathedrale is a wizard
+Author: ✞ E L L E V Y C
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: ./debs/ru.rejail.limneosos_2.0.2_iphoneos-arm.deb
+Size: 36140
+MD5sum: 65371BF089FA9697AA8E7BC6980D6890
+SHA1: D1CA85C2529EA41D31E9FFB253C1F59B09D3201F
+SHA256: 75BBD041105D834A9DD5C90C0E82EA0B856C3576F5DB35A4F2B3DB984C049815
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/ru.rejail.limneosos.html
 Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
 
 Package: ru.rejail.switchus
