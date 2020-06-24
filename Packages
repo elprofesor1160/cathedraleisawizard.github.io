@@ -780,6 +780,24 @@ SHA256: CB3D305B0FA9844E2ACDD0ABB7C0C0B441CCD7359297BDA836C80591006F8055
 Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.johnzaro.perfectreddit.html
 Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
 
+Package: com.johnzaro.perfectreddit
+Name: PerfectReddit
+Version: 1.7
+Architecture: iphoneos-arm
+Description: Remove Promoted Posts, Remove all suggestions and edit theme colors !
+Maintainer: ✞ E L L E V Y C
+Author: johnzaro
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker, ws.hbang.common (>=1.14), firmware (>=12.0)
+Filename: ./debs/com.johnzaro.perfectreddit_1.7_iphoneos-arm.deb
+Size:286890
+Installed-Size: 632
+MD5sum: 31F29AD8E4E1927A42A38BA51E3862AB
+SHA1: 40B3B3C58E784410A8A6DFC10887D6776888F349
+SHA256: 71E221FA0857E7EF75FF605C16E45B671F9D442CC5536A2250256A3A66AC693E
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.johnzaro.perfectreddit.html
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
 Package: com.julioverne.goodwifi
 Name: GoodWiFi
 Version: 0.0~beta5a
