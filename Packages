@@ -30,6 +30,23 @@ Description: Highlight downloaded items in app store!
 Author: Samg_is_a_Ninja
 Name: chlorophyll
 
+Package: com.rileytestut.altdaemon
+Section: System
+Maintainer: ✞ E L L E V Y C
+Depends: firmware (>=12.2)
+Architecture: iphoneos-arm
+Version: 0.1
+Filename: ./debs/AltDaemon.deb
+Size: 873258
+Description: AltDaemon allows AltStore to install and refresh apps without a computer.
+Name: AltDaemon
+Icon: https://pwnders.github.io/repo/icons/AltDaemon.png
+Author: Riley Testut - T7Y
+MD5sum: 1bbb0546d88a0011cf1311acc66afca4
+SHA1: 76a657be16ab1f7ee56dfa5297e6c21cc43f46df
+SHA256: fbf46faaeb7a3ee3d9d6c1071394a12bb0ccb1832213440ce5c5a9347c9950b6
+Depiction: https://pwnders.github.io/repo/packageInfo/AltDaemon.html
+
 Package: applist
 Name: AppList
 Version: 1.5.16
@@ -1141,6 +1158,23 @@ SHA1: d6e3b5df6549302b4376f0258f9c4c8e498e174f
 SHA256: 4f0d4f38282db28be2afaeb65fdd926b4b8dc4d9aeb2dac8690e8c872e9b9f8e
 Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.r0wdrunner.minimalxi2.html
 Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
+Package: com.rileytestut.altstore.alpha.jailbroken
+Section: Tweaks
+Maintainer: ✞ E L L E V Y C
+Depends: firmware (>=12.2), com.rileytestut.altdaemon
+Architecture: iphoneos-arm
+Version: 1.4a4
+Filename: ./debs/com.rileytestut.AltStore.Alpha.Jailbroken_iphoneos-arm.deb
+Size: 3124474
+Description: Jailbroken version of AltStore with on device signing feauture.
+Name: AltStore (ALPHA)
+Icon: https://pwnders.github.io/repo/icons/com.rileytestut.altstore.alpha.jailbroken.png
+Author: Riley Testut - T7Y
+MD5sum: e9824193c0d561e1617a70fb0529dc4a
+SHA1: 84f8f2cf8503853f00119428b7834cfb07462bc8
+SHA256: 07f33096485919cf8b5718a52508b1351bdf296e38ef9ce66af7fb9935cca3e8
+Depiction: https://pwnders.github.io/repo/packageInfo/com.rileytestut.AltStore.Alpha.Jailbroken.html
 
 Package: com.rpetrich.rocketbootstrap
 Name: RocketBootstrap
