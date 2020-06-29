@@ -2211,7 +2211,7 @@ MD5sum: f8fecdb4ff83999b59cac1a3c41667bf
 SHA1: 9433c7bd7dcb6d5fadef6ca301d525ba08359ec2
 SHA256: c1d4d84896e6a08618e8d80b02f844b4a003d6bb3de14c8c9c412d93f23d891d
 Section: Themes
-Description: 美麗的黑色主題 Beautiful black theme
+Description: Beautiful black theme
 Author: @djAndjess8 <djmore.flores84@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.BlackSoul
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -2229,7 +2229,7 @@ SHA1: b94ba14049532ea50b9eb3f6d9c3930914930ca1
 SHA256: a9663e22328665d785f77cdd383b8072979e37221fec79a4ff0599f164a58589
 Section: Tweaks
 Priority: optional
-Description: 精美動畫通知 Beautiful animated notifications for all device
+Description: Beautiful animated notifications for all device
 Author: c1d3r
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.Notchification
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -2245,7 +2245,7 @@ MD5sum: 5239d5fe4b0380bb450e32881a3a5f95
 SHA1: 73eeb51e33333b78c4088f819000e3a80ce91956
 SHA256: 0862f95d46af80550e5575f668e10a9b461c73e0df26625621b3d8e904eb81d1
 Section: Themes
-Description: 帶有紅色徽標的黑色圖標 Black icons with red logo
+Description: Black icons with red logo
 Author: @a7lafe <derejulian@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.RedDead
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -2262,7 +2262,7 @@ MD5sum: bb446de23a31ead220c4446b954804f0
 SHA1: d311fbf768c7c2f23e37aacb9216446c22eff735
 SHA256: 7e014d39f1fc6830cf669abdd074359e96a7581f158a334f7f4b7402d9161478
 Section: Widgets (Homescreen)
-Description: Android風格的鎖屏和主屏幕 An android inspired style for your lock and home screen
+Description: An android inspired style for your lock and home screen
 Author: AussieAppz <info@aussieappz.com>
 Depiction: https://banana-gfp.github.io/repo/description.html?id=com.gfp.androidpie
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -2293,7 +2293,7 @@ MD5sum: 692bf2ae398e57e56c9e67ae24d5cd0a
 SHA1: 0c634cbe449467f0fa6f632cec5d9980231eea23
 SHA256: 2c490db3b8e2ba9454197599bf6dd2d84e3d0db152ce1ec45917b34f8f2840d5
 Section: Themes
-Description: 支持Prysm的Arrows CC主題 Arrows CC theme with Prysm support
+Description: Arrows CC theme with Prysm support
 Tag: purpose::extension, cydia::commercial, compatible_min::ios5.1, compatible_max::ios13.3
 Author: Jones <emaildumb62@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.arrows-cc
@@ -2312,7 +2312,7 @@ MD5sum: afb03f95312f4d22296e8cfeeadae531
 SHA1: d96291dc180f6406bb0f609b7169e1517dec1c52
 SHA256: fefb5931473d7a6304119909cdea776489664723265cb4b1ff756eb4142959fb
 Section: Tweaks
-Description: 基於應用程序圖標顏色的顏色角標 Color badges based on app icon color.
+Description: Color badges based on app icon color.
 Author: cole cabral
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.badgecolors
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -2330,7 +2330,7 @@ MD5sum: b1488dba5ce534d33eedf26949252431
 SHA1: 110b7d051e08416fedfdd109279f3f5f843a0653
 SHA256: a9e8740a7ac675e9172af43dd71aebb8e556d2cc2822b08a92a87b222a9d069c
 Section: Tweaks
-Description: 暫停媒體時切換噪音消除。Toggle noise cancelation when media is paused.
+Description: Toggle noise cancelation when media is paused.
 Author: LaughingQuoll
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.banana
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -2392,23 +2392,6 @@ Dev: ichitaso
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: BatteryPercentageX
 
-Package: com.gfp.betterccxi
-Version: 1.6.0
-Architecture: iphoneos-arm
-Maintainer: ATWiiks
-Installed-Size: 640
-Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
-Filename: ./debs/banana/com.gfp.betterccxi_1.6.0_iphoneos-arm.deb
-Size: 132782
-MD5sum: aaaaa61b5137a6ad3ae7d00980c42aaf
-SHA1: 2d33c5c3805f3aeb26e314bed26c3e4a25d5ac43
-SHA256: d91869d5d562e3510096e615a489a32d2502563766f2c2339aed9a633a202f62
-Section: Tweaks
-Description: Enhance your control center on iOS 11 and iOS 12
-Author: ATWiiks
-Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Name: BetterCCXI
-
 Package: com.gfp.betterrotate
 Version: 1.3.6
 Architecture: iphoneos-arm
@@ -2421,7 +2404,7 @@ MD5sum: 192d4100b0a6dc348bc3e07c9828bfd1
 SHA1: ffa14b828d8f7c49bf750d9059bbb58788d07db7
 SHA256: bf222fcd65076e2e2923f762f2d5d404b5962c784325aa97cb6c85cdfdc5a40b
 Section: Tweaks
-Description: 更智能的方向鎖！A Smarter Orientation Lock!
+Description: A Smarter Orientation Lock!
 Author: LaughingQuoll
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.betterrotate
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -2475,7 +2458,7 @@ SHA1: 7d39ef3758784910042fd219e9066d9547a89f49
 SHA256: ed1c0a0c9822a9e1ef38ee90d15f149984f0a0440c04c88e8ca27343b94dfce1
 Section: Tweaks
 Priority: optional
-Description: 在iPhone X上更輕鬆地訪問ControlCenter。 Easier access to your ControlCenter on iPhone X.
+Description: Easier access to your ControlCenter on iPhone X.
 Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
 Author: XCXiao <958169971@qq.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.bottomcontrolx
@@ -2512,7 +2495,7 @@ SHA1: c7d2b28e3bb95b2129bf00b47aef9faeb5b8989f
 SHA256: 23d869d4e4428f9ce8026a83bdabb3d304f3416d6f13d628ae3300edfdf8a26f
 Section: Tweaks
 Priority: optional
-Description: 氣泡通過增加對話單元的深度感，使您的消息應用看起來更現代。Make your Messages pop!
+Description: Make your Messages pop!
 Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.bubbles
 Dev: CreatureSurvive
@@ -2562,7 +2545,7 @@ MD5sum: 688a685ad167bbc4768dd2ef1498107d
 SHA1: abb60413ca9021d64e778e9f053d2dbbf7119a8d
 SHA256: 6d31b037fa9c3a041d3765caf1d68accc9e8611e46ad69b55ce90f40f0fc2886
 Section: Themes
-Description: 幾乎所有的iPhone相機都是一個主題。 請享用！ A theme with almost every iPhone camera. Enjoy!
+Description: A theme with almost every iPhone camera. Enjoy!
 Author: Lo7
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.camerAlts
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -2671,7 +2654,7 @@ Size: 28776
 MD5sum: 17056fa95fe9ef799089c620b127ce46
 SHA1: a5f635666f9d56b51c5f96e24c10981fecb2e75e
 SHA256: 17e0827091f731a9535da66b2262db5edb375e91aa7393e6d56ce787701fe8fd
-Description: BottomToolBar擴展程序，一些中文支付應用程序的快捷方式！An BottomToolBar extension, shortcuts for some Chinese payment apps!
+Description: An BottomToolBar extension, shortcuts for some Chinese payment apps!
 Author: XCXiao
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.chinesepaymentbar
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -2688,7 +2671,7 @@ MD5sum: 9f4ed6071e8693106ff7f230f4a62ce3
 SHA1: 9c2e5763f4dcfa70a3750e0be647ca65633c7446
 SHA256: 924e65725d0dded3960dd1cc62f443547ec3123391255368faa381f368628c4d
 Section: Themes
-Description: 圈子的深色版本主題。The dark version of Circles.
+Description: The dark version of Circles.
 Tag: purpose::extension, cydia::commercial, compatible_min::ios9.0, compatible_max::ios13.4
 Author: Pascal Hamann <Passi.hamann@icloud.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.circles-dark
@@ -2724,7 +2707,7 @@ MD5sum: f5522c57e8962ebd0dd9fa1907c3e3ff
 SHA1: 161a05540282b9be44b2219467bc04eb9ac75dd2
 SHA256: 674eb1f0ad6ad81c1ce3ce720d5404eea1ef1d073a0b271f7bef28472c6d032e
 Section: Tweaks
-Description: 隨機排序的密碼按鈕 Random ordered passcode buttons
+Description: Random ordered passcode buttons
 Author: eskimo
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.codescrambler12
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -2764,7 +2747,7 @@ MD5sum: 240d7f82f5f4061c98923455bcd14f14
 SHA1: 08553a8ef5b6b777465879aa44e1ed7c624c0308
 SHA256: 03b1e4a048a566cbed8bc6ffc3e7a253518133b0e1b9fd5be929b7e64e32cf2b
 Section: Tweaks
-Description: 一個多彩的音樂播放器背景
+Description: Pas chinois lol ! Music colors
 Tag: cydia::commercial
 Author: David Goldman <help@golddavid.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.colorflow4
@@ -2800,7 +2783,7 @@ MD5sum: a83bdeb18a2a2d7b6fb0040f0609c656
 SHA1: 2f25895adf87f576c68cae8663ca0d8a1ee8c621
 SHA256: 8a4295d600446e5f0877199f97fdd0acf9c55e9f09a62f9d2b33f7067f02576b
 Section: Tweaks
-Description: 使文件夾圖標變酷。 Makes folder icon cool.
+Description: Makes folder icon cool.
 Author: 4nni3 <4nni3.14@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.coolfolder
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -3260,24 +3243,6 @@ Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.frontpage/
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: FrontPage
 
-Package: com.gfp.frontpagethrmes
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: June <junesgraphics@gmail.com>
-Depends: mobilesubstrate, com.gfp.frontpage
-Filename: ./debs/banana/com.gfp.frontpagethrmes_1.0_iphoneos-arm.deb
-Size: 18741646
-MD5sum: 032211ad883e1ed0773ee3d082189c43
-SHA1: f9b53897bd7c9aec3b4d2eec52bd192c58a346d0
-SHA256: 28bade855f96ca6d634e556a6837588c8042927007f06dc182c975cd75c64014
-Section: Addons (FrontPage)
-Description: FrontPage
-Tag: cydia::paid
-Author: gfp <email@gmail.com>
-Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.frontpagethrmes
-Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Name: FrontPage主題集包
-
 Package: com.gfp.fugap
 Version: 2.2.4
 Architecture: iphoneos-arm
@@ -3332,24 +3297,6 @@ Author: wizages, MidnightChips
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.gif2ani2
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: Gif2Ani V2
-
-Package: com.gfp.goodwifi
-Version: 0.0~beta5a
-Architecture: iphoneos-arm
-Maintainer: Julio
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/banana/com.gfp.goodwifi_0.0~beta5a_iphoneos-arm.deb
-Size: 97798
-MD5sum: 66cdcb883e46dedee407f611747180e4
-SHA1: d2b26ab9e24c0da05fdd7cab4c6908e3562d9087
-SHA256: eb29adcf91586fa6e2d8e72a9dfe2e73cd3bc85039d2b9191f63a93747977b9b
-Section: Tweaks
-Homepage: http://twitter.com/ijulioverne
-Description: Better WiFi Preferences
-Author: julioverne
-Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.goodwifi
-Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Name: GoodWiFi
 
 Package: com.gfp.groovetubecht
 Version: 0.7-3
@@ -3551,26 +3498,6 @@ Author: XsF1re
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: installdPatch
 
-Package: com.gfp.instanoads
-Version: 0.0.2
-Architecture: iphoneos-arm
-Installed-Size: 133
-Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: ./debs/banana/com.gfp.instanoads_0.0.2_iphoneos-arm.deb
-Size: 6468
-MD5sum: 30bc9a7453d381679cf3abbd481f6081
-SHA1: e357442118abe3c91edf774f0971a2ff62d272c0
-SHA256: 233b8be29f3bdbe1ed65fa93416c5992bcf491cc946913bd8c0171b551a0f386
-Section: Tweaks
-Priority: optional
-Description: Hide Ads on Instagram app (News Feed and Story)
-Tag: purpose::extension, compatible::ios12, compatible::ios13
-Author: Hao Nguyen <hao.ict56@gmail.com>
-Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.instanoads
-Dev: haoict
-Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Name: Instagram No Ads
-
 Package: com.gfp.ipicmycontactsx
 Version: 0.9-7
 Architecture: iphoneos-arm
@@ -3764,23 +3691,6 @@ Description: lotion is a Juice theme, potion's longer brother :)
 Author: Mirac <ozd.mirac@gmail.com>
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: lotion
-
-Package: com.gfp.lowbatterybanner
-Version: 1.0.2
-Architecture: iphoneos-arm
-Maintainer: 果粉派
-Installed-Size: 264
-Depends: mobilesubstrate
-Filename: ./debs/banana/com.gfp.lowbatterybanner_1.0.2_iphoneos-arm.deb
-Size: 12764
-MD5sum: 71aba1e9cec922611ee60dc268aa3bed
-SHA1: af4fcb3d3d5907062bf4df1598777e50f2d186d3
-SHA256: 8abd57eea76988cf79457deda92e670b06d5118728b6cbce6a40d65797b710b5
-Section: Tweaks
-Description: Replace low power alert with a banner notification!
-Author: Spark
-Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Name: LowBatteryBanner
 
 Package: com.gfp.lstweak
 Version: 1.1.1
@@ -4143,45 +4053,6 @@ Author: smokin1337 <smokin1337@gmail.com>
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: NPurge
 
-Package: com.gfp.ntspeed
-Version: 0.2~beta7
-Architecture: iphoneos-arm
-Maintainer: Julio
-Depends: firmware (>= 6.0), mobilesubstrate, preferenceloader
-Filename: ./debs/banana/com.gfp.ntspeed_0.2~beta7_iphoneos-arm.deb
-Size: 110772
-MD5sum: 85ad630922c8089354322d324f5af6a4
-SHA1: 879cf931d873915375c478a5c65978d4d1484273
-SHA256: 896ce30c4d7d7d6c8dc37b33a6f95bb7b64ef72782f79c69554115440981811c
-Section: Tweaks
-Homepage: gfp <email@gmail.com>
-Description: See Active Traffic Network Speed
-Author: julioverne
-Depiction: gfp <email@gmail.com>
-Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Name: NtSpeed
-
-Package: com.gfp.nudekeysios12
-Version: 1.0.0~b8
-Architecture: iphoneos-arm
-Maintainer: Orangebananaspy <admin@orangebananaspy.com>
-Installed-Size: 2808
-Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
-Conflicts: org.thebigboss.nudekeys
-Filename: ./debs/banana/com.gfp.nudekeysios12_1.0.0~b8_iphoneos-arm.deb
-Size: 1971660
-MD5sum: 85f1b2354d99c766bf57729d8ed6dd7a
-SHA1: f1d344632efb4a075ccbc7e440e80dda2e646f51
-SHA256: c015d1116ce901785a1aa5b03d0925a8c54ba79e6004482d5afff7ccfbd89222
-Section: Tweaks
-Description: Strip those sexy keys!
-Tag: purpose::extension, compatible::ios12
-Author: Orangebananaspy <support@orangebananaspy.com>
-Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.nudekeysios12
-Dev: orangebananaspy
-Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Name: NudeKeys (iOS 12)
-
 Package: com.gfp.otadisabler
 Version: 0.1-7
 Architecture: iphoneos-arm
@@ -4284,22 +4155,6 @@ Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Author: Frozen Penguin
 Name: PhotoManager (iOS 12 & 13)
 
-Package: com.gfp.photomanagercht
-Version: 1.3.3
-Architecture: iphoneos-arm
-Maintainer: Mrmad <mrmadtw@gmail.com>
-Depends: mobilesubstrate ,firmware (>=11.0)
-Filename: ./debs/banana/com.gfp.photomanagercht_1.3.3_iphoneos-arm.deb
-Size: 3856
-MD5sum: 4bddf51f9b158ebf56bec49dba9d70fe
-SHA1: d367d2c1d8be3f56fe0fc1ac431493295f909fdc
-SHA256: 884426bd2c7da6e46e38cdf12435e471348fe12930ec6c85c6a54c74104f85af
-Section: Localization
-Description: PhotoManager
-Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Author: Mrmad <mrmadtw@gmail.com>
-Name: PhotoManager 繁體中文化
-
 Package: com.gfp.photores
 Version: 1.3
 Architecture: iphoneos-arm
@@ -4389,29 +4244,6 @@ Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Author: opa334
 Name: powerlogHelperdFix
 
-Package: com.gfp.powerselector11
-Version: 1.2.6
-Architecture: iphoneos-arm
-Maintainer: 果粉派 <email@gmail.com>
-Installed-Size: 1860
-Pre-Depends: firmware (>= 11.0)
-Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
-Conflicts: com.gfp.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
-Replaces: com.ichitaso.powerselector11
-Filename: ./debs/banana/com.gfp.powerselector11_1.2.6_iphoneos-arm.deb
-Size: 355348
-MD5sum: d53ed1120f944539d87d6e66032b9dba
-SHA1: 12e7cd52e7bd1be0e7b3541ef40c070b158d4039
-SHA256: 1aded746be201f3a3e3b7da5aa6ae083f9e8e00e2ac57d5e47ebfb040cd07c64
-Section: Utilities
-Description: The power supply relation of a device is operated.
-Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
-Author: ichitaso <willfeeltips+ps11@gmail.com>
-Dev: ichitaso
-Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Name: PowerSelector (iOS 11 to 13)
-Sponsor: 果粉派 <email@gmail.com>
-
 Package: com.gfp.preferenceorganizer2
 Version: 4.0.8
 Architecture: iphoneos-arm
@@ -4478,46 +4310,6 @@ Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.rcbd
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: 修復CheckRa1n電池詳細 (D22)
 
-Package: com.gfp.realcc
-Version: 1.0.2
-Architecture: iphoneos-arm
-Maintainer: 果粉派 <email@gmail.com>
-Installed-Size: 102
-Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/banana/com.gfp.realcc_1.0.2_iphoneos-arm.deb
-Size: 6570
-MD5sum: 937d57bfae473c2f6e473b63b2919bee
-SHA1: d9757a16549d34055a970e1c0b7a9f295e8af18e
-SHA256: 994e79b2f66941a7f8adf42623119e5611d19087f3059a1bb1e7f2f98b3235d0
-Section: Tweaks
-Description: Actually disable Wi-Fi from the iOS 11 CC
-Tag: purpose::extension, compatible::ios11, compatible::ios12
-Author: Jake James <jakeashacks@gmail.com>
-Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Dev: jakeashacks
-Name: RealCC
-
-Package: com.gfp.redditnoads
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: 果粉派 <email@gmail.com>
-Installed-Size: 165
-Depends: mobilesubstrate, firmware (>= 9.0)
-Filename: ./debs/banana/com.gfp.redditnoads_0.0.1_iphoneos-arm.deb
-Size: 4766
-MD5sum: e0ada7b77c0f9b144a6c73a5a64f025f
-SHA1: 02effe306a06997e5fb7b9b0f6cceaf47ac71e91
-SHA256: 4d6aeef6886a980d5adba4f8fe6d370e515fbbb6999cdbab97ff70dc86091117
-Section: Tweaks
-Priority: optional
-Description: Hide "Promoted" post for Reddit app
-Tag: purpose::extension, compatible::ios13
-Author: Hao Nguyen <hao.ict56@gmail.com>
-Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.redditnoads
-Dev: haoict
-Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Name: Reddit No Ads
-
 Package: com.gfp.removethatline2
 Version: 0.1.1
 Architecture: iphoneos-arm
@@ -4534,26 +4326,6 @@ Tag: compatible_min::ios7.0, compatible_max::ios13.3
 Author: Louis <contact@relisiuol.fr>
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: RemoveThatLine2
-
-Package: com.gfp.reprovision
-Version: 0.5.2~EOL
-Architecture: iphoneos-arm
-Maintainer: Matt Clarke <matt@incendo.ws>
-Depends: firmware (>= 9.0)
-Replaces: com.matchstic.Extender-Installer
-Provides: com.matchstic.Extender-Installer
-Filename: ./debs/banana/com.gfp.reprovision_0.5.2~EOL_iphoneos-arm.deb
-Size: 14391686
-MD5sum: 02bf7c97268a10d3fd1fd35785b81a00
-SHA1: d47d621ca13c6f29f78929a01ce293e19e2cb79a
-SHA256: 2c94238a110ad555786bc040e6ed0ba12dac1bbe258b16fd8a5136598f6080cf
-Section: System
-Priority: optional
-Description: Re-sign applications on your device
-Author: Matt Clarke <matt@incendo.ws>
-Dev: Matt Clarke <matt@incendo.ws>
-Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Name: ReProvision
 
 Package: com.gfp.ringer13
 Version: 1.2.5
@@ -4628,40 +4400,6 @@ Dev: jailbreak365
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: RoundedModules
 
-Package: com.gfp.safariplus
-Version: 1.7.12
-Architecture: iphoneos-arm
-Maintainer: 果粉派 <email@gmail.com>
-Installed-Size: 5114
-Depends: firmware (>=8.0), mobilesubstrate, ws.hbang.common, com.creaturesurvive.libcscolorpicker, com.rpetrich.rocketbootstrap
-Filename: ./debs/banana/com.gfp.safariplus_1.7.12_iphoneos-arm.deb
-Size: 1873460
-MD5sum: 4fdba2a710fd06b1ce7383b8568fa3d2
-SHA1: f281aed6fefb67cfb3bdec51867e481be41aedba
-SHA256: 0aaee62a783fe0aa09f174f75d2812151fe3f850ae38f281c50efd7ebb87a380
-Section: Tweaks
-Description: Various enhancements to Safari!
-Author: opa334 <opa334@protonmail.com>
-Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.safariplus
-Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Name: Safari Plus
-
-Package: com.gfp.safaripluscht
-Version: 1.4.4
-Architecture: iphoneos-arm
-Maintainer: Ryan
-Depends: mobilesubstrate
-Filename: ./debs/banana/com.gfp.safaripluscht_1.4.4_iphoneos-arm.deb
-Size: 6326
-MD5sum: 65e91e44b9fe8be622023aca266a4592
-SHA1: d532b649f856e4ba94f01a7e15a47c5ab1685004
-SHA256: c3351ff72414dfc1cf2d64864720ada8b706136b4ae4baa135e9543e567f0124
-Section: Localization
-Description: Safari Plus
-Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Author: Ryan
-Name: Safari Plus 繁體中文化
-
 Package: com.gfp.safariplussnakeoil
 Version: 1.7.12
 Architecture: iphoneos-arm
@@ -4680,22 +4418,6 @@ Author: opa334 <opa334@protonmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.safariplussnakeoil
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: Safari Plus (Cepheiless)
-
-Package: com.gfp.safeccmodules
-Version: 1.5-1
-Architecture: iphoneos-arm
-Maintainer: 果粉派 <email@mail.com>
-Filename: ./debs/banana/com.gfp.safeccmodules_1.5-1_iphoneos-arm.deb
-Size: 1365216
-MD5sum: e05621c496c0dadd41840557eb7b870d
-SHA1: af8010780eb74889429423c1de3f1ea1fcb25089
-SHA256: 2e9f983509b60680087e82b108f21276b5555d275d28a682ff12bf9d8f0d1a19
-Section: Addons (ControlCenter)
-Description: Control center modules for iOS 11/12/13. New in v1.5-1: Fix for Tiny Volume and Silent Mode modules causing issues.
-Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Author: jailbreak365 <jailbreak365@mail.com>
-Dev: jailbreak365
-Name: CCModules
 
 Package: com.gfp.screenshotx
 Version: 0.3
@@ -4730,39 +4452,6 @@ Description: Make the text selection window yours!
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Author: Satvik <satvikdeveloper@gmail.com>
 Name: SelectionPlus
-
-Package: com.gfp.selector
-Version: 0.1.3
-Architecture: iphoneos-arm
-Maintainer: Baw Appie
-Installed-Size: 336
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
-Filename: ./debs/banana/com.gfp.selector_0.1.3_iphoneos-arm.deb
-Size: 44906
-MD5sum: 001f6543c7d3a1886d5ec721f3a35ab9
-SHA1: 3a807ae37b1aba15020b7fd1331cf2f57a3c2015
-SHA256: d6162bbd1d2449100b6d0ebe9cbe8f6d286635db9fb8612e783f677dc034ac6a
-Section: Tweaks
-Description: Select text to search or translate
-Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Author: Nepeta & Baw Appie
-Name: Selector
-
-Package: com.gfp.selectorprefscht
-Version: 0.1.1
-Architecture: iphoneos-arm
-Maintainer: Mrmad <mrmadtw@gmail.com>
-Depends: mobilesubstrate
-Filename: ./debs/banana/com.gfp.selectorprefscht_0.1.1_iphoneos-arm.deb
-Size: 1662
-MD5sum: 5d34043be6d8387c4904857ce787c9a1
-SHA1: 0d2327634ec364051514f8e20f662f72138e3f7b
-SHA256: d8e3977e5cbf04eb57b76b68037f9b588987730d63c297bb3501bee1bcfb0804
-Section: Localization
-Description: Pas chinois lol !
-Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Author: Mrmad <mrmadtw@gmail.com>
-Name: Selector繁體中文化
 
 Package: com.gfp.selectowo
 Version: 0.1.1
@@ -4853,28 +4542,6 @@ Author: Skitty
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: Six (LS)
 
-Package: com.gfp.sleipnizer4
-Version: 10.1
-Architecture: iphoneos-arm
-Maintainer: 果粉派 <email@gmail.com>
-Installed-Size: 1848
-Depends: mobilesubstrate (>= 0.9.6100), preferenceloader (>= 2.2.3), firmware (>= 9.0)
-Conflicts: jp.r-plus.sleipnizerlite, jp.r-plus.sleipnizerforsafari, jp.r-plus.sleipnizer, jp.r-plus.sleipnizer3
-Filename: ./debs/banana/com.gfp.sleipnizer4_10.1_iphoneos-arm.deb
-Size: 416236
-MD5sum: f0342e6d6531d26589b006f9d64775a9
-SHA1: f1af846ab4eca2030dbcacaafa9e4e9b95e4513b
-SHA256: e9b4d203586e99df6e17864340704a0ae4924a6ca8f38313f1e5fd7281b07b1f
-Section: Tweaks
-Priority: optional
-Description: convenient faster browsing with gestures
-Tag: cydia::commercial, purpose::extension
-Author: r_plus <anasthasia.r+sleipnizer@gmail.com>
-Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.sleipnizer4
-Dev: rplus
-Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Name: Sleipnizer for Safari (iOS 9-13)
-
 Package: com.gfp.sneakycam
 Version: 2.0.4
 Architecture: iphoneos-arm
@@ -4891,27 +4558,6 @@ Description: Discretely take a photo or record a video from anywhere, even with 
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Author: Spark
 Name: SneakyCam
-
-Package: com.gfp.snowboard
-Version: 1.3.3~Beta3
-Architecture: iphoneos-arm
-Maintainer: Spark
-Installed-Size: 4656
-Depends: mobilesubstrate, preferenceloader
-Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Filename: ./debs/banana/com.gfp.snowboard_1.3.3~Beta3_iphoneos-arm.deb
-Size: 2080928
-MD5sum: 0e10a49059b5ffceb2bfa6c4189c5cbe
-SHA1: 11a4a0a65f61dec275830469a3bc29f842cf1297
-SHA256: 21378f07e9cfba0942c44f5d57b6e319a4a98eb90dc140ef541f9ae0814b2b2d
-Section: Tweaks
-Description: Snowboard theming engine
-Author: Spark & Dennis D. Bednarz
-Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.snowboard/
-Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Name: SnowBoard
 
 Package: com.gfp.socialdownloader
 Version: 1.2-1
@@ -4930,25 +4576,6 @@ Author: elias
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.socialdownloader
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: Social Downloader
-
-Package: com.gfp.sonus12
-Version: 1.2.0-1
-Architecture: iphoneos-arm
-Maintainer: ubik <cydia@ubikstyl.es>
-Installed-Size: 668
-Depends: mobilesubstrate, preferenceloader, me.nepeta.libcolorpicker
-Conflicts: org.fwdr.sonus
-Filename: ./debs/banana/com.gfp.sonus12_1.2.0-1_iphoneos-arm.deb
-Size: 122344
-MD5sum: 3b23a66aa09a8fe5362f6fe4a3b82c26
-SHA1: c9ff425d5e0cf05212d93cafa510a9d18f8d02a2
-SHA256: be96956a0683f8ece8e118ee49bafb1e6caea13ea2837e6076bbc3f9a970e995
-Section: Tweaks
-Description: The better and highly customizable volume hud. For iOS 12.
-Author: ubik <cydia@ubikstyl.es>
-Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.sonus12
-Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Name: Sonus12
 
 Package: com.gfp.spectrum
 Version: 1.0.1-1
@@ -5250,27 +4877,6 @@ Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: TSSSaver 2
 Sponsor: IArrays
 
-Package: com.gfp.twitternoads
-Version: 0.0.2
-Architecture: iphoneos-arm
-Maintainer: 果粉派 <email@gmail.com>
-Installed-Size: 132
-Depends: mobilesubstrate, firmware (>= 9.0)
-Filename: ./debs/banana/com.gfp.twitternoads_0.0.2_iphoneos-arm.deb
-Size: 5340
-MD5sum: 91cb2defad3cdb216462564a6b917272
-SHA1: 860d60e63c72374e111ad5c4be048ad4d699631c
-SHA256: 76612b3a218310166904f60adf4279be040fb5f280f51b7b2a78330b2f436796
-Section: Tweaks
-Priority: optional
-Description: Hide "Promoted" post for Twitter app
-Tag: purpose::extension, compatible::ios13
-Author: Hao Nguyen <hao.ict56@gmail.com>
-Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.twitternoads
-Dev: haoict
-Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Name: Twitter No Ads
-
 Package: com.gfp.uaupdatetools
 Version: 1.0r-102
 Architecture: iphoneos-arm
@@ -5518,23 +5124,6 @@ Author: smokin1337 <smokin1337@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.3dtools
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: 3DTools
-
-Package: github.io.gfp.AltStoreAlpha
-Version: 1.4a7
-Architecture: iphoneos-arm
-Maintainer: Ba🍌Na
-Depends: github.io.gfp.altdaemon
-Filename: ./debs/banana/github.io.gfp.AltStoreAlpha_1.4a7_iphoneos-arm.deb
-Size: 3065662
-MD5sum: c1a5869f325a0b966d53bae9c19d217a
-SHA1: d6f72caaa2cba69ecc4fba9197239a5c79905a85
-SHA256: 902a96b3203bfefb253a041fcd4a3ad98ee2cb244c85b9f36f1a06e3f988cba1
-Section: Application
-Description: A home for apps that push the boundaries of iOS. No jailbreak required.
-Author: Riley Testut
-Depiction: https://guofenpai.github.io/repo/depictions/github.io.gfp.AltStoreAlpha/
-Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Name: AltStore Alpha
 
 Package: github.io.gfp.AltStoreBeta
 Version: 1.4b3
@@ -5821,39 +5410,6 @@ Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.Geminis/
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: Geminis
 
-Package: github.io.gfp.Geminis1
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: Jose Luis Aguirre <guero2284@gmail.com>
-Depends: github.io.gfp.Geminis
-Filename: ./debs/banana/github.io.gfp.Geminis1_1.1_iphoneos-arm.deb
-Size: 49649990
-MD5sum: c77fcbf025f05c54ec2674841288b02f
-SHA1: 864b1d8dafc331c8ca080dff365dfe35c9003862
-SHA256: 0cec05046737507c19dfaddc2bb27409b18e0be92659c099b9a723742fd0af83
-Section: Themes
-Description: Three Themes with different colors thx for all Support @luis9_49
-Author: Jose Luis Aguirre <guero2284@gmail.com>
-Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.Geminis/
-Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Name: Geminis Part1
-
-Package: github.io.gfp.Lyre
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: Bousrih <bousrih20@gmail.com>
-Filename: ./debs/banana/github.io.gfp.Lyre_1.1_iphoneos-arm.deb
-Size: 3183142
-MD5sum: 2518c3465c3640906d4c4ac22772ac1c
-SHA1: 74d0c66c9ff32fe13b4148a8ddf0706c32e24e9d
-SHA256: b67eb8566cb8c47c16ed70a3f91a27fe2eb1aca8527fe47fe5a674810d205827
-Section: Themes
-Description: Premium & well designed CC icons!
-Author: Bousrih <bousrih20@gmail.com>
-Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.Lyre
-Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Name: LyreCC
-
 Package: github.io.gfp.MessageHeadsXI
 Version: 3.0~b2
 Architecture: iphoneos-arm
@@ -5871,24 +5427,6 @@ Author: c1d3r
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.MessageHeadsXI
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: ChatHeads
-
-Package: github.io.gfp.MessageHeadsXIftzw
-Version: 3.0~b2
-Architecture: iphoneos-arm
-Maintainer: 果粉派
-Depends: firmware (>= 5.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.7~beta2), applist
-Filename: ./debs/banana/github.io.gfp.MessageHeadsXIftzw_3.0~b2_iphoneos-arm.deb
-Size: 1953766
-MD5sum: 17c6ac79339b265975cf9f5afa69b0f4
-SHA1: c73c83d65959220a24e3a890954b0a96252d15e7
-SHA256: a561c044869760ff198afdd2ca159a90b87de46be37b7f3a011fb6f6b62c0b48
-Section: Tweaks
-Priority: optional
-Description: Pas chinois lol !
-Author: c1d3r
-Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.MessageHeadsXI
-Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Name: ChatHeads（繁體中文）
 
 Package: github.io.gfp.Mi5Theme
 Version: 2.2
@@ -6057,24 +5595,6 @@ Author: Baw Appie <pp121324@gmail.com>
 Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.a-bypass/
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: A-Bypass
-
-Package: github.io.gfp.a-font
-Version: 1.8.2
-Architecture: iphoneos-arm
-Maintainer: Baw Appie <pp121324@gmail.com>
-Installed-Size: 2344
-Depends: mobilesubstrate, applist (>= 1.5.15~beta1)
-Filename: ./debs/banana/github.io.gfp.a-font_1.8.2_iphoneos-arm.deb
-Size: 832978
-MD5sum: d07d9c3b8ac3837e42ed66ff6c414e7f
-SHA1: bfc58c1251a6f5a9d7d9506005bf6f121ad07b42
-SHA256: 33c968b2169a935a05118180de3b5942598050d3771b8681e35cf7b7d03c5cde
-Section: Tweaks
-Description: Change your font!
-Author: Baw Appie <pp121324@gmail.com>
-Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.a-font/
-Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Name: A-Font
 
 Package: github.io.gfp.a-shields
 Version: 1.3
@@ -6373,22 +5893,6 @@ Author: julioverne
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.albumpref
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: AlbumPref
-
-Package: github.io.gfp.altdaemon
-Version: 0.2
-Architecture: iphoneos-arm
-Maintainer: Riley Testut
-Filename: ./debs/banana/github.io.gfp.altdaemon_0.2_iphoneos-arm.deb
-Size: 873494
-MD5sum: 835314128391758e7ddebbf22f3eee67
-SHA1: c20ea3cb5dd9886628f0cbc2fd66af3b0210254e
-SHA256: 568d9d9f35c613f727f86844579850a4873a7d2bd07fba2e04f93c094aecff32
-Section: System
-Description: An awesome XPC service!
-Author: Riley Testut
-Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.altdaemon/
-Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Name: AltDaemon
 
 Package: github.io.gfp.alwaysdark
 Version: 1.2.1
@@ -7084,25 +6588,6 @@ Author: Sirius24
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.badgeme
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: BadgeMe
-
-Package: github.io.gfp.barmoji
-Version: 2020.5
-Architecture: iphoneos-arm
-Maintainer: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
-Installed-Size: 488
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/banana/github.io.gfp.barmoji_2020.5_iphoneos-arm.deb
-Size: 108042
-MD5sum: 1d98b28a7e07f19899b3372640439f7b
-SHA1: 2c0ae46ac6758e5400f2608906681f932e251dc5
-SHA256: 241ba911d3e86a47f723d99b8a0b1da952a408ef094a3e62a18b940142237dc5
-Section: Tweaks
-Description: Quick Emoji Access Bar
-Tag: compatible_min::ios10, compatible_max::ios14
-Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
-Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.barmoji/
-Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Name: Barmoji
 
 Package: github.io.gfp.batterynotch
 Version: 1.6.1
@@ -8140,24 +7625,6 @@ Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: Counted
 Tags: compatible_min::ios13.0, compatible_max::ios13.5
 
-Package: github.io.gfp.countedftzw
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: 果粉派
-Depends: firmware (>=13.0), ws.hbang.common
-Filename: ./debs/banana/github.io.gfp.countedftzw_1.0_iphoneos-arm.deb
-Size: 58770
-MD5sum: 65f6f4bbc2162d791635d66340178040
-SHA1: fd8ff7b90fb38a576bfad1b2ef0e9ed0257b0a61
-SHA256: 6fa4b4a2d5de3e079b0a9e8f8ce1e557beb5de499366418d5fc6401468de3316
-Section: Tweaks
-Description: Your days are Counted
-Author: Dave van Wijk <vanwijkdave@gmail.com>
-Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.counted
-Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Name: Counted 繁體中文
-Tags: compatible_min::ios13.0, compatible_max::ios13.5
-
 Package: github.io.gfp.cozybadges
 Version: 1.2.1
 Architecture: iphoneos-arm
@@ -8226,24 +7693,6 @@ Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.crux
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: crux
-
-Package: github.io.gfp.ctf
-Version: 1.0.4
-Architecture: iphoneos-arm
-Maintainer: MTAC
-Installed-Size: 104
-Depends: mobilesubstrate, firmware (>= 11.0)
-Filename: ./debs/banana/github.io.gfp.ctf_1.0.4_iphoneos-arm.deb
-Size: 5272
-MD5sum: f04880688557e420aff34822ea55013a
-SHA1: 0fd2c4b98a0c256aae9818b464e0575318dfc596
-SHA256: 09c10d167f5ecea5016015dbc46887233f2ff41a38b609b2270ddb853bc4664a
-Section: Tweaks
-Description: Stop the Sindhi string bug from freezing your device
-Author: MTAC
-Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.ctf
-Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Name: CaptureTheFlag
 
 Package: github.io.gfp.cuboid
 Version: 3.0.1
@@ -8335,24 +7784,6 @@ Author: mostafa89
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.customsw
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: Custom SW
-
-Package: github.io.gfp.cydiaplus
-Version: 1.2
-Architecture: iphoneos-arm
-Maintainer: t0mi <fritsch.weiding@yahoo.de>
-Depends: mobilesubstrate
-Filename: ./debs/banana/github.io.gfp.cydiaplus_1.2_iphoneos-arm.deb
-Size: 91170
-MD5sum: bdd97118b4b18d7b84efd5fb2a1a851f
-SHA1: 093f1be8f0200ca9f4c43a38f159a07778924d23
-SHA256: e188a7d4d2652f7ba591774d2895f4f006ce9f1cb423d76f4fb3776b9fd0d229
-Section: Tweaks
-Description: The only tweak you need for Cydia.
-Tag: compatible_min::ios5.1, compatible_max::ios13.5
-Author: t0mi <fritsch.weiding@yahoo.de>
-Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.cydiaplus/
-Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Name: CydiaPlus
 
 Package: github.io.gfp.cydown
 Version: 7.1.0
@@ -8807,25 +8238,6 @@ Author: ConorTheDev & Mirac
 Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.dotto+/
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: dotto+
-
-Package: github.io.gfp.doubletaplock
-Version: 2.0.0
-Architecture: iphoneos-arm
-Maintainer: Spark
-Installed-Size: 592
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/banana/github.io.gfp.doubletaplock_2.0.0_iphoneos-arm.deb
-Size: 80966
-MD5sum: 8757090135a630cdbf2a6b1e2c480c43
-SHA1: 0aa9f3879172993ab01281320ef95ddcb2fe8716
-SHA256: e4bded3163b7cc09645c25d7e825a87dd9375b2829caae76fb80635afb82f3c7
-Section: Tweaks
-Description: Double tap homescreen wallpaper to lock device
-Author: Spark
-Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.doubletaplock
-Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Name: DoubleTapLock
-Removes: com.spark.DoubleTapLock
 
 Package: github.io.gfp.downloadbar13
 Version: 1.0.1
@@ -10213,24 +9625,6 @@ Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.homelist/
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: HomeList (iOS 11 - 13)
 
-Package: github.io.gfp.homeplus
-Version: 0.4.9.2-beta
-Architecture: iphoneos-arm
-Maintainer: Kritanta
-Installed-Size: 2836
-Depends: mobilesubstrate
-Filename: ./debs/banana/github.io.gfp.homeplus_0.4.9.2-beta_iphoneos-arm.deb
-Size: 1317102
-MD5sum: 218faaaffcbe39e88875dc5a4b79dedc
-SHA1: 8562907e46a50b776e457e305556bb60cea488f8
-SHA256: 5c4ab3b6a13eaa4668bb2b309aa365ccc7a6da02f6d36000ce1e34e5cb4d9381
-Section: Tweaks
-Description: Dynamic, live homescreen layout with an intuitive UI
-Author: Kritanta
-Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.homeplus
-Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Name: HomePlus Beta
-
 Package: github.io.gfp.homepluspro
 Version: 1.2.3
 Architecture: iphoneos-arm
@@ -10308,25 +9702,6 @@ Author: Dylan West <iosthemem0d@gmail.com>
 Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.hub/
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: Hub
-
-Package: github.io.gfp.icleanerpro
-Version: 7.8.3
-Architecture: iphoneos-arm
-Maintainer: Ivano Bilenchi <support@ib-soft.net>
-Depends: firmware (>= 4.0), findutils, apt | apt7
-Conflicts: org.altervista.exilecom.icleaner
-Replaces: org.altervista.exilecom.icleaner
-Filename: ./debs/banana/github.io.gfp.icleanerpro_7.8.3_iphoneos-arm.deb
-Size: 9503230
-MD5sum: 067fa269ef1be5d248d09a4746f69e35
-SHA1: 9ede2a87dcac30d6d7aca166b82c791e079bdeeb
-SHA256: 008764b41134a36970a84127ffdf8c4e8b1b1b30a78d534152e38eead9f67e48
-Section: Utilities
-Description: The first real iOS system cleaner & optimizer
-Author: Ivano Bilenchi <support@ib-soft.net>
-Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.icleanerpro/
-Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Name: iCleaner Pro
 
 Package: github.io.gfp.icleanerzombie
 Version: 0.0.1
@@ -10439,24 +9814,6 @@ Author: JacobCXDev <jacobcxdev@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.idunnou
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: iDunnoU
-
-Package: github.io.gfp.idunnouftzw
-Version: 1.4.3
-Architecture: iphoneos-arm
-Maintainer: 果粉派
-Installed-Size: 1184
-Depends: mobilesubstrate, preferenceloader, com.jacobcxdev.libjcx | github.io.gfp.libjcx
-Filename: ./debs/banana/github.io.gfp.idunnouftzw_1.4.3_iphoneos-arm.deb
-Size: 880014
-MD5sum: 76e4c57ab94651851b9f4c5644633ba9
-SHA1: 6f149788c806afb142e6752ef0d38c6bd5e2956b
-SHA256: b6cb71ad46bc1e613d190da303068d5c0c6818e6b5cafab0f28adf00585779b8
-Section: Tweaks
-Description: Protect your message
-Author: JacobCXDev <jacobcxdev@gmail.com>
-Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.idunnou
-Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Name: iDunnoU 繁體中文
 
 Package: github.io.gfp.ikeywi3p
 Version: 3.4.3
@@ -10643,25 +10000,6 @@ Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.instalaunc
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: InstaLauncher
 
-Package: github.io.gfp.instalauncher2
-Version: 1.7.1
-Architecture: iphoneos-arm
-Maintainer: Ba🍌Na
-Installed-Size: 1096
-Depends: mobilesubstrate, preferenceloader, applist(>=1.5.15), firmware(>=12.1)
-Conflicts: com.jontelang.instalauncher2.beta
-Filename: ./debs/banana/github.io.gfp.instalauncher2_1.7.1_iphoneos-arm.deb
-Size: 346958
-MD5sum: aa549209d4dd476f28e4651f26ce2e5e
-SHA1: 1b12b12b43c0eef9f3a20f8fe9e782df1b583035
-SHA256: 45c68752a21eb88a1061e22562a2416843c02f216d620b7b2954590bd3053cdf
-Section: Tweaks
-Description: Launch ANY app instantly
-Author: Jonathan Winger Lang <jontelang@gmail.com>
-Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.instalauncher2/
-Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Name: InstaLauncher 2
-
 Package: github.io.gfp.installer
 Version: 5.0.3-3
 Architecture: iphoneos-arm
@@ -10678,35 +10016,6 @@ Author: AppTapp <support@apptapp.me>
 Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.installer/
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: Installer
-
-Package: github.io.gfp.instanoads
-Version: 1.0.1
-Architecture: iphoneos-arm
-Maintainer: Hao Nguyen
-Installed-Size: 416
-Depends: mobilesubstrate, preferenceloader, firmware (>= 10)
-Filename: ./debs/banana/github.io.gfp.instanoads_1.0.1_iphoneos-arm.deb
-Size: 87782
-MD5sum: b5b9d83fa0b240edda75f7ab1a4309d9
-SHA1: 720e1f94bf88bfb6a457a1bfe9a2232f67a4b347
-SHA256: 8f4fa573c4b575da97d3f703254a75f4253a5b8102475ff6c27d3b4708053b91
-Section: Tweaks
-Description: Free & Open Source Tweak for Instagram
- Free & Open Source Tweak for Instagram
- Features:
- - Remove Ads (New Feeds and Stories)
- - Lightweight
- - Support iOS 10 (not tested) - 11 (tested) - 12 (tested) - 13 (tested)
- - Support latest Instagram version (If it doesn't work, you should update the app to latest version >= 140.0)
- .
- I work very hard to make good, free and open source tweaks for everyone
- If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
- .
- Thanks a ton
-Author: Hao Nguyen
-Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.instanoads
-Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Name: Instagram No Ads
 
 Package: github.io.gfp.intelligentpass3
 Version: 1.2.2
@@ -11242,24 +10551,6 @@ Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.libappeara
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: libappearancecell
 
-Package: github.io.gfp.libbulletin
-Version: 0.1-153
-Architecture: iphoneos-arm
-Maintainer: GuoFenPai
-Installed-Size: 332
-Depends: mobilesubstrate
-Filename: ./debs/banana/github.io.gfp.libbulletin_0.1-153_iphoneos-arm.deb
-Size: 57940
-MD5sum: 0549f67a96909d33ec0037891bf9a16a
-SHA1: 38e052b9034342f51bffc7c6ac56437383704b64
-SHA256: 69337ff4f6402f0a013d4b54673741b91f072b0e9e43a6b41645fe1f6462bf67
-Section: Tweaks
-Description: Simple library that displays bulletins
-Author: Elias Limneos
-Icon: https://i.imgur.com/mSOTIFf.jpg
-Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Name: libbulletin
-
 Package: github.io.gfp.libcozy
 Version: 0.1.0-6+debug
 Architecture: iphoneos-arm
@@ -11350,25 +10641,6 @@ Author: Kurrt <dev@kurrt.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.lifeguard
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: Lifeguard
-
-Package: github.io.gfp.limneosos
-Version: 2.0.2
-Architecture: iphoneos-arm
-Maintainer: Ba🍌Na
-Installed-Size: 212
-Depends: mobilesubstrate
-Filename: ./debs/banana/github.io.gfp.limneosos_2.0.2_iphoneos-arm.deb
-Size: 36282
-MD5sum: fcbda9e25efb4b9e3eb6511a041f262e
-SHA1: 9b2783632878fbf1ecebdedbf52e05654ad0f2d8
-SHA256: 545cbd21775341c9ca0ccb81d9827b87232ca80c68dd1381a3e7a911d84fbea9
-Section: Tweaks
-Priority: optional
-Description: The name is enough to explain the problem
-Author: ReJail <rejail@rejail.ru>
-Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.limneosos/
-Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Name: Limneosos
 
 Package: github.io.gfp.linealcc
 Version: 1.3
@@ -11640,26 +10912,6 @@ Author: ConorTheDev <support@conorthedev.me>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.lyricify
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: Lyricify
-
-Package: github.io.gfp.magmaevo
-Version: 2.0.3
-Architecture: iphoneos-arm
-Maintainer: NoisyFlake
-Installed-Size: 2128
-Depends: mobilesubstrate, firmware (>= 12.0), preferenceloader, com.opa334.ccsupport, com.spark.libsparkcolourpicker
-Conflicts: com.noisyflake.magma, com.noisyflake.magmapro
-Filename: ./debs/banana/github.io.gfp.magmaevo_2.0.3_iphoneos-arm.deb
-Size: 1459728
-MD5sum: 07df5d6ccbb1f37d3ceceb94d7d3744c
-SHA1: 8895896d927da95199bf84eabe219d8cb5993df2
-SHA256: 7efbfd96542a7a88f17961400c4010e7b3d93d806a98fe7f4e45ca039081bbc6
-Section: Tweaks
-Description: Redefine your Control Center
-Tag: compatible_min::ios12.0
-Author: NoisyFlake
-Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.magmaevo/
-Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Name: Magma Evo
 
 Package: github.io.gfp.malipo
 Version: 1.0.7-1
@@ -12253,24 +11505,6 @@ Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.no2theft3/
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: No2Theft3
 
-Package: github.io.gfp.no2theft3ftzw
-Version: 1.4-1
-Architecture: iphoneos-arm
-Maintainer: Ba🍌Na
-Installed-Size: 2304
-Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debs/banana/github.io.gfp.no2theft3ftzw_1.4-1_iphoneos-arm.deb
-Size: 1146728
-MD5sum: 9872f1035fc21b1c4c470c25f635e05a
-SHA1: 2aca485adf35a3f610aee3452133e0f97a3f8fb9
-SHA256: 2a6aea7edfdfd6809843f964b3913aad92a0c6b83b14f94daa6ff06b162ee490
-Section: Tweaks
-Description: Better protect your equipment!
-Author: elias
-Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.no2theft3/
-Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Name: No2Theft3tizw 繁體中文
-
 Package: github.io.gfp.noclutter
 Version: 1.5.2
 Architecture: iphoneos-arm
@@ -12398,24 +11632,6 @@ Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.no
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: Notifica (BawAppie)
 Replace: me.nepeta.notifica
-
-Package: github.io.gfp.notificas
-Version: 0.3.0-alpha
-Architecture: iphoneos-arm
-Maintainer: Nepeta <kritantadevelopment@gmail.com>
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker, ws.hbang.common (>= 1.11), me.nepeta.libnepeta
-Conflicts: ch.mdaus.palette, com.golddavid.colorbanners2, io.ominousness.modernxi
-Filename: ./debs/banana/github.io.gfp.notificas_0.3.0-alpha_iphoneos-arm.deb
-Size: 458150
-MD5sum: 8315ff3b50003c4b062db68ed6ba6335
-SHA1: fb0c8a1abe0b017547c22c6352bd8cb0fddfda5e
-SHA256: 3a055665f784b7e8e5768acbeba4ea8191f011c51557d818612eb1ea6330a333
-Section: Tweaks
-Description: Notification customizer, now updated for iOS 13. ALPHA.
-Author: Nepeta <kritantadevelopment@gmail.com>
-Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.notifica
-Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Name: Notifica
 
 Package: github.io.gfp.nougat
 Version: 1.1
@@ -12712,23 +11928,6 @@ Author: @theprestigext <x63amg@hotmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.peekdark
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: Peek Dark
-
-Package: github.io.gfp.peep
-Version: 2.0.1
-Architecture: iphoneos-arm
-Maintainer: ConorTheDev <conorthedev@gmail.com>
-Filename: ./debs/banana/github.io.gfp.peep_2.0.1_iphoneos-arm.deb
-Size: 119782
-MD5sum: 96c3e93a8e17d098aecca12eaaf684b6
-SHA1: 169245943d92d9320713de897d81d3a617e2480d
-SHA256: 7a260728d8fcddae493c8fd1f8337378fa7eb4cd07d34a9a7ff4da5f6d0f4c34
-Section: Tweaks
-Description: Hide and show your status bar with one tap! (No longer maintained)
-Author: ConorTheDev <conorthedev@gmail.com>
-Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.peep/
-Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Name: peep
-Tags: compatible_min::ios12.0, compatible_max::ios13.5
 
 Package: github.io.gfp.perfectalerts13
 Version: 1.4
@@ -13308,28 +12507,6 @@ Author: Muirey03
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.powermodule
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: PowerModule
-
-Package: github.io.gfp.primalfolder
-Version: 0.0.9
-Architecture: iphoneos-arm
-Maintainer: 果粉派
-Installed-Size: 584
-Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader
-Conflicts: me.qusic.taptapfolder, com.lizynz.folder6plus, info.rpdev.betterfourbyyfourfolders
-Replaces: com.ichitaso.primalfolder
-Filename: ./debs/banana/github.io.gfp.primalfolder_0.0.9_iphoneos-arm.deb
-Size: 104942
-MD5sum: 2c6f59aa798ae18f0503135c38484d26
-SHA1: 73a3c833e9436731f041e8ed2097f69b53a2e8fa
-SHA256: da142fa54cb86eac77c39f5dfeffd46c5ba14209abdde02e5fa8b03db9dd0b23
-Section: Tweaks
-Description: Display to folder as icon and launch action for Folders
-Tag: purpose::extension, compatible::ios10, compatible::ios11, compatible::ios12
-Author: ichitaso <willfeeltips+pf@gmail.com>
-Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.primalfolder
-Dev: ichitaso
-Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Name: PrimalFolder
 
 Package: github.io.gfp.primalfolder2
 Version: 0.0.7
@@ -14851,48 +14028,6 @@ Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.shortlook.
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: SteamChat Profile Pictures for ShortLook
 
-Package: github.io.gfp.shuffle
-Version: 1.2.9
-Architecture: iphoneos-arm
-Maintainer: GuoFenPai
-Installed-Size: 1928
-Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
-Depends: com.creaturecoding.libcspreferences
-Conflicts: com.cpdigitaldarkroom.placeholder
-Replaces: com.cpdigitaldarkroom.placeholder
-Filename: ./debs/banana/github.io.gfp.shuffle_1.2.9_iphoneos-arm.deb
-Size: 393398
-MD5sum: c624c67fe0b78ec754976b041aaea99f
-SHA1: 5879150ac9003af64cf16900af5b37efb31f8cb9
-SHA256: 4cf95d73a0c1b93b7ee462ce96e6e94580f0c1d0cf0d4712b873a52e687c9a33
-Section: Tweaks
-Description: Mix up your preferences
-Tag: purpose::extension, compatible_min::ios10
-Author: CreatureSurvive <support@creaturecoding.com>
-Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.shuffle/
-Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Name: shuffle
-
-Package: github.io.gfp.shylabels13
-Version: 1.4
-Architecture: iphoneos-arm
-Maintainer: ConorTheDev
-Installed-Size: 400
-Depends: mobilesubstrate, preferenceloader
-Replaces: com.noisyflake.shylabels
-Provides: com.noisyflake.shylabels
-Filename: ./debs/banana/github.io.gfp.shylabels13_1.4_iphoneos-arm.deb
-Size: 75022
-MD5sum: b03c8adc26eb519d8627acd09e57137f
-SHA1: 85fefbf4d12e5728378c8987e814b02aae14e3e3
-SHA256: 2be14a06c89a1d2780529d65b7a700b6f7a4f963af80197f95d702ba1af3f9ff
-Section: Tweaks
-Description: Hide app labels when not scrolling
-Author: ConorTheDev + NoisyFlake
-Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.shylabels13/
-Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Name: ShyLabels
-
 Package: github.io.gfp.siliquapro
 Version: 1.2.3
 Architecture: iphoneos-arm
@@ -15100,24 +14235,6 @@ Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.smarterlpm
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: SmarterLPM
 
-Package: github.io.gfp.smartnetwork
-Version: 1.0.8-1
-Architecture: iphoneos-arm
-Maintainer: GuoFenPai
-Installed-Size: 860
-Depends: mobilesubstrate, github.io.gfp.libbulletin | net.limneos.libbulletin, com.spark.libsparkapplist, ws.hbang.common
-Filename: ./debs/banana/github.io.gfp.smartnetwork_1.0.8-1_iphoneos-arm.deb
-Size: 286540
-MD5sum: 46c8c54e982944d1ff12ef011eab07e0
-SHA1: f97595361924b1af257992f6b21a6e1548a1262b
-SHA256: e298e476f64affe3b5ea8bbe75b8d8793606af53be1b47ed27282e23a44be13c
-Section: Tweaks
-Description: Having a smartphone is useless without smart features and functions!
-Author: elias
-Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.smartnetwork/
-Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Name: SmartNetwork
-
 Package: github.io.gfp.smartvpn
 Version: 1.2.8
 Architecture: iphoneos-arm
@@ -15157,42 +14274,6 @@ Author: Jonathan Winger-lang
 Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.snapper2/
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: Snapper 2
-
-Package: github.io.gfp.sneakycam
-Version: 2.0.4
-Architecture: iphoneos-arm
-Maintainer: Spark
-Installed-Size: 592
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/banana/github.io.gfp.sneakycam_2.0.4_iphoneos-arm.deb
-Size: 143604
-MD5sum: fa51a9b613823ddcb9bc68b65d071e19
-SHA1: 1e4e075bcddca5b642b7c4e3c14f0c13334cc9fc
-SHA256: 787856b940c02fc024ac1ce98e4a52afca899f56d2af3b1e96ed2a19f927a28a
-Section: Tweaks
-Description: Discretely take a photo or record a video from anywhere, even with your screen off.
-Author: Spark
-Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.sneakycam
-Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Name: SneakyCam
-
-Package: github.io.gfp.sneakycamftzw
-Version: 2.0.4
-Architecture: iphoneos-arm
-Maintainer: Spark
-Installed-Size: 592
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/banana/github.io.gfp.sneakycamftzw_2.0.4_iphoneos-arm.deb
-Size: 142046
-MD5sum: 1a1a53c6aca56ce2f0f650f62abda977
-SHA1: 82ec182a10ac1b596cb22a95bac19ba470264b0e
-SHA256: fd7fe2c4a813b8ada2a4c48567813017a4f6e6a726ddbc1cc9cc598fd7ddfbf2
-Section: Tweaks
-Description: Discretely take a photo or record a video from anywhere, even with your screen off.
-Author: Spark
-Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.sneakycam
-Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Name: SneakyCam 繁體中文
 
 Package: github.io.gfp.snowboard.extension
 Version: 1.3.5
@@ -16107,42 +15188,6 @@ Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.watermelon
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: Watermelon
 
-Package: github.io.gfp.watusi
-Version: 1.3
-Architecture: iphoneos-arm
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000), preferenceloader, github.io.gfp.watusitools (>= 2.1.24), com.rpetrich.rocketbootstrap, applist, github.io.gfp.adblockplus
-Conflicts: com.freemanrepo.waplus, com.ahmedbafkir.wadarkmode, com.idevmobile.whatsappblacklist, com.f0u4d.watusi, org.thebigboss.watusi, repo.biteyourapple.net.watusitools, com.hackyouriphone.watusitools, com.pulandres.noadswatusi, com.pulandres.noadswatusi1, com.hackyouriphone.whatshack, com.pulandres.whatshack
-Filename: ./debs/banana/github.io.gfp.watusi_1.3_iphoneos-arm.deb
-Size: 4131902
-MD5sum: 2db973dbf12df2a18e954d3fb8b0c5aa
-SHA1: 479484e8f1ae41a70c0bcf0adf988f09120ea27e
-SHA256: bb16bb94f74fc0508cf26e67488fa6a631846de2bc2150748ca8f9b1fd31ea4e
-Section: Tweaks
-Description: The all-in-one tweak for WhatsApp Messenger
-Author: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.watusi/
-Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Name: Watusi 2 for WhatsApp
-
-Package: github.io.gfp.watusitools
-Version: 2.1.24
-Architecture: iphoneos-arm
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Depends: firmware (>= 9.0), darwintools, github.io.gfp.watusi
-Conflicts: com.fouadraheb.watusi (<< 1.1.5), repo.biteyourapple.net.watusi, repo.biteyourapple.net.onlinenotify, com.hackyouriphone.onlinenotify, com.yourepo.kiiimo.onlinenotify, net.cydia00.onlinenotify22, com.pulandres.watusi2
-Filename: ./debs/banana/github.io.gfp.watusitools_2.1.24_iphoneos-arm.deb
-Size: 13819424
-MD5sum: eedecaf5f17d320b6a7bb48ba1d72354
-SHA1: 3f3b84c6664de405e3861cda5f1af7a4bfb6e6e0
-SHA256: 28f78116dc2b386b46c968378125f2ec52b1ce41360a4d0e50b113d03aa1ca6a
-Section: Development
-Description: Library for Watusi and WhatsApp tweaks
-Author: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.watusitools/
-Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Name: WatusiTools
-
 Package: github.io.gfp.wcontrol
 Version: 1.0.1
 Architecture: iphoneos-arm
@@ -16178,25 +15223,6 @@ Author: Tr1Fecta <tr1fecta@pm.me>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.weatherground
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: WeatherGround
-
-Package: github.io.gfp.weathergroundftzw
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Tr1Fecta <tr1fecta@pm.me>
-Installed-Size: 248
-Depends: mobilesubstrate, com.muirey03.libmryipc
-Filename: ./debs/banana/github.io.gfp.weathergroundftzw_1.0_iphoneos-arm.deb
-Size: 44576
-MD5sum: e1cc7932bc335f217065c8a7013cad29
-SHA1: b73d3083542c745b0bac6c44577cbc6107336335
-SHA256: 756896f0769763423c0196faab6e043168d598148a680ca5e08ccdc5cee524bb
-Section: Tweaks
-Description: Weather right at your fingertips!
-Tag: compatible::ios13
-Author: Tr1Fecta <tr1fecta@pm.me>
-Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.weatherground
-Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Name: WeatherGround 繁體中文
 
 Package: github.io.gfp.wechatcallkit
 Version: 1.1
