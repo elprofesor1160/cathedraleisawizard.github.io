@@ -13,6 +13,7 @@ Section: Tweaks
 Description: Highlight downloaded items in app store!
 Author: Samg_is_a_Ninja
 Name: chlorophyll
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
 
 Package: com.samgisaninja.chlorophyll
 Version: 1.1
@@ -29,6 +30,7 @@ Section: Tweaks
 Description: Highlight downloaded items in app store!
 Author: Samg_is_a_Ninja
 Name: chlorophyll
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
 
 Package: com.rileytestut.altdaemon
 Section: System
@@ -2177,7 +2179,7 @@ Homepage: https://repo.conorthedev.me
 Description: The original Shy Labels Tweak, updated for iOS 13!
 Author: ConorTheDev <support@conorthedev.me>
 Depiction: https://elprofesor1160.github.io/killem/depictions/web/me.conorthedev.shylabels13.html
-Icon: https://repo.conorthedev.me/assets/me.conorthedev.shylabels13/icon.png
+Icon: https://repo.conorthedev.me/assets/me.conorthedev.peep/icon.png
 Moderndepiction: https://repo.conorthedev.me/depiction/native/me.conorthedev.shylabels13.json
 Name: ShyLabels
 Sileodepiction: https://repo.conorthedev.me/depiction/native/me.conorthedev.shylabels13.json
@@ -2348,7 +2350,7 @@ SHA256: c7943b18c261bf4a2541a7ab5549e2309c56230331d56ee3c5a715a1e337fe0f
 Section: Tweaks
 Description: Shows battery percentage inside the icon.
 Author: dpkg_
-https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
+Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: BatteryPercent12
 
 Package: com.gfp.batterypercentx
@@ -2365,7 +2367,7 @@ SHA256: 8c37363020caca0fe6e7fc23aed3145f62726ab69d7b38ab7d659ed0650f8aff
 Section: Tweaks
 Description: Replaces the battery icon with percentage on the iPhone X
 Author: Spark
-https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
+Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: BatteryPercentX [Public]
 
 Package: com.gfp.batteryx
@@ -2404,7 +2406,7 @@ SHA256: d91869d5d562e3510096e615a489a32d2502563766f2c2339aed9a633a202f62
 Section: Tweaks
 Description: Enhance your control center on iOS 11 and iOS 12
 Author: ATWiiks
-https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
+Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: BetterCCXI
 
 Package: com.gfp.betterrotate
@@ -2440,7 +2442,7 @@ SHA256: e9212118d9eaaaab6c664fd49827085a718afc783401fa0bbadef9d4f56a7c86
 Section: Tweaks
 Description: Add customizable blur to SpringBoard icon badges.
 Author: SpicaT
-https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
+Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: BlurryBadges
 
 Package: com.gfp.bolders
@@ -2530,7 +2532,7 @@ SHA256: 5689d5c5659dd363cab90b0b46fe8db7ca7aaac66eeae22755dcb8fa50a6ce2d
 Section: Addons
 Description: Awesome live wallpaper bundle with day and night switch
 Author: JB-Planet <stanleyparpart17@gmail.com>
-https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
+Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: BundleX
 
 Package: com.gfp.callblocker
@@ -2619,7 +2621,7 @@ SHA256: dc3e88d87d9f96d4389f4bb28653d6ac26fd4b303956d8dbb48353d82401a1a6
 Section: Tweaks
 Description: Album artwork in music cc module.
 Author: cole cabral
-https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
+Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: CCArtwork
 
 Package: com.gfp.chargeAnimations
@@ -2655,7 +2657,7 @@ SHA256: e6f705d8f3c47b9e8bb684e380be047cac89e43675e239eef7fc71d4f1f749a9
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: elias
-https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
+Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: ChatLock
 
 Package: com.gfp.chinesepaymentbar
@@ -2707,7 +2709,7 @@ SHA256: 1031d5ed4ae2f343cd801d3a5c88232886c4eb80a3f11a64ab65dccb77308eb9
 Section: Tweaks
 Description: Make all icons in the settings application circular!
 Author: Spark
-https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
+Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: CircleSettings
 
 Package: com.gfp.codescrambler12
@@ -2783,7 +2785,7 @@ SHA256: 30867b551c468c1d62f40f5372872cd27b9fd9931d306e544ec0570e7e5ac282
 Section: Tweaks
 Description: Restrict certain apps from accessing wifi on iOS 11
 Author: ATWiiks
-https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
+Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: ConditionalWiFi4
 
 Package: com.gfp.coolfolder
@@ -2801,7 +2803,7 @@ Section: Tweaks
 Description: 使文件夾圖標變酷。 Makes folder icon cool.
 Author: 4nni3 <4nni3.14@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.coolfolder
-https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
+Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: CoolFolder
 
 Package: com.gfp.cracktool3
@@ -2817,7 +2819,7 @@ SHA256: f385c2f23018f4a6095ceb21f3d55d6d6f749c08616cb2530e58b20950c60dd3
 Section: Utilities
 Description: Crack Tweaks on one click
 Author: Julio
-https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
+Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: CrackTool3 (iOS 11)
 
 Package: com.gfp.cracktool4
@@ -2853,7 +2855,7 @@ Priority: optional
 Description: Run cydia in the background
 Author: CreatureSurvive <support@creaturecoding.com>
 Dev: CreatureSurvive
-https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
+Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: cyground
 
 Package: com.gfp.dawn
@@ -2891,7 +2893,7 @@ SHA256: 05386de6f172b518b55853d2fd75c2c3b85cff821034c1fc67b808c2c7202c54
 Section: Tweaks
 Description: Minimalist ringer icon in top left corner
 Author: Kritanta
-https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
+Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: DeadRinger
 
 Package: com.gfp.deleteallalarms
@@ -2905,7 +2907,7 @@ MD5sum: 8c189038bdd03c885ac68f7c827d134a
 SHA1: 6914d677fbffd96f81ae352a91cbc9733924f81c
 SHA256: cf16d421838cdac1fe3b9467c3de6e2039c71f51adfb542f94d4549954301a66
 Section: Tweaks
-Description: 添加鬧鐘中的全部刪除按鈕 Adds Delete all button in alarm clock
+Description: Adds Delete all button in alarm clock
 Tag: purpose::extension, compatible::ios12, compatible::ios13
 Author: 0xkuj <kujmank@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.deleteallalarms
@@ -2924,10 +2926,10 @@ MD5sum: a0adf5b48c05b459edf412442bc9d6fa
 SHA1: 0f09db058f9456201373223eff34ede52b392496
 SHA256: ce12d1bf3d2de51dcdfb43bb23139496193c2a88a5dcc609e382162081f19b82
 Section: Themes
-Description: 真正完美的狀態欄設計
+Description: pas chinois lol !
 Author: Devy_Design <idrainmax@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.devystatusbar
-https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
+Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: Devy Status Bar
 
 Package: com.gfp.dewdrop
@@ -2995,7 +2997,7 @@ MD5sum: 3b4c168a0b6cd65b18d5d1d57a12308a
 SHA1: b04a6fc30b2947a9c09185a88e5eb29c9be5766d
 SHA256: 3eab0e29b0e5d262810c7afe7686d5af4277d00bd78ee100d40cf7c97a1a4dcd
 Section: Tweaks
-Description: 向上滑動Dock欄快速註銷設備。Respring your device by swiping the dock up.
+Description: Respring your device by swiping the dock up.
 Author: neoney
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.dockspring
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -3066,7 +3068,7 @@ MD5sum: 3abbe850a35217ad44f4ad08d8d0c79e
 SHA1: de6c6ffe988a6d232652fe929e25965bcfc64d57
 SHA256: 8f7d7cfc8f84e1a6c234c02c7cad7b543ee71e7d36beb007d452b1e13e935200
 Section: Tweaks
-Description: 更快解鎖iPhone X Faster unlock for iPhone X
+Description: Faster unlock for iPhone X
 Tag: compatible_min::ios10, compatible_max::ios11.4, purpose::extension
 Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.fastunlockx
@@ -3086,7 +3088,7 @@ MD5sum: b2fc9209582f7075b88812c82de3dfd9
 SHA1: c4509bdb82808d347e65ad6246b90e28b1b3729b
 SHA256: 39b12ae62c493a4dbc3fcce82cae551848211d812b6389c847f9598428d2594f
 Section: Tweaks
-Description: 為您的鎖屏添加很棒的功能 Add awesome features to your Lockscreen
+Description: Add awesome features to your Lockscreen
 Tag: compatible_min::ios13.0, compatible_max::ios13.3
 Author: MTAC <mtactheming@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.fingerlock
@@ -3148,7 +3150,7 @@ MD5sum: 9719c785e1a6ed5e08ff0477caaa206d
 SHA1: 199ab49b7d786876b20f01f644e8b83f80b75994
 SHA256: 46081c80aaebbbb93eed0aa2424bf951ceeeb098a13f7e5f912fc266b9f0bff7
 Section: Tweaks
-Description: 刪除Safari URL欄的背景 Remove the background of Safari's URL bar
+Description: Remove the background of Safari's URL bar
 Tag: compatible_min::ios13.0, compatible_max::ios13.4
 Author: MTAC <mtactheming@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.flaturl
@@ -3168,7 +3170,7 @@ MD5sum: 282823c3fcc34c29716b8ab173be500e
 SHA1: 65b4982184079bc522a0804ff7f3f5a178185530
 SHA256: d4eb03b103cfb7e132794526b00aac31c4c8be59f997bfd90baa3bba1ef3734d
 Section: Tweaks
-Description: 像專業人士一樣使用您的Dock！ Use your Dock like a PRO!
+Description: Use your Dock like a PRO!
 Author: P2KDev <p2kdev@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.floatingdockplus13
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -3202,7 +3204,7 @@ MD5sum: a43a0d48ab1348264d7229a507d8bdae
 SHA1: 132b1dc36dbe90f98a9487a43099840ae4ee1f36
 SHA256: f787a102c9ae08d614662ed8484b34f9c4f4b37d9bcb903d69da04cc563cbbfb
 Section: Tweaks
-Description: 音樂控制無處不在
+Description: Pas chinois lol !
 Author: SynnyG <synnyg.devjb@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.flowic
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -3220,7 +3222,7 @@ MD5sum: d9ffb974cb0a8799be91ac26f506547f
 SHA1: 617f61500c3bfd42ad9d48b96b91b54d9beec715
 SHA256: bbeea0fc890558ec100433c90c46d69a365fc801ddd6f14f3b5c9c61e3b8ba9d
 Section: Tweaks
-Description: Fluide允許您在HUD音量的右側添加漂亮的音樂播放器！An awesome MobileSubstrate tweak!
+Description: An awesome MobileSubstrate tweak!
 Author: maximehip
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.fluide
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -3269,7 +3271,7 @@ MD5sum: 032211ad883e1ed0773ee3d082189c43
 SHA1: f9b53897bd7c9aec3b4d2eec52bd192c58a346d0
 SHA256: 28bade855f96ca6d634e556a6837588c8042927007f06dc182c975cd75c64014
 Section: Addons (FrontPage)
-Description: FrontPage主題集包，一共17個主題
+Description: FrontPage
 Tag: cydia::paid
 Author: gfp <email@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.frontpagethrmes
@@ -3288,7 +3290,7 @@ MD5sum: 87a2b0671c30af896ad8359770df7532
 SHA1: 6a463ee398fd99e4e370fd8643941296889163bd
 SHA256: bd9bf721fdd6c4375bb7339c4efcd311dcafcd0c89814836afc74db9d8de1e73
 Section: Tweaks
-Description: 縮小差距，隱藏一些東西！ Close some gaps, hide some stuff !
+Description: Close some gaps, hide some stuff !
 Author: smokin1337 <smokin1337@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.fugap
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -3306,7 +3308,7 @@ MD5sum: ca632fe4e6e5675868d61291b73cc21e
 SHA1: 28a43f389447991fa2aeb8f72c8511db94d49810
 SHA256: d5c87f7f562ea5e05513d6d1ef9995f643c9430484e3d87e0192ed1f56183962
 Section: Tweaks
-Description: 音樂應用全屏顯示並使用選項進行自定義
+Description: Pas chinois lol !
 Author: Soh Satoh
 Depiction: https://guofenpai.github.io/repo/depictions/?p=com.gfp.fullmusic11paid
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -3325,7 +3327,7 @@ MD5sum: dd698ca9858aa8eca075f805e4936193
 SHA1: c71e279789d78d6a2f29927cdd1480404ac9f212
 SHA256: 6343960233565f4075e893869c1911b8f48c8ced578191e5b09a14f4044a5c9d
 Section: Tweaks
-Description: 您想要的任何gif的iOS Respring動畫！iOS Respring animations from any gif you want!
+Description: iOS Respring animations from any gif you want!
 Author: wizages, MidnightChips
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.gif2ani2
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -3360,7 +3362,7 @@ MD5sum: 07b3c04d17da6a417bb52f8d57758c61
 SHA1: d082d93184874361ad46966a23bbe422e58a429e
 SHA256: 8589d455cd73722726ca145beceb74bace1661751b3e2709051869b6aae91916
 Section: Localization
-Description: 使用使用前先裝主程式
+Description: Pas chinois lol !
 Author: Mrmad <mrmadtw@gmail.com>
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: GrooveTube
@@ -3377,7 +3379,7 @@ MD5sum: 738411ffc7e74ee44666b19095ae2c8b
 SHA1: 908b594c0fe15f83341031d6b88ab7dc51734124
 SHA256: 72b7ca50236260de39e0a68d8fdb4c17d7e01d41c3b4899da67116973d3ca275
 Section: Tweaks
-Description: 為您的iPhone啟用本機X手勢！ Enable native X gesture for your iPhone!
+Description: Enable native X gesture for your iPhone!
 Author: Halo_Michael <yc992147156@me.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.handprint
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -3395,7 +3397,7 @@ MD5sum: 5f2743936e8888a473708e85fd8a6dba
 SHA1: 4fcf2db7ea75c2d1741bedc526345a0d534e7554
 SHA256: 3379ebad7b7c3af3fd3354e9c13202e29c9e488e27985cc26aad9777b97b6f33
 Section: Tweaks
-Description: 修復鍵盤錯位
+Description: Pas chinois lol !
 Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10
 Author: Hiraku <dev@hiraku.tw>
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.handykey
@@ -3453,7 +3455,7 @@ MD5sum: 85946404f79a8c586d6bd2e79c7949b0
 SHA1: 1b42c078fdbbb2feae675d3eeea7da102ed3f2ba
 SHA256: 3a828023e8b51dd604d716a5395093374af7fb2fdf0254236ebcc79cb992a1b8
 Section: Tweaks
-Description: 點擊即可關閉所有應用程序！Close all Apps with a tap❣️
+Description: Close all Apps with a tap❣️
 Author: plat-ykor <plat-ykor@libero.it>
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.himiko
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -3471,7 +3473,7 @@ MD5sum: 8fecfbb3cb7e80bcdec6776012ee9d29
 SHA1: 91e7c8ae5840964bbdeb10198e252cff89da1a78
 SHA256: 08193600f43896b5bd0002f5a481e0473a68f1d3055b55eb26c81d8b8903a204
 Section: Tweaks
-Description: Home Bar上顯示的媒體進度 Media progress displayed on your Home Bar
+Description: Media progress displayed on your Home Bar
 Author: eskimo
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.homebarmediaprogress
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -3507,7 +3509,7 @@ MD5sum: 3b9c223c7d4d49bcea8797044dc52d02
 SHA1: ea35f57ef9012c30e865523d53c5af5dd5263446
 SHA256: 09e55ceefe9a14305a076db33a51c8d13db588c7124b2a0836a335aa9495ca8b
 Section: Tweaks
-Description: 搖動設備時可快速啟用某功能。A tweak that brings you to the homescreen when you shake.
+Description: A tweak that brings you to the homescreen when you shake.
 Tag: purpose::extension, cydia::commercial, compatible_min::ios11.3.1, compatible_max::ios13.4
 Author: CaspD3V <ihackz9v@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.homeshake
@@ -3526,7 +3528,7 @@ MD5sum: db931477104a45523f1d5e71db575461
 SHA1: 1b78cb146913c6874c3137ea48601414e8b3e778
 SHA256: 95ca9031022adfaaa91bfbeac89c23da86e48e2cf6b859544974720a9aabf0b4
 Section: Tweaks
-Description: 當設備鎖定時，允許Wifi保持連接狀態。 Allows Wifi to stay connected when the device is locked.
+Description: Allows Wifi to stay connected when the device is locked.
 Author: Tony Kraft <iostonykraft@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.inosleep
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -3561,7 +3563,7 @@ SHA1: e357442118abe3c91edf774f0971a2ff62d272c0
 SHA256: 233b8be29f3bdbe1ed65fa93416c5992bcf491cc946913bd8c0171b551a0f386
 Section: Tweaks
 Priority: optional
-Description: 在Instagram應用程序上隱藏廣告（新聞源和故事）Hide Ads on Instagram app (News Feed and Story)
+Description: Hide Ads on Instagram app (News Feed and Story)
 Tag: purpose::extension, compatible::ios12, compatible::ios13
 Author: Hao Nguyen <hao.ict56@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.instanoads
@@ -3581,7 +3583,7 @@ MD5sum: 50a39949c88a1739e40a641f8cfd99de
 SHA1: e17458490eb2ad4b893dfda9872de60ebbbbd0ff
 SHA256: 8b5508bddbc039a264c3175cd3ecc4a875a3fc7a15ab7f36c6d6bced1a0e68ef
 Section: Tweaks
-Description: 聯繫人列表中顯示聯繫人圖片 Pictures in contacts list
+Description: Pictures in contacts list
 Tag: purpose::extension, compatible_min::ios12
 Author: hAcx
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.ipicmycontactsx
@@ -3598,7 +3600,7 @@ MD5sum: 7d966110d3b95d549ba3560a44ab8448
 SHA1: 91e1733d22491187df9ad175b8fde1d9228df0f7
 SHA256: 534dd0b930e86f62f5e72a7785bd6f8bc039f7c25594b67bbb694aa7c501f6c2
 Section: Addons (Juice)
-Description: 用於Juice的不同樣式的電池。Pack of different styles of battery for Juice Tweak.
+Description: Pack of different styles of battery for Juice Tweak.
 Author: tercelazul
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.juiceTAstylepack
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -3670,7 +3672,7 @@ MD5sum: cfec8e27c552e6807759eaaf3bdd48e0
 SHA1: 2803493b99e3679d6949d7f2c6f5b8674428ed85
 SHA256: 4b16d2ed6b5ab473a5197502e36d51e0f5d23175cd4d651add58e88254529467
 Section: Tweaks
-Description: 鎖屏時Face ID主題 Move and theme the Face-ID lock glyph
+Description: Move and theme the Face-ID lock glyph
 Author: Maxwell Dausch <max.dausch@gmail.com>be
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.latchkey
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -3792,7 +3794,7 @@ MD5sum: ca10b3c318300c88fe1ca33415047ccd
 SHA1: 7575874f9a6ed659e6abd369c34a59760948c838
 SHA256: 430955c9cc90711e1592a9ad5ecd1efc4923fa44ef3a56569ba09e8c498e3360
 Section: Tweaks
-Description: 鎖屏調整！A lockscreen tweak!
+Description: A lockscreen tweak!
 Author: neoney
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.lstweak
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -3897,7 +3899,7 @@ MD5sum: 668c54a28e1ca1df4045352a10374e67
 SHA1: e6480c96f76fca91c12187909dd4aa0df03dbf3e
 SHA256: afa720054d9167f6e017b84165516b4b492d55a79f95c0350f945f6b7f775db1
 Section: Tweaks
-Description: 實時鎖屏天氣一目了然！ Live lockscreen weather at glance!
+Description: Live lockscreen weather at glance!
 Tag: purpose::extension, cydia::commercial, compatible_min::ios12.2, compatible_max::ios13.3
 Author: Don <donbytyqi@outlook.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.mot
@@ -4030,7 +4032,7 @@ MD5sum: 5801b9799d0d759899e82c4197eb143e
 SHA1: 8fb54ff3c8013003d56e8b2ba40cc5c39b642aff
 SHA256: 27200e00af2dab0a79e5ca9e02e62e5c028c1e0bd0df75fc34f8dd04367a90cd
 Section: Tweaks
-Description: Noctis12-適用於iOS的系統範圍黑暗模式。Noctis12 - System Wide Dark Mode for iOS
+Description: Noctis12 - System Wide Dark Mode for iOS
 Author: LaughingQuoll <me@laughingquoll.net>
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.noctis12
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -4049,7 +4051,7 @@ MD5sum: 18f0fd09edc6c547cb31b47efb82a7cc
 SHA1: 1bf2e00e36f392de365c84362466df191aa06f71
 SHA256: 11caa2f1dffb41b7162203bb438d62fd085f1b51a19d4b725e05512190a8b94d
 Section: Tweaks
-Description: 黑暗模式，你做主！Dark mode, your way.
+Description: Dark mode, your way.
 Author: LaughingQuoll <me@laughingquoll.net>
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.noctis13
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -4067,7 +4069,7 @@ MD5sum: ba5f6ae7521477be0c1ebc34c7a38e30
 SHA1: 7701517c0c0ed34465e375fdbe59c15a72fe664b
 SHA256: 17d12a77adb59c11c9e80846ae7b1c732b81420376b28d76d05c3ca54c33663b
 Section: Tweaks
-Description: 使所有應用程序在帶劉海的設備上全屏顯示
+Description: Pas chinois lol !
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Author: Spark
 Name: NoMoreSmallApps
@@ -4118,7 +4120,7 @@ MD5sum: 344006033e2e3bf60969817197c9846f
 SHA1: df7180fdf6d17848ec3310eeac8e24b23bfe3358
 SHA256: be99f0cae5e1d9552231fac73f1b56639225abdbc5d152da7721c787675d3c9e
 Section: Tweaks
-Description: 不看手機就知道是否有通知！Know if you have a notification without looking at your phone!
+Description: Know if you have a notification without looking at your phone!
 Author: AnthoPak <anthopakdev@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.notivibe
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -4172,7 +4174,7 @@ MD5sum: 85f1b2354d99c766bf57729d8ed6dd7a
 SHA1: f1d344632efb4a075ccbc7e440e80dda2e646f51
 SHA256: c015d1116ce901785a1aa5b03d0925a8c54ba79e6004482d5afff7ccfbd89222
 Section: Tweaks
-Description: 更改鍵盤背景 Strip those sexy keys!
+Description: Strip those sexy keys!
 Tag: purpose::extension, compatible::ios12
 Author: Orangebananaspy <support@orangebananaspy.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.nudekeysios12
@@ -4226,7 +4228,7 @@ MD5sum: efbb741899a921df82530654a209c2f5
 SHA1: 470ddf577f8109b6ee1d408978609d21e6c40d59
 SHA256: b5813fa08e128cd6543f87d4e81b9d265f238548c0e89d0ce2e771f13b20682d
 Section: Tweaks
-Description: 更改頁面點的外觀
+Description: Pas chinois lol !
 Author: calicocat
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.pagebar
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -4293,7 +4295,7 @@ MD5sum: 4bddf51f9b158ebf56bec49dba9d70fe
 SHA1: d367d2c1d8be3f56fe0fc1ac431493295f909fdc
 SHA256: 884426bd2c7da6e46e38cdf12435e471348fe12930ec6c85c6a54c74104f85af
 Section: Localization
-Description: 使用前請先安裝好 PhotoManager
+Description: PhotoManager
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Author: Mrmad <mrmadtw@gmail.com>
 Name: PhotoManager 繁體中文化
@@ -4346,7 +4348,7 @@ MD5sum: 5da2d6728a2c7cff7c340f165f9ec777
 SHA1: 9d9acee38e75f0484bde7be9d21bbfc898f00686
 SHA256: 9612442fdcfd2e1dc39deeeb16a2b3de9a01372d40611cb3e09aafeddc8157d1
 Section: Tweaks
-Description: 寵物小精靈R / B / Y樣式通知。Pokemon R/B/Y style notifications.
+Description: Pokemon R/B/Y style notifications.
 Author: Liberato Aguilar
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.pokebar
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -4364,7 +4366,7 @@ MD5sum: 5774202c495b9221d0a923cfb5142d23
 SHA1: 651a0a7b9dbe1e30b1bffd759bbced18a0a6e342
 SHA256: 654e787a6eea539f3e44aa36b35e34767cd584338fb9fb4cdaea71af898bfb04
 Section: Tweaks
-Description: 神奇寶貝樣式通知！Pokémon style notifications!
+Description: Pokémon style notifications!
 Author: Skitty
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.pokebox
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -4470,7 +4472,7 @@ MD5sum: 95a22c61997d9125c49b1547db13d7cc
 SHA1: 997086c633d3ceb01c62e8d5b68d7701ab4e7dd0
 SHA256: 620449351c6d150a3c0d08f5b79f67aee2798a8e9768569c3ffda99830a2aeef
 Section: System
-Description: 修復CheckRa1n電池詳細 僅支持iPhoneX D22型號，安裝以後請重啟，再次越獄！ Repair CheckRa1n battery in detail, Only supports iPhoneX D22.Please restart after installation and escape again!
+Description: Repair CheckRa1n battery in detail, Only supports iPhoneX D22.Please restart after installation and escape again!
 Author: 果粉派 <email@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.rcbd
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -4508,7 +4510,7 @@ SHA1: 02effe306a06997e5fb7b9b0f6cceaf47ac71e91
 SHA256: 4d6aeef6886a980d5adba4f8fe6d370e515fbbb6999cdbab97ff70dc86091117
 Section: Tweaks
 Priority: optional
-Description: 隱藏Reddit應用的“推薦”帖子 Hide "Promoted" post for Reddit app
+Description: Hide "Promoted" post for Reddit app
 Tag: purpose::extension, compatible::ios13
 Author: Hao Nguyen <hao.ict56@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.redditnoads
@@ -4565,7 +4567,7 @@ MD5sum: 040e03c1c1752520766165142f31b0ed
 SHA1: 4d4fbce130267bee7f63061f9ca7ac3a7ec2cfac
 SHA256: 794ec882099cdd4c60ebb8d066122710d4d1e252dc7cad2f14e383c33dfe0ecb
 Section: Tweaks
-Description: 受iOS 13啟發的Ringer HUD!An iOS 13 inspired Ringer HUD
+Description: An iOS 13 inspired Ringer HUD
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Author: KingPuffdaddi
 Name: Ringer13
@@ -4599,7 +4601,7 @@ MD5sum: 3736bef9e4301424fa10f96807c47a4c
 SHA1: 99bd88a49e4fcb2d987de83e035505381596e764
 SHA256: bf299649c9d931888f7c590f770448c0f32a902d7e0026c17d1f580b863b7b66
 Section: Tweaks
-Description: RoundedDock lite是一項免費調整，可自定義您的iOS Dock，使其看起來更酷！
+Description: RoundedDock lite !
 Tag: compatible_min::ios12.2, compatible_max::ios13.3
 Author: JannikCrack <jannikcrack@aol.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.roundeddock-lite
@@ -4618,7 +4620,7 @@ MD5sum: 5d107bbd58e459174d48a3b1db8e238b
 SHA1: ce9e02376a13ca947824daf1e8c1827206916138
 SHA256: 95f2efd2ebaf615f3d69d3721e10b700f0e63cb3a0c3e6808a76b7c708dc6430
 Section: Tweaks
-Description: 控制中心圓角，四捨五入您的控制中心模塊 Round your Control Center modules.
+Description: Round your Control Center modules.
 Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
 Author: jailbreak365 <jailbreak365@mail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.roundedmodules
@@ -4638,7 +4640,7 @@ MD5sum: 4fdba2a710fd06b1ce7383b8568fa3d2
 SHA1: f281aed6fefb67cfb3bdec51867e481be41aedba
 SHA256: 0aaee62a783fe0aa09f174f75d2812151fe3f850ae38f281c50efd7ebb87a380
 Section: Tweaks
-Description: Safari的各種增強功能！ Various enhancements to Safari!
+Description: Various enhancements to Safari!
 Author: opa334 <opa334@protonmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.safariplus
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -4655,7 +4657,7 @@ MD5sum: 65e91e44b9fe8be622023aca266a4592
 SHA1: d532b649f856e4ba94f01a7e15a47c5ab1685004
 SHA256: c3351ff72414dfc1cf2d64864720ada8b706136b4ae4baa135e9543e567f0124
 Section: Localization
-Description: Safari Plus 繁體中文化，安裝前請先安裝好 Safari Plus
+Description: Safari Plus
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Author: Ryan
 Name: Safari Plus 繁體中文化
@@ -4673,7 +4675,7 @@ MD5sum: 23f43d0700261beb42db55c88a447980
 SHA1: 1b4e9f2196a3b73a079c49f5da74d2b2e25275f2
 SHA256: 500096f8203105ab92bfaf73a85508d22f1fc24de1f3c73cda3c2cef56c5d485
 Section: Tweaks
-Description: Safari的各種增強功能！ Various enhancements to Safari!
+Description: Various enhancements to Safari!
 Author: opa334 <opa334@protonmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.safariplussnakeoil
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -4757,7 +4759,7 @@ MD5sum: 5d34043be6d8387c4904857ce787c9a1
 SHA1: 0d2327634ec364051514f8e20f662f72138e3f7b
 SHA256: d8e3977e5cbf04eb57b76b68037f9b588987730d63c297bb3501bee1bcfb0804
 Section: Localization
-Description: 使用繁體中文化使用前先裝主程式
+Description: Pas chinois lol !
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Author: Mrmad <mrmadtw@gmail.com>
 Name: Selector繁體中文化
@@ -4828,7 +4830,7 @@ MD5sum: 873236cda36f32842c237e73082ab6bc
 SHA1: 27fe6ae0460dc46b743466fe4a65e9d041ce0189
 SHA256: 68fd30de20c833b817ee9e3aa8c93ef72fb1cf80d3cf79dd1fde6004d64627f4
 Section: Tweaks
-Description: AirPods手勢和新功能 AirPods Gestures and New Features
+Description: AirPods Gestures and New Features
 Author: LaughingQuoll
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.siliqua2
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -4865,7 +4867,7 @@ SHA1: f1af846ab4eca2030dbcacaafa9e4e9b95e4513b
 SHA256: e9b4d203586e99df6e17864340704a0ae4924a6ca8f38313f1e5fd7281b07b1f
 Section: Tweaks
 Priority: optional
-Description: 方便快捷的手勢瀏覽 convenient faster browsing with gestures
+Description: convenient faster browsing with gestures
 Tag: cydia::commercial, purpose::extension
 Author: r_plus <anasthasia.r+sleipnizer@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.sleipnizer4
@@ -4942,7 +4944,7 @@ MD5sum: 3b23a66aa09a8fe5362f6fe4a3b82c26
 SHA1: c9ff425d5e0cf05212d93cafa510a9d18f8d02a2
 SHA256: be96956a0683f8ece8e118ee49bafb1e6caea13ea2837e6076bbc3f9a970e995
 Section: Tweaks
-Description: 更好和高度可定制的音量平視顯示器。 對於iOS 12。The better and highly customizable volume hud. For iOS 12.
+Description: The better and highly customizable volume hud. For iOS 12.
 Author: ubik <cydia@ubikstyl.es>
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.sonus12
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -4992,7 +4994,7 @@ MD5sum: aa5e83ee4b91249fa44fdc079cc84bc0
 SHA1: 39893bf63cc78cc0794c346a923c9c36a8a7e9cf
 SHA256: 74186eeeea35a88c54594fdb43e46143e6e98fb642a4ff60e737e2abd54fd336
 Section: Localization
-Description: 使用使用前先裝主程式
+Description: Pas chinois lol !
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Author: Mrmad <mrmadtw@gmail.com>
 Name: Springtomize 4 繁體中文化
@@ -5099,7 +5101,7 @@ MD5sum: f427cde6a5be59777e2ed507716ab3f7
 SHA1: d3020d8d926da32b9e7dd763708a869a6c079291
 SHA256: ea8c28a16348d3fd8451d5474027f379fa34283987c25b16412a5b88f4aa5ca7
 Section: Tweaks
-Description: 鍵盤按鍵滑動即可執行文字和操作 keyboard key swipes for text & actions
+Description: keyboard key swipes for text & actions
 Tag: cydia::commercial, purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9
 Author: Jerry En <Jerry+swipeexpander@jerryen.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.swipeexpander
@@ -5151,7 +5153,7 @@ MD5sum: d238e7e18b994762defe6da402a9546b
 SHA1: 09139246b0ef021df118e4f5b3c4dfbb2657d00e
 SHA256: 4b3fb665f4a59a65974081a5abdc26b7ad77370072d9df9a2349ff64de4e9a46
 Section: Tweaks
-Description: 30秒後或後台活動停止後，殺死在後台生成的應用程序。Kills apps spawned in the background after 30 seconds, or as soon as background activity ceases.
+Description: Kills apps spawned in the background after 30 seconds, or as soon as background activity ceases.
 Tag: purpose::extension, compatible::ios12, compatible::ios13
 Author: Travis Roman <travis@toggleable.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.tempspawn
@@ -5171,7 +5173,7 @@ MD5sum: d6b10632c7c445a17f1f540290325e7d
 SHA1: a31b6118c1be067f88c07b6b24466ed00198dbf2
 SHA256: f9677720c63b6e62a7134ec5460c9d65cb01c77aff46a740711ef328fa81b1ac
 Section: Tweaks
-Description: 不打擾但有用的通知橫幅！Unobtrusive yet useful notification banners!
+Description: Unobtrusive yet useful notification banners!
 Author: Don
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.tinybanners2
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -5206,7 +5208,7 @@ MD5sum: da557d020ebc82220f75a051af7e3a5a
 SHA1: 696d8166f35941f0347a963708179f287c62aa91
 SHA256: 113bc6bf52cb0cc91d458746d7349a40aed80e66b545b9f77d8a26b8ea5f5523
 Section: Tweaks
-Description: 適用於iOS的，有用，省電且可自定義的常亮顯示屏  A useful, power efficient and customisable always on display for iOS.
+Description:  A useful, power efficient and customisable always on display for iOS.
 Author: LaughingQuoll
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.tritium
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -5261,7 +5263,7 @@ SHA1: 860d60e63c72374e111ad5c4be048ad4d699631c
 SHA256: 76612b3a218310166904f60adf4279be040fb5f280f51b7b2a78330b2f436796
 Section: Tweaks
 Priority: optional
-Description: 隱藏Twitter應用的“推薦”帖子 Hide "Promoted" post for Twitter app
+Description: Hide "Promoted" post for Twitter app
 Tag: purpose::extension, compatible::ios13
 Author: Hao Nguyen <hao.ict56@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.twitternoads
@@ -5335,7 +5337,7 @@ MD5sum: ec1676ae1506c48aabb682b477cc66b8
 SHA1: 2d67e60c546a045df0ea0da19a98f353d41a89fe
 SHA256: 7ff52c392e1c1429c8ec15329e8a546d3d58abc883d3caffa6982b9a4d975b0e
 Section: Tweaks
-Description: 音量條顯示百分比 Displays the volume percentage on the stock volume HUD.
+Description: Displays the volume percentage on the stock volume HUD.
 Author: gilshahar7
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.volumepercent
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -5387,7 +5389,7 @@ Size: 17756
 MD5sum: 11aa88a3feddafdc434ddf6448aa1ed9
 SHA1: d08f1a3642f718ffd25dddbce1146f888dfe1881
 SHA256: b5a1e4ced2ea5beb7f60230fe986a485600574debab2579c5a32d0e889f07906
-Description: 很棒的BottomToolBar天氣擴展！An awesome BottomToolBar weather extension!
+Description: An awesome BottomToolBar weather extension!
 Author: XCXiao
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.weather-bottomtoolbar
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -5440,7 +5442,7 @@ MD5sum: 7d2e83a562af7e9da0404b37ecb06ab7
 SHA1: c8896281d14cd68d687049189375687530480730
 SHA256: 0d7ce9d00a8855c587b3431269d6c26af19238df4fbdf765e6494ee5117518ba
 Section: Themes
-Description: 超過800個圖標的超酷主題！An Awesome theme with more than 750+ icons! 🔥🔥
+Description: An Awesome theme with more than 750+ icons! 🔥🔥
 Tag: purpose::extension, cydia::commercial, compatible_min::ios5.1, compatible_max::ios13.3
 Author: ezleq <ezleq.inc@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.wudisban
@@ -5578,7 +5580,7 @@ MD5sum: f3e055226c598aea78ca220d7a5c64b6
 SHA1: ce2643c2cb90a6a049b5be62a16fa9b72aa3236f
 SHA256: 04c6f79babe4f2a25140618dd899e8ca2d21c69b65866e0e55b4ef93195b2046
 Section: Themes
-Description: 黑中帶點白的主題 Dark icons with white logo
+Description: Dark icons with white logo
 Author: @a7lafe <derejulian@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=com.gfp.BlackOrs4
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -5594,7 +5596,7 @@ MD5sum: ea971bd38e6134b7494661e473d18f07
 SHA1: e4653cf313cbfbc8c602d0c5832ecd84553ff4c6
 SHA256: db9720e2aad15bd2e2f0b7cded83d5730e76611a95e43b2fdc49ee2fc0a8c2c8
 Section: Themes
-Description: 完全純黑色的viola版本！A completely pure black version of Viola!
+Description: A completely pure black version of Viola!
 Author: Bousrih <bousrih20@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.Blackviola
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -5846,7 +5848,7 @@ MD5sum: 2518c3465c3640906d4c4ac22772ac1c
 SHA1: 74d0c66c9ff32fe13b4148a8ddf0706c32e24e9d
 SHA256: b67eb8566cb8c47c16ed70a3f91a27fe2eb1aca8527fe47fe5a674810d205827
 Section: Themes
-Description: 高級和精心設計的CC圖標！ Premium & well designed CC icons!
+Description: Premium & well designed CC icons!
 Author: Bousrih <bousrih20@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.Lyre
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -5864,7 +5866,7 @@ SHA1: 070fc6c4e81c926630925d6ad482b6dec3653217
 SHA256: 9a45e47209e5f26ea1f2038f5a44c04a301ebf1504531881ba3d69d6d4c10806
 Section: Tweaks
 Priority: optional
-Description: 顯示像Android這樣的發短信氣泡，內置訊息擴展 Show texting bubbles like Android with built-in message extension
+Description: Show texting bubbles like Android with built-in message extension
 Author: c1d3r
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.MessageHeadsXI
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -5882,7 +5884,7 @@ SHA1: c73c83d65959220a24e3a890954b0a96252d15e7
 SHA256: a561c044869760ff198afdd2ca159a90b87de46be37b7f3a011fb6f6b62c0b48
 Section: Tweaks
 Priority: optional
-Description: 顯示像Android這樣的發短信氣泡，內置訊息擴展
+Description: Pas chinois lol !
 Author: c1d3r
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.MessageHeadsXI
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -5898,7 +5900,7 @@ MD5sum: b30ba145ac45ccaf7e27e7a4f425ba9b
 SHA1: d26fef2ea0048e667500e8f73b23916431c3b1f4
 SHA256: 5f97b2aba84ad58091aa1f521e3f02378c76185a71ca0777483ebc24ec06cb20
 Section: Themes
-Description: 深色經典圖標 Classic icons with dark colors
+Description: Classic icons with dark colors
 Author: @a7lafe <derejulian@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.Mi5Theme
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -6141,7 +6143,7 @@ MD5sum: 8d90e4b02a46dbe1faad07472522860c
 SHA1: 04e9a55c47ffa3f8f9af6bf9616c91fcc8102022
 SHA256: ffd5841b183eeeba8e366900b0ff4beba1c02cdf5cc6d65c476575c1ab78db77
 Section: Tweaks
-Description: 自動暗模式！Automated dark mode !
+Description: Automated dark mode !
 Author: smokin1337 <smokin1337@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.adaptivedarkmode
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -6176,7 +6178,7 @@ SHA1: 160bc6f4c0a5e8a7cbca8bfcadf3499012419046
 SHA256: 9fe876d1a61f098850db03a8152e39f6a482800d96d080f3948d194014a04d08
 Section: Tweaks
 Priority: optional
-Description: 廣告屏蔽調整
+Description: adblock ++ !
 Author: ReJail
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.adblockplus
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -6291,7 +6293,7 @@ MD5sum: 28d57379d8b08745dee8444fc5b76979
 SHA1: 2e31400180385b08939acaf7dab19c00c03c61ed
 SHA256: 065e2aa6b4f178baf86d04009cc44fbf8a544006966d02d9df3d7e02176f4a1f
 Section: Themes
-Description: 混合和匹配多種樣式的狀態欄圖標，頁面點，通知角標。以您想要的方式為您的設備設置主題！Mix and match multiple styles status bar icons, page dots, notification badges! Theme your device the way you want!
+Description: Mix and match multiple styles status bar icons, page dots, notification badges! Theme your device the way you want!
 Tag: compatible_min::ios10.0, compatible_max::ios13.3
 Author: Aiirik <erik.poirier@outlook.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.aiirx
@@ -6329,7 +6331,7 @@ MD5sum: ed34869402252db34d9ddad2f1cdb646
 SHA1: fc89a77dd8b078349ac9ed1d1ca7760d4cb24937
 SHA256: e04d1515bd3678bd88e1d33b457852d9b0c8b992146ef72536da92c6025eae05
 Section: Tweaks
-Description: 重新構想您的Apple Pay Reimagined your Apple Pay
+Description: Apple Pay Reimagined your Apple Pay
 Tag: purpose::extension, cydia::commercial, compatible_min::ios13.0, compatible_max::ios13.3
 Author: Dylan West <iosthemem0d@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.airpay
@@ -6366,7 +6368,7 @@ SHA1: 3b0ff03a2c99bad3a4980b2be45d44130207d9a9
 SHA256: 0d946f8733f7c9a7a6d9a5794afd90ea2515b22dd724e834cd118af856b614f5
 Section: Tweaks
 Homepage: http://twitter.com/ijulioverne
-Description: 在訊息中選擇相冊 Choose Preferred Album in Messages
+Description: Choose Preferred Album in Messages
 Author: julioverne
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.albumpref
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -6400,7 +6402,7 @@ MD5sum: ea1e14bbf90a6b05cfc7ab56a063c67b
 SHA1: ef0b1d0605bcbb7f5d300f6fa5b58c944bbe6632
 SHA256: 16cd6d79e65f5ee3bc56390cd3b619ac223296290e522c77458d54f26b05f684
 Section: Tweaks
-Description: 始終在暗/亮模式下運行特定的應用 Run specific apps always in Dark/Light Mode
+Description: Run specific apps always in Dark/Light Mode
 Author: KingPuffdaddi
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.alwaysdark
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -6435,7 +6437,7 @@ MD5sum: 3f546ffb6ea7c4cb5b6550f2c96998f4
 SHA1: 67eea749e3c1e5aec3dd7d294e1ddb2706b6ad45
 SHA256: 27ece55218ed8937f50b687b81ab917d85e30ee9f8af1291b5c64338a51fdc99
 Section: Themes
-Description: 簡潔的AF，您會想要它的，請相信我們。Clean af. You want it, trust us.
+Description: Clean af. You want it, trust us.
 Author: Ezleq
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.amoux
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -6952,7 +6954,7 @@ MD5sum: c69b854dc404f1164814f0b17983ef02
 SHA1: ddf185c4b2053c283d7b320e66217d335bc7753a
 SHA256: d7fb37c4b1a746768d6ca312ca343b3c2696d146b8e3c370bd43198d45415a48
 Section: Tweaks
-Description: 在鎖定屏幕上分組和查看未讀通知 Group and view unread notifications on the lock screen
+Description: Group and view unread notifications on the lock screen
 Author: Nepeta
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.axon
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -7282,7 +7284,7 @@ MD5sum: 2ce24da65c9b60b09dd893b09b5dfd47
 SHA1: 11f9648925ddf824750d8629173af0e3a438b003
 SHA256: f000c16e97e05d1c1f7b6c02fa8849221079576a9ba74ce195d8f0a060345feb
 Section: Tweaks
-Description: 重新設計葉子風格的通知！Redesign notifications leaf style !
+Description: Redesign notifications leaf style !
 Author: Phoenix Dev <phnxdev07@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.blanca
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -7300,7 +7302,7 @@ MD5sum: bf3256a74d65f01de1b24e5e9bc6e3e1
 SHA1: f11e47a1726f9046fdd699d5f1b36606de33a4c1
 SHA256: cd3aa215e4e0bf5eb43b62aea3db50c4318d89486508f590a32abcb38c8f89a0
 Section: Tweaks
-Description: 通知在屏幕上顯示為小圖標或小點 Notifications displayed as small icons or dots on screen
+Description: Notifications displayed as small icons or dots on screen
 Author: Antique
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.blots
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -7337,7 +7339,7 @@ MD5sum: 3ec83670794284ab0e1f6c6e25fdf03e
 SHA1: 619f9e6c536153c47db8110723d7752c26bb556e
 SHA256: 1ec7f5d43fd18d7e28b62658fb3d6e3472ada104b6b804d98407fe9b30286fe1
 Section: Tweaks
-Description: 主屏幕和鎖定屏幕上的背景模糊。A nice background blur on your home & lock screen.
+Description: A nice background blur on your home & lock screen.
 Author: 0ver$hadowed
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.blurground
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -7354,7 +7356,7 @@ MD5sum: 4d42d89b0ea960c6dd513262a1f5d5c2
 SHA1: 979824a3f061e9d4ac482557cad9255fc750af48
 SHA256: f965120c1210d284c9f67d1b293dec08f6b68aef43e0037b912c8d0cf4a9534d
 Section: Tweaks
-Description: X狀態欄樣式的通知 X status bar style notification
+Description: X status bar style notification
 Author: Soongyu Kwon
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.boardbanners
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -7372,7 +7374,7 @@ MD5sum: 60bb04a93712e9bda8199ae89b408da2
 SHA1: d23ac49ca44794ef81b2ec4032d25e57e4afdca3
 SHA256: e1f17d4f444fed8815adc0a1e78c9eedb717dc25c06ba24f0d1703842d2adbb1
 Section: Tweaks
-Description: 適用於您設備的實用且美觀的工具欄。A useful and beautiful tool bar for your devices.
+Description: A useful and beautiful tool bar for your devices.
 Tag: purpose::extension, cydia::commercial, compatible_min::ios12.2, compatible_max::ios13.3
 Author: XCXiao <Kpwn0@outlook.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.bottomtoolbar
@@ -7518,7 +7520,7 @@ MD5sum: 72fef4a46a53cd430415172e01813312
 SHA1: 39b85bdd79a9b16022bcbd453fb43e91ccf32f66
 SHA256: 8f4097138e15a64272d31f3dd9c43d8b1b10c04d2b9e84f84ace9adebdc76567
 Section: Tweaks
-Description: 受Google Dialer啟發的Call UI！Inspired by Google Dialer
+Description: Call UI Inspired by Google Dialer
 Author: Baw Appie <pp121324@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.callbubble
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -7554,7 +7556,7 @@ MD5sum: 9b51b209f98180dbb17639cebe9d9dcc
 SHA1: 50888fc9dfc0d34ba4977c66282b63b18fb1b7f3
 SHA256: cb6f954e56215c006262a94107269b320a08405536c906dfb6a6ebf27b28f251
 Section: Themes
-Description: 適用於iPhone的完美製作元素。Pefectly Crafted Elements for your iPhone.
+Description: Pefectly Crafted Elements for your iPhone.
 Author: Devy_Design <idrainmax@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.calmstatusbar
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -7572,7 +7574,7 @@ MD5sum: fee82d41174e1bab81a5ae3d65519522
 SHA1: a1d73a40cdec2a01b67f885aa39ba8566245ead5
 SHA256: 205dfcb3b32924b794ff67075d54a182b64541ec0ab6394f7b4800af49b95467
 Section: Tweaks
-Description: 該工具可將相機功能從iPhone 11帶到較舊的iPhone。該工具將不斷開發。我們將使其比任何其他類似工具更好。其開發人員將在短時間內保持匿名。Tool that brings camera features from iPhone 11 to older iPhones. The tool will be developed continuously. We will make it better than any similar tool. Its developer will remain anonymous for a short period of time.
+Description: Tool that brings camera features from iPhone 11 to older iPhones. The tool will be developed continuously. We will make it better than any similar tool. Its developer will remain anonymous for a short period of time.
 Author: Jinn and mankind
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.camera.plus
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -7746,7 +7748,7 @@ MD5sum: dac1863b8e24f1fb175520f353b1ae23
 SHA1: 2eca0e645a7e48ed121c5053ef0b1579b547dac1
 SHA256: deee008ae6c6be3c5ccf54fb92a9ff3846d34fd6d43fd0e4b30532556b075771
 Section: Tweaks
-Description: 重新構想您的通知中心 Reimagine your notification center
+Description: Reimagine your notification center
 Author: Muirey03
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.centaur
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -7801,7 +7803,7 @@ MD5sum: 886c536334c2bb1f17a9dece93474129
 SHA1: 108c8aed81823eb0c9cc48051e5348d93a67995e
 SHA256: 2b879511495f3ea706233182f7eef7735eac8bc7404d98d7df5e1924827deeb0
 Section: System
-Description: 破解解決方法始終先加載Choicy
+Description: Choicy
 Author: opa334
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.choicyloader
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -7818,7 +7820,7 @@ MD5sum: 7246f8f1639da2d5c950d8ee6445ec30
 SHA1: 41c08f58df6bab2f1c7cc695ffcca950d7ff1a21
 SHA256: e845b7e4d4773dcd16148c6d4ccf5bda32f62489c23bdf8297bffdecad66456f
 Section: Themes
-Description: 使用Circles為您的iPhone帶來美麗的觸摸。一個偉大而簡單的主題。這個主題是用愛創造的。 Give your iPhone a beautiful touch with Circles. A great and simple theme for all. This theme is made with love. You can send icon requests to redw0lforg@gmail.com
+Description: Give your iPhone a beautiful touch with Circles. A great and simple theme for all. This theme is made with love. You can send icon requests to redw0lforg@gmail.com
 Tag: purpose::extension, cydia::commercial, compatible_min::ios9.0, compatible_max::ios13.3
 Author: Pascal Hamann <Passi.hamann@icloud.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.circles
@@ -7837,7 +7839,7 @@ MD5sum: 3962828ddc17168c50a36bfac4ef36bd
 SHA1: 108a00d6847ad5aa193b52fea5af7fc11e658bc3
 SHA256: ab60a3346a6e586841fc061dc2dce698be1ba59dd0bb3ca6ee9b800ca016e9b9
 Section: Tweaks
-Description: 圓形音樂視圖。Circular music visualiser.
+Description: Circular music visualiser.
 Tag: compatible::ios12, compatible::ios13
 Author: Squ1dd13 <squ1dd13dev@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.circuliser
@@ -7896,7 +7898,7 @@ MD5sum: 2f67a01d4f1738e3e4705f22ca1412b1
 SHA1: a9db9f580c96e72dae0e7fcfde1495a895abfa40
 SHA256: f4353f01dc5f61d61b3c649a52b7d9feae84499e33f207a5c3ce6124d3cfb365
 Section: Tweaks
-Description: 為角標著色 Colorize your badges
+Description: Colorize your badges
 Author: David Goldman <help@golddavid.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.colorbadges-new
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -7952,7 +7954,7 @@ MD5sum: ce9be625a56db0ab063be0f2f0d5a22e
 SHA1: 92a565a7eeb59f6110c4aeedc3fe9e7bb70bff09
 SHA256: 1b33d307ed820ab96ec5c0c900a412221d8edc45f7239c2b13a3316554c77b80
 Section: Tweaks
-Description: 將通知的顏色應用到應用程序的圖標上！A tweak to color your notifs to the app's icon!
+Description: A tweak to color your notifs to the app's icon!
 Author: neoney
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.colorfulnotifs
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -8131,7 +8133,7 @@ MD5sum: 32c5e6c6d4e2f6c56932a15fab5c84cb
 SHA1: e485a5ce645d743c2dd00e724d2a96fac63b9d88
 SHA256: 41f26cb5c963072931112c6960d5f757acae12216d28721fbb67471d68273b68
 Section: Tweaks
-Description: 你的日子很重要 Your days are Counted
+Description: Your days are Counted
 Author: Dave van Wijk <vanwijkdave@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.counted
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -8149,7 +8151,7 @@ MD5sum: 65f6f4bbc2162d791635d66340178040
 SHA1: fd8ff7b90fb38a576bfad1b2ef0e9ed0257b0a61
 SHA256: 6fa4b4a2d5de3e079b0a9e8f8ce1e557beb5de499366418d5fc6401468de3316
 Section: Tweaks
-Description: 你的日子很重要 Your days are Counted
+Description: Your days are Counted
 Author: Dave van Wijk <vanwijkdave@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.counted
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -8185,7 +8187,7 @@ MD5sum: 295f371b5d4e95f3da16865f09b92915
 SHA1: 2001b545237706818c6d55b2428ddada91f8b767
 SHA256: 4fc73283c13854bcbc2d879ad5f4d0044969995857aa3354026b3ec56f0017d7
 Section: System
-Description: 砸殼 Decrypts iOS Apps
+Description: Decrypts iOS Apps
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.crackerxi
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: CrackerXI+
@@ -8219,7 +8221,7 @@ MD5sum: 817873c3aa62e76a0cf599bf4a1e24ae
 SHA1: 1fea457233c8122aec54b4a00b2f25943b542e94
 SHA256: 1f161085a6052f8e20598298bf47981bcfa84acdc6ba5d8a1d2b0d0e13436622
 Section: System
-Description: 以root身份運行任何命令。run any command as root.
+Description: run any command as root.
 Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.crux
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -8237,7 +8239,7 @@ MD5sum: f04880688557e420aff34822ea55013a
 SHA1: 0fd2c4b98a0c256aae9818b464e0575318dfc596
 SHA256: 09c10d167f5ecea5016015dbc46887233f2ff41a38b609b2270ddb853bc4664a
 Section: Tweaks
-Description: 阻止Sindhi字符串錯誤凍結設備 Stop the Sindhi string bug from freezing your device
+Description: Stop the Sindhi string bug from freezing your device
 Author: MTAC
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.ctf
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -8293,7 +8295,7 @@ MD5sum: 68c90419c3252bd0797dbd8fa89da341
 SHA1: 6b97db1e8fd7b7a88847c829021dd451e7b3c6df
 SHA256: f9fafb469367e3269b252cc6aa4ba364b0113de7b8833940c593ae6c43ed4de4
 Section: Tweaks
-Description: 自定義您的鎖屏！Customize Your Lock Screen!
+Description: Customize Your Lock Screen!
 Author: TylerD3V
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.customlock
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -8363,7 +8365,7 @@ MD5sum: 6e765d44ce37a42e12cc12e017ed5029
 SHA1: 4b15bd176326341c9ecf1f1f7e2b48c67455a8e9
 SHA256: 13786188cd7ec110f7085102cea67a5b4dd2942b28fb03e4e73c14415041e050
 Section: Tweaks
-Description: Cydia下載管理器和其它功能！Cydia Download Manager & Extra Features!
+Description: Cydia Download Manager & Extra Features!
 Author: julioverne <julioverne@me.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.cydown
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -8399,7 +8401,7 @@ MD5sum: 101c5902b27881f9277e8024b592186b
 SHA1: 7957c8651750c2524e8512e11cd4fca0a93d41ba
 SHA256: 23e3f1ed21518911aa150f763f3cf3a390e0d821670d5065ddbc27ea11aa87dd
 Section: Tweaks
-Description: iOS 13暗模式警告提示。Force alerts to respond to iOS 13 dark mode.
+Description: Force alerts to respond to iOS 13 dark mode.
 Tag: compatible::ios13
 Author: LaughingQuoll <me@laughingquoll.net>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.darkalertspls
@@ -8437,7 +8439,7 @@ MD5sum: 340460c87a1f1d0cd1bf39414c076369
 SHA1: a2cff6d57204e1652f8d68d5e5f3f9b52118289a
 SHA256: 40bf22ab7f685b688922a82f785552752db19e13eb72abd62752b5090fc256d7
 Section: Tweaks
-Description: Dark Keys擁有一個全新的深色通用鍵盤 Have a whole new dark universal keyboard with DarkKeys!
+Description: Have a whole new dark universal keyboard with DarkKeys!
 Author: Patrick & Ultra
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.darkkeysxii
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -8529,7 +8531,7 @@ MD5sum: 8c8b711cb3b01bff68d2a9dab85bbb73
 SHA1: b3b096a801ef559382d792193eda66c9a73d53af
 SHA256: 16b5b1ffe98238f272253e0d699586254b02fa391fb979be248b6e88230ae221
 Section: Themes
-Description: 在黑暗中體驗最佳重新設計iOS。Experience Best Redesign iOS in Dark.
+Description: Experience Best Redesign iOS in Dark.
 Author: Kal_Themes <sehorilavhare@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.deamys
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -8636,7 +8638,7 @@ MD5sum: 52fc127ac8dfa525ca56c3ee345d9d6a
 SHA1: 1674ce54185698ffc8107110dbdd3d3c76014c86
 SHA256: 364cae7e8cda144824f972aeec2ff6e3dc4deab4068f04f702ee8f52a2eb3783
 Section: Tweaks
-Description: 在不關閉cydia的情況下關閉安裝窗口 Dismiss installation window without closing cydia.
+Description: Dismiss installation window without closing cydia.
 Author: PoomSmart
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.dismissprogress
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -8818,7 +8820,7 @@ MD5sum: 8757090135a630cdbf2a6b1e2c480c43
 SHA1: 0aa9f3879172993ab01281320ef95ddcb2fe8716
 SHA256: e4bded3163b7cc09645c25d7e825a87dd9375b2829caae76fb80635afb82f3c7
 Section: Tweaks
-Description: 雙擊主屏幕壁紙鎖定設備 Double tap homescreen wallpaper to lock device
+Description: Double tap homescreen wallpaper to lock device
 Author: Spark
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.doubletaplock
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -8837,7 +8839,7 @@ MD5sum: a3bfad347c87b0b6216d660af8dd36f1
 SHA1: a846a1fa856770c08c01daf8b3422185db5876a4
 SHA256: a474e039fcafb201fd575bce2baa17f79663bfffec5816f777b22bf96d2d881c
 Section: Tweaks
-Description: 改為顯示進度條以下載應用程序！ Show a progress bar for downloading apps instead!
+Description: Show a progress bar for downloading apps instead!
 Author: shepgoba
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.downloadbar13
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -8853,7 +8855,7 @@ MD5sum: 4ce266c044d14f40868ca6af9b6288c3
 SHA1: dd973416124c0c286fa3c4b26b3429f8acb7ba28
 SHA256: d5e63c5e18c771ee8a004d144053519b874f91e7fcb173f80e20aaecaf21a145
 Section: Themes
-Description: 氣泡的訊息主題！Messages theme for Drooping Bubbles!
+Description: Messages theme for Drooping Bubbles!
 Tag: compatible_min::ios5.1, compatible_max::ios13.4
 Author: Ethan Whited <ethanwhited2208@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.droopbubbles
@@ -8890,7 +8892,7 @@ MD5sum: 6aa5f3b82f30b32d781766d961c1513b
 SHA1: 5fc043f538aa31341b643364d8b2a096793a6dfe
 SHA256: 351f1bff6b6ae9dd74324127d73050f02d919392cca14a4b7b84dbb46a3ff6d2
 Section: Tweaks
-Description: 降低所選元素的透明度！Reduces the Transparency on selected elements!
+Description: Reduces the Transparency on selected elements!
 Author: P2KDev <p2kdev@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.dusky
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -8924,7 +8926,7 @@ MD5sum: 6dc15551afa7b682e5bb1c66c9df6241
 SHA1: 9033a9ff6b84e167239a3eddb051cc700d381a36
 SHA256: 1b60fae3bc327480a6a1c06a2aab9a18f924372f1ab4ff5475cff9c5132314da
 Section: Themes
-Description: 很棒的頁面點樣式包！ An awesome pack of page dots styles!
+Description: An awesome pack of page dots styles!
 Tag: compatible_min::ios7.0, compatible_max::ios13.3
 Author: Walker Bagley <mathguy2003@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.dynadots
@@ -9014,7 +9016,7 @@ SHA1: 1dafb8ac50fa56d7f5052f33af2a67b55e9502a1
 SHA256: b715453ff778cbc502e2dfce6fd0fa7a7b84a395461c4b4212704cbc6753cf67
 Section: Themes
 Priority: optional
-Description: 最時尚的白色主題！適用於IOS9的本色主題-IOS13.x，作者Le0n The most stylish white theme! Ecru Theme for IOS9 - IOS13.x By Le0n
+Description: The most stylish white theme! Ecru Theme for IOS9 - IOS13.x By Le0n
 Author: Le0n <iphonele0n@icloud.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.ecru
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -9032,7 +9034,7 @@ MD5sum: 01b8a64e3f8b46d215b4e8698640e1e7
 SHA1: 9b9241a6c4f2f2b7bd26f2db3d8865549c0b09c3
 SHA256: 9f0b5ed4b5978732539c8ae47a1fe72e017d90bd6a3598b0ab829576c1150fd9
 Section: Tweaks
-Description: 創建自己的壁紙！Create your own Wallpapers!
+Description: Create your own Wallpapers!
 Author: aboutzeph & Soongyu Kwon <aboutzeph@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.edictus
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -9097,7 +9099,7 @@ MD5sum: 347c693b249db3816446b07824d6a0dd
 SHA1: d679e92ac7aece9a4dab8e9e698c5d1d6e1291fe
 SHA256: b74327179df79e3b207415a830956b2176f3ffab6f735a533c1bb524b5f343df
 Section: Tweaks
-Description: 全系統參數均衡器，自帶8種音效版本。System-wide parametric equalizer
+Description: System-wide parametric equalizer
 Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 Author: Reed Weichler (rweichler) <rweichler+cydia@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.eqe
@@ -9237,7 +9239,7 @@ MD5sum: 0dd775279fa3da218c3dc1470a2b9943
 SHA1: 70ade8bb890a78ad37352f3aa73946d9d44cfeed
 SHA256: 1bb86debf03675a02147a689345b4936460f58208f9c4df68772194b58ee5ada
 Section: Tweaks
-Description: 快捷手勢 Give your hand a rest by using gestures instead!
+Description: Give your hand a rest by using gestures instead!
 Author: P2KDev <p2kdev@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.ezswipe
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -9274,7 +9276,7 @@ SHA1: 0c1229af6a548699be0873cf04d34481e84ff34e
 SHA256: f91fff03efbcacad1c847d6d7a42358e9c5dcd55daab11f612f3a8ca75e4c30c
 Section: Tweaks
 Priority: optional
-Description: 將秒數添加到鎖屏時鐘中，更改時間和日期的字體大小，然後移動它們！ Adds seconds to your lockscreen clock, change font size of time and date, and moves them!
+Description: Adds seconds to your lockscreen clock, change font size of time and date, and moves them!
 Tag: purpose::extension, compatible::ios10, compatible::ios11, compatible::ios12
 Author: Kiet Ha <kaitouiet@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.fastforwardtime
@@ -9366,7 +9368,7 @@ MD5sum: 86291a2a22de75a1c275c2184ae741fa
 SHA1: daa406fcdbe4353690274a230f635bae33f5bce3
 SHA256: 505d821bacc00aa80ce615211f7fbba615239dc402fe8ceb166937ab824e87b3
 Section: Tweaks
-Description: iPhone（iOS 12/13）上類似iPad的按鍵 iPad-like key flicks on iPhone (iOS 12/13)
+Description: iPad-like key flicks on iPhone (iOS 12/13)
 Author: Ash Wolf (Ninji) <ninji@wuffs.org>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.flickplus
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -9553,7 +9555,7 @@ MD5sum: 4b7cfd848cd558db89e9c71dd5c314fa
 SHA1: 87197f32b50b0c87e105085a301ef2e326da182f
 SHA256: 9b9702934506290a8e2d030ac6cef77e5bdc5c54a16565c840858a852ed98ca4
 Section: Tweaks
-Description: 通知橫幅的彩色邊框 Colorful border of notification banner
+Description: Colorful border of notification banner
 Author: Minazuki
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.gamingnotification
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -9609,7 +9611,7 @@ Section: Tweaks
 Description: The Beginning of Something Beautiful.
 Author: TylerD3V
 Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.genesis13/
-Icon: https://repo.packix.com/api/Packages/5ec9d056e39cc8001ac46eda/icon/download?size=medium
+Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: Genesis
 
 Package: github.io.gfp.gesturer
@@ -9658,7 +9660,7 @@ MD5sum: dd19a08a180bcc0072f8f50c7384288d
 SHA1: 76edc82e7b191091b447fe4f532bd6223888b3c9
 SHA256: b42f0104b238a300c9c12f81c14adc62322ff9e3c88ff6c8d437dba7120d97be
 Section: Themes
-Description: 帶有漸變色的精美玻璃主題 A beautiful glassed theme with light gradient
+Description: A beautiful glassed theme with light gradient
 Tag: purpose::extension, cydia::commercial, compatible_min::ios12.4, compatible_max::ios13.4
 Author: Lk <lukapillitteri@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.glassyos
@@ -9748,7 +9750,7 @@ MD5sum: 1da6c95e2e5758a8cf04189239be7db2
 SHA1: 29a4964c53fb67a0824f8b6d7858ce9a8f9b4e7a
 SHA256: cc1ef259cd182b3f5c37315d75ddf0d789aee3862ffb00e8fa1a7bbb0f601c74
 Section: Tweaks
-Description: Gmail的夜間模式 Night mode for Gmail
+Description: Night mode for Gmail
 Author: FoxfortMobile
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.gmailmidnight
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -9781,7 +9783,7 @@ MD5sum: ce46e0502ff72b7d2cba71f94225d7b9
 SHA1: baca2f0bf0fd1af37336f21141406e18e8ebb76e
 SHA256: 7fef7d15358285bd7cacc4d1a65192076d26c468b9bcc6c6a267c6faf36faa68
 Section: Themes
-Description: @ hakun49（Twitter）的iThemer和Snowboard iOS13主題。Theme for iThemer & Snowboard iOS13 by @hakun49 (Twitter)
+Description: Theme for iThemer & Snowboard iOS13 by @hakun49 (Twitter)
 Author: HaTiaTo <giangiosvn@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.goldv2hd
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -9798,7 +9800,7 @@ MD5sum: b3804cc5cf3539e38d7119eff9610504
 SHA1: 596975c6bc6ec55b31bca95abb06670b95c32ad5
 SHA256: 79d8afbeadd12812215779d0b230e5d2d0bb4e2d86697a0b0e703b9d45827c47
 Section: Themes
-Description: @ hakun49（Twitter）的iThemer和Snowboard iOS13主題。Theme for iThemer & Snowboard iOS13 by @hakun49 (Twitter)
+Description: Theme for iThemer & Snowboard iOS13 by @hakun49 (Twitter)
 Author: HaTiaTo <giangiosvn@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.goldv2hdblackiconupdate
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -9814,7 +9816,7 @@ MD5sum: 37e1eaac8a1fcafc2ed0db01f2586c81
 SHA1: 3f443c22f2722df3aa8dfc8b5b163031bb3b1c43
 SHA256: 57637d712957e30055e6ed282d46f2ddfc36490fa1142d206eccec4ab2c1b7c4
 Section: Themes
-Description: @ hakun49（Twitter）的iThemer和Snowboard iOS13主題。Theme for iThemer & Snowboard iOS13 by @hakun49 (Twitter)
+Description: Theme for iThemer & Snowboard iOS13 by @hakun49 (Twitter)
 Author: HaTiaTo <giangiosvn@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.goldv2hdsettingsicon
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -9831,7 +9833,7 @@ MD5sum: b841a25367ea4cbfecf63b653df5c165
 SHA1: b07aca44cc2cc9d153536bf9a3a36c045a45952e
 SHA256: 2640b153c7845fdb4f394a0a6cd159ec4f973f6f1c34d9abb1b31aa4ae5f68b2
 Section: Themes
-Description: @ hakun49（Twitter）的iThemer和Snowboard iOS13主題。Theme for iThemer & Snowboard iOS13 by @hakun49 (Twitter)
+Description: Theme for iThemer & Snowboard iOS13 by @hakun49 (Twitter)
 Author: HaTiaTo <giangiosvn@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.goldv2hdwhite
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -9848,7 +9850,7 @@ MD5sum: 071aa5b71a14859b60b72a56ddc484dd
 SHA1: d7fcf161ab43b6a412dda4fab458dd5175d319b6
 SHA256: 27eccac714f8cb19e655fd453fb9ae8e7c87982aae88a407db5880cad9582921
 Section: Themes
-Description: @ hakun49（Twitter）的iThemer和Snowboard iOS13主題。Theme for iThemer & Snowboard iOS13 by @hakun49 (Twitter)
+Description: Theme for iThemer & Snowboard iOS13 by @hakun49 (Twitter)
 Author: HaTiaTo <giangiosvn@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.goldv2hdwhiteiconupdate
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -9944,7 +9946,7 @@ MD5sum: 4add47819b83e7eee4e694f17c1b0e09
 SHA1: 8c61ec2d690944fb2ee4630e24589a9580c53f06
 SHA256: d4607b850f42e72f729c330f9299aa0341a73293134dd658c01e9b2c37f32d80
 Section: Tweaks
-Description: iOS 11〜iOS 13的分組通知 Grouped Notifications for iOS 11 ~ iOS 13
+Description: Grouped Notifications for iOS 11 ~ iOS 13
 Author: Soongyu Kwon & Timeloop
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.grupi
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -9960,7 +9962,7 @@ MD5sum: aa98e77e3710a0d1c46b865bc70e6f62
 SHA1: d0e4ce97436660e6e7d24a31d86143bb7bdaa4b9
 SHA256: 7ee5832d6d7a18a687bc3cf7a511ad314eb170671c0fb5f58cecec96b9244204
 Section: Themes
-Description: 適用於iOS 12-13的Guava StatusBar Guava StatusBar for iOS 12 - 13
+Description: Guava StatusBar for iOS 12 - 13
 Author: Indra Juliana <izzldsgn31@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.guavastatusbar
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -10008,7 +10010,7 @@ MD5sum: 1362ebd51c0b4f1af6e371b3f1fd63da
 SHA1: 662554bfd62b3bbcbd029bce6a787be61b9d6ae2
 SHA256: 9c4388755a1c110f42d413cdcc526b326e7a84849fd96cf359957537747f07c1
 Section: Themes
-Description: Gushi一個簡單的StatusBar。A simple StatusBar by Gushi.
+Description: A simple StatusBar by Gushi.
 Author: Gushi
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.gushixstatusbar
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -10223,7 +10225,7 @@ MD5sum: 218faaaffcbe39e88875dc5a4b79dedc
 SHA1: 8562907e46a50b776e457e305556bb60cea488f8
 SHA256: 5c4ab3b6a13eaa4668bb2b309aa365ccc7a6da02f6d36000ce1e34e5cb4d9381
 Section: Tweaks
-Description: 具有直觀UI的動態實時主屏幕佈 Dynamic, live homescreen layout with an intuitive UI
+Description: Dynamic, live homescreen layout with an intuitive UI
 Author: Kritanta
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.homeplus
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -10356,7 +10358,7 @@ SHA1: 1c722b6b80c95d79141e350a5dd03795e931c60d
 SHA256: fc65abbaabe56b966efa5e5424cf488afc34bd8f6479e554f5ec76d67a5c4696
 Section: System
 Homepage: https://repo.dpkghub.com
-Description: 修復iPhone繞過ID的插件 iOS 13。Fix your iPhone Bypass iOS 13
+Description: Fix your iPhone Bypass iOS 13
 Tag: role::enduser
 Author: 果粉派
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.icloudbypassfixer
@@ -10432,7 +10434,7 @@ MD5sum: f93a56f171210c089b5ce00933fdc083
 SHA1: 16702cdbfc1b0ff278c5f8a2f9ac0ac16a8d4727
 SHA256: 976852f91c5671204a14181658603a2b65527ec76754bae63c126ae427443c5c
 Section: Tweaks
-Description: 保護您的訊息 Protect your message
+Description: Protect your message
 Author: JacobCXDev <jacobcxdev@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.idunnou
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -10450,7 +10452,7 @@ MD5sum: 76e4c57ab94651851b9f4c5644633ba9
 SHA1: 6f149788c806afb142e6752ef0d38c6bd5e2956b
 SHA256: b6cb71ad46bc1e613d190da303068d5c0c6818e6b5cafab0f28adf00585779b8
 Section: Tweaks
-Description: 保護您的訊息 Protect your message
+Description: Protect your message
 Author: JacobCXDev <jacobcxdev@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.idunnou
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -10470,7 +10472,7 @@ SHA1: e969b4b2bd371f76666fba009acfa1bf779594bf
 SHA256: 049bcd63f11ac1eba2a39bdbf1c58f8cc2a4f00a094877631d2e161415891a29
 Section: Tweaks
 Priority: optional
-Description: 自定義5行鍵盤 Customize your 5-Row keyboard
+Description: Customize your 5-Row keyboard
 Author: Hiraku <dev@hiraku.tw>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.ikeywi3p
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -10579,7 +10581,7 @@ MD5sum: 974bd49860e9e877da98c40cf035d762
 SHA1: db6f8e6fcc8706889f78559bd967c74439a6a46d
 SHA256: 4aaa589e7018283f959225d461f7d1d307aced50427907f46336d7be18f12d20
 Section: Themes
-Description: 對於喜歡Material Design的人🔥🔥🔥 For people who love Material Design 🔥🔥🔥
+Description: For people who love Material Design 🔥🔥🔥
 Tag: compatible_min::ios7.0, compatible_max::ios13.4
 Author: ThemesOnFire <icondablabs@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.ineclectic
@@ -10615,7 +10617,7 @@ MD5sum: 2624dfd350a2a9f54517a1c3ff80ab5d
 SHA1: a7afbf4f23f5e95ad7b4d1267b9958b7c44244fc
 SHA256: c8c3a9028136911119190c4219cca802a92de798198a3176414fdda0429df227
 Section: System
-Description: Inky是一個顏色選擇器庫，可用於在調整的首選項包中提供顏色選項。Inky is a colour picker library that can be used to provide colour options in tweak preference bundles.
+Description: Inky is a colour picker library that can be used to provide colour options in tweak preference bundles.
 Tag: role::developer, compatible::ios12, compatible::ios13
 Author: Squ1dd13 <squ1dd13dev@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.inky
@@ -10689,7 +10691,7 @@ MD5sum: b5b9d83fa0b240edda75f7ab1a4309d9
 SHA1: 720e1f94bf88bfb6a457a1bfe9a2232f67a4b347
 SHA256: 8f4fa573c4b575da97d3f703254a75f4253a5b8102475ff6c27d3b4708053b91
 Section: Tweaks
-Description: Instagram的免費和開源調整 Free & Open Source Tweak for Instagram
+Description: Free & Open Source Tweak for Instagram
  Free & Open Source Tweak for Instagram
  Features:
  - Remove Ads (New Feeds and Stories)
@@ -10813,7 +10815,7 @@ MD5sum: 5790af6f4b6af629d2e05d59a8174ad3
 SHA1: aacd6b875460085cf318f6f06eeb8a3faacf0981
 SHA256: e16f10c8c455d1b5004318d7e38d7aedb36432a3734de816976cd3a66c7ba6f8
 Section: Tweaks
-Description: 修復繞過ID設備的iTunes Sync問題。Fix iTunes Sync for iCloud Bypass devices
+Description: Fix iTunes Sync for iCloud Bypass devices
 Tag: role::enduser
 Author: 果粉派
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.itunespatchsync
@@ -10942,7 +10944,7 @@ MD5sum: 844b4592bb954c163fe76c8c8e090fa9
 SHA1: cc1b289aabaa37c65d2a87654a065c3ed968bd98
 SHA256: 9f10584f890975dae70d4b3faa6974cb14e4bdc044fde88ff939cd0222cc0d11
 Section: CC Themes
-Description: 一個由單詞組成的CC主題 A CC theme made up of words
+Description: A CC theme made up of words
 Author: Alo
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.kelmacc
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -10962,7 +10964,7 @@ MD5sum: d2d4085aecefada992e17601b92a5baa
 SHA1: be1206b0acd2c6064a7ec8f5cc293fea1cb2199e
 SHA256: eea4502138c66e8e2461b8fb3addae9f008a48f65e40c7835a1901cf4d1bbaac
 Section: Tweaks
-Description: 輕鬆關閉多任務中的所有應用程序 Easily close all applications in multitasking
+Description: Easily close all applications in multitasking
 Author: ichitaso <willfeeltips+kb13@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.killbackground13
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -10998,7 +11000,7 @@ MD5sum: 72717dfaa1130039d93e36b04dbac0a2
 SHA1: 88c87b6d8bf96ba2ef47b9738eb4f348c822d0e7
 SHA256: 4289b766d3f111c07ce779c635bf6000e717a4a038dda57f49e74ba3bfcfa3bc
 Section: Tweaks
-Description: 用您選擇的應用替換“今日”視圖 Replaces the "Today" view with an app of your choice. Rewritten for iOS 13 by nicho1asdev.
+Description: Replaces the "Today" view with an app of your choice. Rewritten for iOS 13 by nicho1asdev.
 Author: nicho1asdev, Nepeta
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.konban
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -11014,7 +11016,7 @@ MD5sum: fb9886a5648152c54029fd36eecc7602
 SHA1: fd119cc691282811b1c40b3f79f6552a2a382333
 SHA256: 9f5eb2c7fc4f563f87601e452337e0934111809ed2e74ca56114f0c91e95dd32
 Section: Themes
-Description: 黑白主題 Black And Cream Coexistence
+Description: Black And Cream Coexistence
 Author: @kadirbaran
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.kremix
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -11032,7 +11034,7 @@ MD5sum: 2540f4f0289c93dc539df6977fde9000
 SHA1: 48670474383a7c2f2b622e171008571e3b82984d
 SHA256: 934dc8c0ddbbe09943cc7fc46e7f5eec8bec2fff98047b2ecdb833cec91a6b05
 Section: Tweaks
-Description: 鎖定手機時，最後查看通知中心！A last look at your Notification Center when you lock your phone!
+Description: A last look at your Notification Center when you lock your phone!
 Author: AnthoPak <anthopakdev@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.lastlook
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -11102,7 +11104,7 @@ MD5sum: f623f7cc571d5f7d6295d9111eed34a2
 SHA1: 8e3d37c51c864ee6837e30b49508a8fe63a0ae74
 SHA256: d260680747f4be79eb7d156311f4efe5f0f2415f742df51e6d0b228a0b5e3af1
 Section: Themes
-Description: 現代，多彩和精心設計。Modern, Colourful & Carefully Design.
+Description: Modern, Colourful & Carefully Design.
 Author: Devy_Design <idrainmax@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.liaca
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -11119,7 +11121,7 @@ MD5sum: 062fe9fc04abad4c517292d5c565fc7a
 SHA1: fd40fa4b39c4c718c162bbdb8edb5be389314353
 SHA256: 2085a380e6c567aae9ebcdd4b35888c1b44e9ee521ae0b9848cb7208758f45d6
 Section: Themes
-Description: 利亞卡的深色和淺色玻璃版本。Dark & Light Glass Version of Liaca.
+Description: Dark & Light Glass Version of Liaca.
 Author: Devy_Design <idrainmax@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.liacaGlassy
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -11187,7 +11189,7 @@ Section: Themes
 Description: Revamped Version of Liaca Dark.
 Author: Devy_Design <idrainmax@gmail.com>
 Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.liacalight/
-Icon: Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
+Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: Liaca Light
 
 Package: github.io.gfp.liacapaper
@@ -11306,7 +11308,7 @@ MD5sum: 85cba301f22686324595df12de7d3f32
 SHA1: 47ca6c5b680429f7ed879a55e18ea57e67af095b
 SHA256: f3284bdf5a213f69b75411f8220b837847acdffe88c06395c0a1cf98a2109225
 Section: System
-Description: JacobCXDev使用的庫 A library used by JacobCXDev.
+Description: A library used by JacobCXDev.
 Tag: role::developer, compatible::ios11, compatible::ios12, compatible::ios13
 Author: JacobCXDev <jacobcxdev@gmail.com>
 Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.libjcx/
@@ -11469,7 +11471,7 @@ MD5sum: b92af60fa2644f73b6b31afcee828223
 SHA1: 6b188bfb2fb96d40cdc0694319642e76ef41c465
 SHA256: 6d5a67c9d56d4588bd5cb1e6938fbfa735e3f7d5608dd7517ac6510e7fa36852
 Section: Tweaks
-Description: 使用Touch ID和Face ID鎖定應用 Lock apps with Touch ID and Face ID
+Description: Lock apps with Touch ID and Face ID
 Author: Azozz ALFiras
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.lockapps
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -11541,7 +11543,7 @@ MD5sum: 0c502c549fa4f6e8ccc3ebcf895aaca7
 SHA1: c9450e807c4272ff0c8ec5e5413c615925e504a6
 SHA256: 09230ad86d922394f0d6280a899df9615f1726625255d3212ce89cb23e209334
 Section: Themes
-Description: 彩色的主題，在左上角有公司漂亮的透明小徽標。A colorful theme with beautiful small transparent logos of the company in the left corner.;
+Description: A colorful theme with beautiful small transparent logos of the company in the left corner.;
 Author: kiddoduc <jens.klanjac@elev.ga.pysslingen.se>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.logotypeos
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -11577,7 +11579,7 @@ MD5sum: f90d23704ef23a3f8f4cbeaa1063230b
 SHA1: 2ecf20c85a6f09c116846e27134dc83146f9e534
 SHA256: 680595a71e58ef7b74a42162c47b9de528fc58170dc2c0476fe02c1c4df518e4
 Section: Tweaks
-Description: 自定義LPM自動鎖定時間 Custom LPM auto lock time
+Description: Custom LPM auto lock time
 Author: smokin1337 <smokin1337@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.lpmautolocktime
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -11594,7 +11596,7 @@ MD5sum: 2943f899785fc9c311a1a17962348d2c
 SHA1: a8ce775208c95d466efa687798768c196e8af70c
 SHA256: f13b5c19aae2731763834ffa588aa38bb9df8bb40fdd6781c6b38547de90252b
 Section: Themes
-Description: 隨著豪華振動。Vibrates with Lush.
+Description: Vibrates with Lush.
 Tag: purpose::extension, cydia::commercial, compatible_min::ios5.1, compatible_max::ios13.4
 Author: KAYS <kr77680@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.lush
@@ -11632,7 +11634,7 @@ MD5sum: 0ff814e35e541c88cd67042998e2536d
 SHA1: 94c2b0d54d9c2da724cd9ad7d2d889accf129403
 SHA256: 8630275c9c77b9a3214de1a4cb8b9bfef1e16a9c5ac37225fc57c904239413a4
 Section: Tweaks
-Description: 直接在鎖屏上訪問喜歡的歌曲的歌詞 Access lyrics for your favourite songs directly on your lockscreen
+Description: Access lyrics for your favourite songs directly on your lockscreen
 Tag: compatible::ios12, compatible::ios13
 Author: ConorTheDev <support@conorthedev.me>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.lyricify
@@ -11760,7 +11762,7 @@ MD5sum: b8b92f25e2c72eba9ca2fb6789cc366f
 SHA1: 78faef16284503ea02f013e96a93eb15fd6bd14e
 SHA256: f3a1d2590b2cfbe8d9aa59487dfaecfe55a9070c55bd3b5711af5abfe128260a
 Section: Themes
-Description: 簡單，優雅，精緻。Simple, elegant, sophisticated.
+Description: Simple, elegant, sophisticated.
 Tag: compatible_min::ios10.0, compatible_max::ios13.4
 Author: spooter <mattgalbraith79@gmail.com>
 Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.mavro/
@@ -11816,7 +11818,7 @@ MD5sum: 0c2b1b63c186c2e1622ef56dda36feed
 SHA1: 8211bdb953d0df2c52af8f0a19573c64e743d359
 SHA256: e35bd80b8407e88b1062a250959220bacbf9baa42a0f5980f621dab446b4da77
 Section: Utilities
-Description: 適用於iOS的內存調試工具。支持iOS 8.x以上的iPhone和iPad。Memory debug tool for iOS. Support iPhone and iPad above iOS 8.x
+Description: Memory debug tool for iOS. Support iPhone and iPad above iOS 8.x
 Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
 Author: Aidoo.TK <aidoo.tk@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.memsearch
@@ -11922,7 +11924,7 @@ MD5sum: b1ae137c0e8c3d29c725721f2a693d76
 SHA1: 905c3654a9cd9d8c09248688d665160cda5262b4
 SHA256: 059a9c6d824c95fdd17df8f2fe47278f2f2dcedf6a2ffa097eb38091d8933d3c
 Section: Addons (MK1)
-Description: 從XenHTML觸發MK1腳本 Trigger MK1 Scripts from XenHTML
+Description: Trigger MK1 Scripts from XenHTML
 Author: Castyte
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.mk1xenhtml
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -12011,7 +12013,7 @@ MD5sum: 41d43b73e942b34dc8e0fe3362b0702a
 SHA1: d02adb14ff38bd7a93c1e20a1da12152d7110d4e
 SHA256: a2706d7f6cb40c4226f75d5368c745904bdd26d06c66d0313352a5761ee83077
 Section: Widgets
-Description: LS和HS的絕佳小部件 Awesome widget for your LS & HS
+Description: Awesome widget for your LS & HS
 Author: alimaulana
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.mula
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -12049,7 +12051,7 @@ MD5sum: 2051489ff1b43a6e89c795ab51ef8f0e
 SHA1: 03547d8ba0965fc1ec6b74187923b1d7b7f43bea
 SHA256: dcf110441ce9b2d96f4a8c155c584ea76bcdfbcf0c851ec4dd6c0e7106c01307
 Section: Tweaks
-Description: Apple Music中那煩人的彈出式窗口不會妨礙您嗎？Doesn't that annoying popup in Apple Music get in the way?
+Description: Doesn't that annoying popup in Apple Music get in the way?
 Tag: compatible_min::ios12.2, compatible_max::ios12.4.2
 Author: Ethan Whited <ethanwhited2208@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.musicqueuebegone
@@ -12103,7 +12105,7 @@ MD5sum: 5b8b1a4e9101b29fd76657f5d31e0b78
 SHA1: 1262ad055acedfa9cb686b927f295f4ec3b7d025
 SHA256: 8fba09d225f0d3a87e1dd4b3282e02a842625fba159e1668bd1131318f387efb
 Section: Tweaks
-Description: 小橫幅 Small banners
+Description: Small banners
 Author: Nepeta
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.nanobanners13
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -12139,7 +12141,7 @@ MD5sum: 5082e862b659d0cafc36728183809392
 SHA1: 05c0f1ee2b5f087b1fb4c7fddba1733ac8a649bf
 SHA256: c01628241a848a882e55ea865c3c0ba98cd3bd0efc14769b876eb89d140878c4
 Section: Themes
-Description: Netimeni主題，一個非常漂亮的詳細圖標主題。 Netimeni theme for your device Iphone a very beautiful detailed icons Colour touch.
+Description: Netimeni theme for your device Iphone a very beautiful detailed icons Colour touch.
 Author: Netimeni_Themes <workplace.2015@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.netimeni
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -12175,7 +12177,7 @@ MD5sum: a3309ac31d5e551d8cf82146fbc67fb9
 SHA1: 5919438e92fda91617ea58746f682d976aea2ba6
 SHA256: 2a8b230383cab907e860c85fa7030aa3eaa34a0a8b76d98aa767643805290643
 Section: Widgets
-Description: 音樂，日期，天氣，電池小部件。取決於XenInfo。Music, date, weather, battery widget. Depends on XenInfo.
+Description: Music, date, weather, battery widget. Depends on XenInfo.
 Author: CodeOne88 <sant.ortega88@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.newmorph
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -12353,7 +12355,7 @@ MD5sum: 684038a3568101d5e60047350238cd23
 SHA1: 67f6bb0be5940fa287152921df0444a977373381
 SHA256: d3f1cd89f95380cf7c0cbd86d59ea49c232f420948fcdb6d20fdc47cb2b33c18
 Section: Tweaks
-Description: カメラのシャッター音と画面収録の音を削除します。隠し撮りはダメなんですよ。
+Description: Pas chinois lol !
 Author: sugi
 Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.noshuttersound++/
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -12494,7 +12496,7 @@ MD5sum: cb463a04c5a72404db3e522f02a80df3
 SHA1: b4ec2428d3693fdd37e05181d9568a5399824e37
 SHA256: 839d60737aa63be13ded47daecdbefb9df7434b10e019f1f74d8cb4eb3cb1d01
 Section: Tweaks
-Description: 播放音樂時音樂圖標顯示專輯圖片 Showoff the music's artwork on the app...
+Description: Showoff the music's artwork on the app...
 Tag: compatible_min::ios13.0, compatible_max::ios13.4
 Author: LacertosusDeus <LacertosusThemes@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.nowplayingicon
@@ -12693,7 +12695,6 @@ Section: Themes
 Description: App Previews for iOS
 Author: @theprestigext <x63amg@hotmail.com>
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Icon: https://guofenpai.github.io/repo/icon/peek.png
 Name: Peek
 
 Package: github.io.gfp.peekdark
@@ -12706,7 +12707,7 @@ MD5sum: d7d8c18459d7f5a3eab102008845e810
 SHA1: 03d0c57a94e0b6cab1d9a7bdf785c0816b46905d
 SHA256: 776f196d2e7f9c8cef0bd27ff25e4acdb724fb2734a5ba9cd8a594c33650baba
 Section: Themes
-Description: Peek Dark主題 Dark Previews for iOS
+Description: Dark Previews for iOS
 Author: @theprestigext <x63amg@hotmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.peekdark
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -13158,7 +13159,7 @@ MD5sum: b5c16cad1fd19b5f457de41e06bea196
 SHA1: 474793e5b518bfa29398eb3ebb0e85eb44adff43
 SHA256: 67884ce3cca5ca6313a5e44acf975256f40bb10933399c4c0b23ed9a465ab47d
 Section: Tweaks
-Description: 在應用程序中顯示照片分辨率和磁盤使用情況 Show photo resolution and disk usage in app
+Description: Show photo resolution and disk usage in app
 Author: shepgoba
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.photoinfo
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -13284,7 +13285,7 @@ Size: 35576
 MD5sum: 87a805c1c21f70c1d11d7fd306c361ca
 SHA1: 563158f3b4208c7b7173698efe991202f0fa3d76
 SHA256: 599b233c84f83dd82b8aedceb84f3b6cac5f0df9cd75dcabf90d270c6008d058
-Description: 一個很棒的BottomToolBar擴展！An awesome BottomToolBar extension!
+Description: An awesome BottomToolBar extension!
 Author: XCXiao
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.powerbar
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -13302,7 +13303,7 @@ MD5sum: 1acecbd7e9187934164d59760eec07e2
 SHA1: 5eee7a56410db1c97cd1ae0ac8401a2f3c1e3586
 SHA256: 1c654a85c9384de1986933d791c85a272ecde861fef20d9202e7a5ba376df461
 Section: Control Center (Modules)
-Description: 將不同的實用程序操作分組到一個控制中心模塊中 Group different utility actions into one control center module (iOS 11 only)
+Description: Group different utility actions into one control center module (iOS 11 only)
 Author: Muirey03
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.powermodule
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -13380,7 +13381,7 @@ MD5sum: 26666ec1c0f0bbc6135050b501707e54
 SHA1: 5305b5816a14dff6c519397fced5ec1018210470
 SHA256: 460c539eff680743a1a66c8dc9289e4902fa1837d69cfddfbecb0464b5ace0da
 Section: Tweaks
-Description: 點按兩次即可鎖定螢幕 Double tap to lock
+Description: Double tap to lock
 Author: Andreas Henriksson
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.properlockgestures
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -13396,7 +13397,7 @@ MD5sum: a399880e36376282116694bbd00ba8bf
 SHA1: d2e6cd9f4d4c0e989c734d813b670d5ec8f89eef
 SHA256: b6b9b74a804dc414f6073eac6ab3d2a88a197a44d823a520d3178b7c817de701
 Section: Themes
-Description: 黑暗的iOS主題，與眾不同。A dark iOS theme unlike any other.
+Description: A dark iOS theme unlike any other.
 Tag: cydia::commercial
 Author: Prosper406 <prosper.fourosix@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.prosperitytheme
@@ -13415,7 +13416,7 @@ MD5sum: f1f3750623dbea2766b42d0cfeba28be
 SHA1: 980968245f55d12ef77761ee7a6d386a0ae76805
 SHA256: 40e47c03685d26eca57c27f5e2a7c988106aa27db6c054ced8bbe11a649ec73d
 Section: Tweaks
-Description: 重新定義您的控制中心。 Your control center, reimagined.
+Description: Your control center, reimagined.
 Author: LaughingQuoll
 Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.prysm/
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -13431,7 +13432,7 @@ MD5sum: 0ee3041e0869ffa1c116b9d93d230b0a
 SHA1: 0583938e03a18373330b2867e395c885c079554d
 SHA256: 3f92c3ec53507402805a8fce9246264aa910e11cd65406c9a34c676027c0a048
 Section: Themes
-Description: 用新樣式重新設計您的控制中心。Redesign your control center with a new style.
+Description: Redesign your control center with a new style.
 Author: Marcos <markos92@icloud.com>
 Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.prysm-novacc/
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -13448,7 +13449,7 @@ MD5sum: 533552dfb9a6683cc918e233dee31801
 SHA1: 7b85e90daefa22b61794b36da98652a4ed52877a
 SHA256: 25e6ee2265a7ee3508351eebc1c18b5dbc037f57d8a01c40c1f2deaa4570bb11
 Section: Themes
-Description: 控制中心的全新設計。Fresh Design for Your Control Centre.
+Description: Fresh Design for Your Control Centre.
 Author: Devy_Design <idrainmax@gmail.com>
 Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.prysmarccc/
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -13464,7 +13465,7 @@ MD5sum: 859febb4513f344a51582e55dd36cc0a
 SHA1: 530071aa74faa622165766802d78dacac4f5c95a
 SHA256: a58816276d94a5013336695994273f88425aecb082c0609196fc24a2261f0e5a
 Section: Themes
-Description: 控制中心的獨特定制。Unique customization to Your Control Centre.
+Description: Unique customization to Your Control Centre.
 Author: Devy_Design <idrainmax@gmail.com>
 Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.prysmcalmcc/
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -13497,7 +13498,7 @@ MD5sum: d48c68d7bee372f955e53b352eacd669
 SHA1: eb4453bfa85c2cddd0b6af8efeaf68bbd05d014e
 SHA256: fa0db0a31de528b5f868ea9a04e4621e04ce4e30e9e07678a1ab766aaf4c849b
 Section: Themes
-Description: 以最美麗的風格重新構想CC。Reimagine CC with most beautiful style.
+Description: Reimagine CC with most beautiful style.
 Author: Devy_Design <idrainmax@gmail.com>
 Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.prysmdevycccircle/
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -13543,7 +13544,7 @@ MD5sum: fd67514a02bb1e73dd13ca6dfac9bc46
 SHA1: 010e522b7422e4ce28f2864d81778361edc681d1
 SHA256: 9a63bae43dccfb6330174ccaf6bbe0557c57d47069e6b8caecfbf80a2873059f
 Section: Themes
-Description: 適用於iOS的Prysm Gina CC for iOS 12-13 Prysm Gina CC for iOS for iOS 12 - 13
+Description: Prysm Gina CC for iOS for iOS 12 - 13
 Author: Indra Juliana <izzldsgn31@gmail.com>
 Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.prysmginacc/
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -13593,7 +13594,7 @@ MD5sum: eddf5dfc22c9f67158a5ab8b89030cbe
 SHA1: 5286413b292b3447bd4fdb6d2e6e8216e68f1451
 SHA256: 75a86e8963410f01810ae9111f07c4bb7ac344d1a228d2da91cbf5654877cf67
 Section: Themes
-Description: 前衛的控制中心，以及你們最喜歡的空間元素。Most Fav Space Elements for Your Prysm Control Centre.
+Description: Most Fav Space Elements for Your Prysm Control Centre.
 Author: Devy_Design <idrainmax@gmail.com>
 Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.prysmspacecc/
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -13625,7 +13626,7 @@ MD5sum: 043824b20e1b36af7e3025336e8e868f
 SHA1: 841dae6846aeea875bd9f7f50dfe371367de8e4d
 SHA256: 3802a9e7f8f40f6d0396db02da86d48e0599c9869a4f3e9b1d10d18ded9abb62
 Section: Themes
-Description: 控制中心的簡單文字樣式。 Simple Text Style to Your Control Centre.
+Description: Simple Text Style to Your Control Centre.
 Author: Devy_Design <idrainmax@gmail.com>
 Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.prysmtextcc/
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -13662,7 +13663,7 @@ MD5sum: 46921bce0ea1389f234a0735ec184127
 SHA1: 34cc70835c4f03c1afd7fc4c6b654b7d0630b884
 SHA256: df13d3360ab4a3505e9d6af931ad553bfff3838e51b5162bb1e95cf2c781dcf6
 Section: Tweaks
-Description: 在屏幕旁邊顯示一個具有快速功能的窗口 Show a window with quick functions next to the screen
+Description: Show a window with quick functions next to the screen
 Author: sugiuta
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.pwbtn
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -13696,7 +13697,7 @@ MD5sum: 66ac8eadc43195a1918f968e01d73a50
 SHA1: 74510ced37e75c6d27b53b0e3f0194c30141fe8d
 SHA256: aa7d2bea4cd4dc40e0a29c675b6445a1c1450f955925eb6caf969252e15ed948
 Section: Tweaks
-Description: 通知，重新定義。Notifications, redefined.
+Description: Notifications, redefined.
 Author: LaughingQuoll
 Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.quart/
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -13751,7 +13752,7 @@ MD5sum: b8e90b79b914cb9bb146b54cc4a1473d
 SHA1: 1bc5ecf9de5d69907af6e915cc0383278ce4a7a1
 SHA256: d98c7b90a021a2324d1379eb5eab66dcda6af6073f92d18a5638e3cc8c89a075
 Section: Tweaks
-Description: 根據您的喜好自定義iOS系統色彩！ Customize iOS' system tint to your liking!
+Description: Customize iOS' system tint to your liking!
 Author: Justin Proulx
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.rainbow
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -13889,7 +13890,7 @@ MD5sum: 4a11b959e6103d68424ba93591cbd690
 SHA1: db71f302a838adad62f0db2c18583f841224bc98
 SHA256: 93425ea5d3a694d84079c0069a309326b34b407764085e5dc2fc149eea7afea1
 Section: Tweaks
-Description: 越獄時自動設置分辨率,一次使用“分辨率設置器”，越獄後此將起作用
+Description: Pas chinois lol !
 Author: halo_michael <yc992147156@me.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.resolutionautosetter
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -13925,7 +13926,7 @@ MD5sum: 5afcb4e2b63498ba00ddc6455d2ba076
 SHA1: be929d57815ac03b0c96d5baa108adcdaf51b8e0
 SHA256: ec871028d7d268a937954a68bb46c86a21cb83be45c2f4b6aac173a16389dc56
 Section: Tweaks
-Description: 從系統快照中快速恢復原始字體。Quickily restore orignal fonts from your system snapshot.
+Description: Quickily restore orignal fonts from your system snapshot.
 Author: halo_michael <yc992147156@me.com>
 Depiction: https://halo-michael.github.io/repo/info/restorefonts
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -13960,7 +13961,7 @@ SHA1: 1d9324249f12cdcccc9fe8ac42101f9bcd7307db
 SHA256: ca37e86edf0350c5fb6d0ae9c8341be82d68c4d393ff528b53643409aac96b1b
 Section: Tweaks
 Priority: optional
-Description: 保存帖子並匿名查看故事，並做更多的事情 Save posts and view stories anonymously and do much more
+Description: Save posts and view stories anonymously and do much more
 Author: Majd Alfhaily
 Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.rocket/
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -14035,7 +14036,7 @@ MD5sum: 265bd22538a4fbca8c479c4fdab5ac6d
 SHA1: b0690b997259d426525cc5a71ded0b02ab1fdb32
 SHA256: 033d93d4e6b4c75817a05f26e225464abc197fb31cb3ff56e694dcb25a7e124e
 Section: Tweaks
-Description: 圓形的控制中心模塊，外觀更乾淨！ 在設置中配置的選項。Rounded control center modules for a cleaner look! Options to configure in settings. @itsnich1as on twitter.
+Description: Rounded control center modules for a cleaner look! Options to configure in settings. @itsnich1as on twitter.
 Author: nicho1asdev
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.roundccmodules
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -14103,7 +14104,7 @@ MD5sum: 5a3b2a6d234f762fc23de4d53698a308
 SHA1: 3dc103dd3ae68972617467e85b89788c9aee1e35
 SHA256: f6cd5aaf3bf1df27db95e0b61b89aa374daa2820e6dfd6d78fd646f7346c063d
 Section: Themes
-Description: Rupy和Siro混合的主題 Rupy and Siro blend.
+Description: Rupy and Siro blend.
 Tag: purpose::extension, cydia::commercial, compatible_min::ios5.1, compatible_max::ios13.3
 Author: KAYS <kr77680@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.rupy20
@@ -14141,7 +14142,7 @@ MD5sum: 9f1e8b5b2100e3672b3139df570364ee
 SHA1: 64a7bba5f6ad68393591a91a277fca7411865042
 SHA256: c55a677c7d32720d9bb307aae4d8d222dbfdcea9822f6879ae517a6d1770c4e2
 Section: Tweaks
-Description: 在設備凍結後可以通過按特定模式按音量按鈕來註銷，從而節省您的時間。A tweak to hopefully save you when your device gets frozen to be able to respring by pressing the volume buttons in a specific pattern.
+Description: A tweak to hopefully save you when your device gets frozen to be able to respring by pressing the volume buttons in a specific pattern.
 Author: nicho1asdev
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.saferespring
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -14197,7 +14198,7 @@ MD5sum: ae6742f55c1d050c62b6cda6273fa883
 SHA1: 13360977cf768415d8c0b3a72ffccb6648d2e69d
 SHA256: 6d07b8978dfeba0a18d21e41500a6583117db66370f722fa9284ea76ee67a25f
 Section: Tweaks
-Description: 幫助您節省電池壽命 help you to save your battery life
+Description: help you to save your battery life
 Author: mostafa
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.saverb
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -14214,7 +14215,7 @@ MD5sum: f3886673cddcf8800b50321e0141344b
 SHA1: db6642690cfaa4c2b97566bffadb2ad1b4a03c55
 SHA256: f95ced1e6b2c209a67b838fd8a4e0ec715ca2fbdbcc54a64f5a3930ea67cb810
 Section: Themes
-Description: 一個很棒的主題！An awesome theme!
+Description: An awesome theme!
 Author: Samir Arab
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.schon
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -14232,7 +14233,7 @@ MD5sum: 2f9efe5d868a7085d546a795a484583f
 SHA1: 982c84dffe2d7919095b2a25cf6473f9c4de8abe
 SHA256: ab566a4c2f850860b70f255644d7ae50231b15db36a076fead8406d7b66f20f8
 Section: Tweaks
-Description: 使用此調整隱藏通知！Hide notifications with this Tweak!
+Description: Hide notifications with this Tweak!
 Tag: purpose::extension, cydia::commercial, compatible_min::ios13.0, compatible_max::ios13.3
 Author: sugiuta <sugi.uta_1203@icloud.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.secret-message
@@ -14960,7 +14961,7 @@ SHA1: a6e47751839a5ef9e743be3d475886aa255a65a1
 SHA256: 1387778c16d565841319823afdd8f28cda8742f5d3e85fbd94d85a124ad3a17e
 Section: Tweaks
 Priority: optional
-Description: 使您的設置最小/時尚＆更多！Make your Settings Minimal/Sleek & More!
+Description: Make your Settings Minimal/Sleek & More!
 Tag: purpose::extension, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 Author: CydiaGeek <lucaluca86@aol.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.skinnysettings
@@ -14978,7 +14979,7 @@ MD5sum: 6b73a33a6bcb6bd58c3aa3c6f0663467
 SHA1: d43bd85686b6f4e9d11b6740936218560f4564e3
 SHA256: 2db7ca1fac6590c85a17e9578138ac7861b2ffe5fe6ae0d4240c8da3647f8adc
 Section: Status Bar
-Description: A simple statusbar by Soda  .蘇打原創狀態欄。
+Description: A simple statusbar by Soda !
 Author: Soda（蘇打）
 Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.slantstatusbar/
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -15275,11 +15276,11 @@ MD5sum: b38a810dab44063a1c16eeed98a30cf6
 SHA1: 9cfaca977681fbab889a4767742460b8859642d5
 SHA256: d89558761e7b6989fa57e904d3e94bec6ad4d9db55f412c861d1ce676d3eefd4
 Section: Tweaks
-Description: 鎖屏解鎖的鎖頭更換成笑臉鎖頭 Replace the lock unlocked by the lock screen with a smiley lock
+Description: Replace the lock unlocked by the lock screen with a smiley lock
 Author: 果粉派
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.st
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Name: 笑臉鎖頭 Smiley lock
+Name: Smiley lock
 
 Package: github.io.gfp.st5
 Version: 5.1.8
@@ -15327,7 +15328,7 @@ MD5sum: 048e54395c6e83053f1aedc6d23f0787
 SHA1: 5048e1c79115b855569d28ee2c62a621f11b9808
 SHA256: c20021a8cf1b126c87ae9a3fc9607273e60381295a50b88c9c8c2eb9c463d1b6
 Section: Themes
-Description: 包含Devy的所有狀態欄。All Devy Status Bar in One Pack.
+Description: All Devy Status Bar in One Pack.
 Author: Devy_Design <idrainmax@gmail.com>
 Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.statusbarpack/
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -15360,11 +15361,11 @@ MD5sum: 580be7c9d3693948a00283965f688320
 SHA1: 0a72709c1d694a6b75fa21fb9efeda73302cd68c
 SHA256: ca1de9d33b4b8f65a87cc2108785f352e4032ceb379f6002bc5d4c1e3f1967c6
 Section: Tweaks
-Description: 恢復為原始鎖頭
+Description: Pas chinois lol !
 Author: 果粉派
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.sthf
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Name: 恢復原始鎖頭 Restore lock
+Name: Restore lock
 
 Package: github.io.gfp.suer
 Version: 0.2.2
@@ -15377,7 +15378,7 @@ MD5sum: 82da03d5170a58fbc98e8f0c9eaa883a
 SHA1: fb758e02229a5418e6f4534710934655c8481182
 SHA256: e682614e3a47caad8edb0d5088edf277c9840fb68685f326eb9579b056dc6442
 Section: Tweaks
-Description: 暫時擁有root特權，但不需要密碼。Temporaily assume root priviledges but need not password.
+Description: Temporaily assume root priviledges but need not password.
 Author: halo_michael <yc992147156@me.com>
 Depiction: https://halo-michael.github.io/repo/info/suer
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -15448,7 +15449,7 @@ MD5sum: 6d3e9cf27e37b86f006c57f727e7a07b
 SHA1: a2b39a947dee689632a0843d53c5114eda2dbde0
 SHA256: 379aa00af47df0efc7a1ca1168421a647679a2cdf637650e71232e1c8ad3ea79
 Section: Tweaks
-Description: 一款微信美化工具，請查閱教程後使用，關注我的公眾號」蘇兔「獲取更多資源。
+Description: Pas chinois lol !
 Author: Carby(公眾號:蘇兔) <Qq1336171546@gmail.com>
 Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.sutuplus/
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -15465,7 +15466,7 @@ MD5sum: 116a84ee28224b4dd4156f50deba9c35
 SHA1: 9b938aa834bb0a9cfa367a91da77a6f2090071dd
 SHA256: 4ff3a5efa91adae32afa0f66a558c8499aaf9db18cfa8d94416abaae7eef0141
 Section: Themes
-Description: 圓形變體中的甜蜜柔和主題 Sweet pastel theme in circle variants
+Description: Sweet pastel theme in circle variants
 Tag: compatible_min::ios12.2, compatible_max::ios13.3
 Author: Amara Engstrøm <AlwaysAmara@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.sweetcirclespro
@@ -15666,7 +15667,7 @@ MD5sum: 47acc8f76cb6a74ec35f260113635f2e
 SHA1: bb56f19d25eb1bd904890e0d9aeb65b498fab249
 SHA256: f3936b160f840f3cbb75fcb28ba9a1ccc501060651ab7f81f40ef94f835a7327
 Section: Tweaks
-Description: 用自己的方式改變時間。Your Time in your way.
+Description: Your Time in your way.
 Author: NaneraManu
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.time
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -15769,7 +15770,7 @@ Tag: purpose::extension, compatible::ios12, compatible::ios13
 Author: Lightmann <lightmanns11@gmail.com>
 Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.transparentnotif/
 Dev: lightmann
-Icon: http://cydia.saurik.com/icon@2x/me.lightmann.transparentnotif.png
+Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: TransparentNotif
 
 Package: github.io.gfp.truetube
@@ -15890,7 +15891,7 @@ MD5sum: 6465a905c55b0edb78db5145f34b2c0b
 SHA1: d548774c1acf674297de7a21292994d8afeed7a9
 SHA256: 411131eacec4c9dce1616548221d7a82f8f3c9231f91c4c61f1b2858a0473390
 Section: Tweaks
-Description: 鎖定裝置控制
+Description: Pas chinois lol !
 Author: ApexTweaks <support@apextweaks.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.veza
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -15910,7 +15911,7 @@ Section: Tweaks
 Description: Feel more your device by making it vibrate!
 Author: SynnyG <synnyg.devjb@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.vibrato
-Icon: https://repo.packix.com/api/Packages/5c9bee66185e0a001b1ac376/icon/download?size=medium
+Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: Vibrato
 
 Package: github.io.gfp.viola
@@ -15955,7 +15956,7 @@ MD5sum: 16725c0d8f5bebee9e438664fadb5a1c
 SHA1: f6f0959dc7ea6106797c03dd983ef6a92c61b29c
 SHA256: 6eabb5fd92a2638ae5afd16ad6758e71b06d4995628429cd9780af6b0c58ab6a
 Section: Themes
-Description: 中提琴的字形版本！ （包括設置在內的3種模式） The glyph version of Viola! (3 modes including settings)
+Description: The glyph version of Viola! (3 modes including settings)
 Author: Bousrih <bousrih20@gmail.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id= github.io.gfp.violaglyphs
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -16171,7 +16172,7 @@ MD5sum: 5533602b8725185303556fccc9f2e450
 SHA1: 2b75661cd90f5ffe526a7ca088f395a1d0307f2a
 SHA256: a639a9cc8305be4b7fa237b172454dcfb7ebebbf04d969c476199b0254c24253
 Section: Tweaks
-Description: 天氣就在您的指尖！Weather right at your fingertips!
+Description: Weather right at your fingertips!
 Tag: compatible::ios13
 Author: Tr1Fecta <tr1fecta@pm.me>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.weatherground
@@ -16190,7 +16191,7 @@ MD5sum: e1cc7932bc335f217065c8a7013cad29
 SHA1: b73d3083542c745b0bac6c44577cbc6107336335
 SHA256: 756896f0769763423c0196faab6e043168d598148a680ca5e08ccdc5cee524bb
 Section: Tweaks
-Description: 天氣就在您的指尖！Weather right at your fingertips!
+Description: Weather right at your fingertips!
 Tag: compatible::ios13
 Author: Tr1Fecta <tr1fecta@pm.me>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.weatherground
@@ -16208,7 +16209,7 @@ MD5sum: 8fb5a339202520bea268a1c06b3b1166
 SHA1: 91cfbfe1c27d21c308fac24614e25a06c7bebdce
 SHA256: 29103d0e836e479591b82ed585cd2aab7b905230e936beebcf35c25e06d5904b
 Section: Tweaks
-Description: 開啓微信 Callkit 通話功能・Open the Callkit Call Function of Wechat
+Description: Open the Callkit Call Function of Wechat
 Author: iBreak <ibreak2019@qq.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.wechatcallkit
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -16226,7 +16227,7 @@ MD5sum: f0b2721bc73f92e6f656bf1c7e586fba
 SHA1: c355e7e765e1165a25e3fdf03103b2516d6e58c1
 SHA256: c238ef2cb654f1bd52ab4c04c558a79893bbadcba34eb4cae06467313db7e7f7
 Section: Tweaks
-Description: 適用於IOS 13的WiFiCarrier。支持WiFi呼叫的附加功能 An Enhanced version of NoisyFlake WiFiCarrier for IOS 13. Supports additions for WiFi Calling
+Description: An Enhanced version of NoisyFlake WiFiCarrier for IOS 13. Supports additions for WiFi Calling
 Author: Phil, NoisyFlake
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.wificarrier
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -16430,7 +16431,7 @@ MD5sum: 8ed8b9b1f080e34b364b1e859c1f674d
 SHA1: 87120ab1f3cc53b0946c184948edbb9d4d6f179a
 SHA256: 46212f67b8cdfea6f7717905291942769d878ce82a573a3012a820c1f2fe8e0d
 Section: Tweaks
-Description: YouTube應用的基本工具箱。Essential toolbox for YouTube app.
+Description: Essential toolbox for YouTube app.
 Author: Justin Petkovic <justinpetkovic1994@outlook.com>
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.youtubetools1
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
@@ -16499,7 +16500,7 @@ MD5sum: 4849b4b099ab7e4adbc2f5b599480b54
 SHA1: d080a15fb45b78a602f46c13f50983faf3b499e1
 SHA256: edadaba4c05066eb197e6bd4bf6959f9add99cbee8dd1f63daff967ea614d72e
 Section: Utilities
-Description: 阻止Zebra劫持Cydia和Sileo Stop Zebra from hijacking Cydia and Sileo open requests!
+Description: Stop Zebra from hijacking Cydia and Sileo open requests!
 Author: nicho1asdev
 Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.zebrasourcefix
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
