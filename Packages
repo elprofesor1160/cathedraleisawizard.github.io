@@ -406,6 +406,23 @@ SHA256: 513EF6D4E46531F025A1CCDDB9C7C5A04F64F6CB3176C78830EB92943B1E205E
 Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.foxfort.zenumbra.html
 Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
 
+Package: com.galacticdev.instadownloader
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: ✞ E L L E V Y C
+Installed-Size: 216
+Depends: mobilesubstrate
+Filename: ./debs/com.galacticdev.instadownloader_0.0.1_iphoneos-arm.deb
+Size: 4258
+MD5sum: c2e3e209539c1188d504a1bdc1535e81
+SHA1: d84553cc02c5a45c8143785e8c486f06e6a89b72
+SHA256: a0877fbbf584075c7da2e502ffcb60620688bad1966800a1c72b5c79d0914dd9
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Galactic Dev
+Name: InstaDownloader
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
 Package: com.gilesgc.cccalc
 Name: CCCalc
 Version: 1.1.2
