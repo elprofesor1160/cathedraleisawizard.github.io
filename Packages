@@ -491,6 +491,40 @@ Name: Deezelife
 Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.hackyouriphone.deezelife.html
 Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
 
+Package: com.haoict.facebooknoads
+Version: 1.2.0
+Architecture: iphoneos-arm
+Maintainer: ✞ E L L E V Y C
+Installed-Size: 536
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.1.0), firmware (>= 10)
+Filename: ./debs/com.haoict.facebooknoads_1.2.0_iphoneos-arm.deb
+Size: 246086
+MD5sum: 53613c50ed78344ba38b1775717f7ae3
+SHA1: 762ef43932894daf6dcfa08fcc7252067995a094
+SHA256: 2c52a11f135f3b232cb1b54ed4a706b53015e6efad33c7e99cf5996041cdd091
+Section: Tweaks
+Description: Free & Open Source Tweak for Facebook
+ Free & Open Source Tweak for Facebook
+ Change log: https://github.com/haoict/facebook-no-ads/releases
+ .
+ Features:
+ - Remove Ads
+ - Can Download Video (long press to download)
+ - Hide Composer on News Feed
+ - Hide Stories on News Feed
+ - Support iOS 10 (not tested) - 11 (tested) - 12 (tested) - 13 (tested)
+ - Support latest Facebook version (If it doesn't work, you should update the app to latest version >= 260.0)
+ .
+ I collect uuid for better support and statistic purpose
+ .
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ .
+ Thanks a ton
+Author: Hao Nguyen
+Name: Facebook No Ads
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
 Package: com.haoict.instanoads
 Name: Instagram No Ads
 Version: 1.1.0
@@ -508,6 +542,37 @@ SHA256: 739ACCAB3BAFBCB2884E089A9AB8B13F0C9E19493064240245C828F0DC303E08
 Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.haoict.instanoads.html
 Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
 
+Package: com.haoict.instanoads
+Version: 2.2.0
+Architecture: iphoneos-arm
+Maintainer: ✞ E L L E V Y C
+Installed-Size: 648
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.3.0), firmware (>= 10)
+Filename: ./debs/com.haoict.instanoads_2.2.0_iphoneos-arm.deb
+Size: 325968
+MD5sum: 127e980780713d56964d339f9311fcf8
+SHA1: d146428a91d852bffdb71e8de4be14239aa23ef6
+SHA256: cdf3f3c99904a69073a42a35fae904d2f8fbf7d963f43f99f9b691bb710ff378
+Section: Tweaks
+Description: Free & Open Source Tweak for Instagram
+ Free & Open Source Tweak for Instagram
+ Features:
+ - Remove Ads (New Feeds and Stories)
+ - Can save media (Photos, Videos, IGTV, Stories, press and hold to show download option)
+ - Support iOS 10 (not tested) - 11 (tested) - 12 (tested) - 13 (tested)
+ - Support latest Instagram version (If it doesn't work, you should update the app to latest version >= 145.0)
+ .
+ I collect uuid for better support and statistic purpose
+ .
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ .
+ Thanks a ton
+Author: Hao Nguyen
+Name: Instagram No Ads
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.haoict.instanoads.html
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
 Package: com.haoict.libhdev
 Name: libhdev
 Version: 2.0.0
@@ -522,6 +587,25 @@ Size: 57908
 MD5sum: FB4B934C2F94597A2938704E15A04006
 SHA1: 9127A4EB1E00871A452E0E2289D004E82C88B654
 SHA256: 709537B465FABBC0C044A97FF5FD0E1DDA476466155A249D1EBCBBD7AE177BB4
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.haoict.libhdev.html
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
+Package: com.haoict.libhdev
+Version: 4.3.0
+Architecture: iphoneos-arm
+Maintainer: ✞ E L L E V Y C
+Installed-Size: 320
+Depends: mobilesubstrate, preferenceloader, firmware (>= 10)
+Filename: ./debs/com.haoict.libhdev_4.3.0_iphoneos-arm.deb
+Size: 39848
+MD5sum: c2507eb12cc9a3729d818b2d1cf04528
+SHA1: 7c6a7106a3b62e398e779c9459a8408acc8090d0
+SHA256: dfe6108f7a12ed75b6d26bc0d427ebb8d0a95045032a58968d49ed559689435a
+Section: System
+Description: This is a developer library for better preferences and useful utilities.
+Tag: role::developer
+Author: Hao Nguyen <hao.ict56@gmail.com>
+Name: libhdev
 Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.haoict.libhdev.html
 Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
 
