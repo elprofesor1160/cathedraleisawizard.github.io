@@ -15,6 +15,23 @@ Author: Samg_is_a_Ninja
 Name: chlorophyll
 Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
 
+Package: com.pxcex.jooxpremium
+Name: Joox Premium
+Version: 4.0.7
+Size: 83364
+Architecture: iphoneos-arm
+Description: VIP Music, Download songs and listen to them Offline (320kbps) HI-FI, DTS Active, Enjoy Music!
+Maintainer: ✞ E L L E V Y C
+Author: pxcex <pxcex@icloud.com>
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios12.2
+MD5sum: c539e02149c438bcd916a18282bb0fce
+SHA1sum: 34e1d981dad5a659ebab1f9904ed150c71cde2b5
+SHA256sum: 85f7273cbedac7400e2264576920e93ddcc50306cf95f0156041a698e4064ea9
+Filename: debs//com.pxcex.jooxpremium_4.0.7_iphoneos-arm.deb
+Depiction: https://paxcex.github.io/depictions/com.pxcex.jooxpremium/index.html
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
 Package: com.samgisaninja.chlorophyll
 Version: 1.1
 Architecture: iphoneos-arm
