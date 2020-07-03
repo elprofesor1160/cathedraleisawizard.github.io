@@ -6707,6 +6707,25 @@ Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.ba
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: BadgeMe
 
+Package: github.io.gfp.barmoji
+Version: 2020.6b1
+Architecture: iphoneos-arm
+Maintainer: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Installed-Size: 1060
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/banana/github.io.gfp.barmoji_2020.6b1_iphoneos-arm.deb
+Size: 375152
+MD5sum: 5f79b948930710de32552aa2636c2a61
+SHA1: 4c94090fffc6efb0cc460d0369633ae77a03e413
+SHA256: 0e8aa2b35955aa63e4e6c5fe451c6a5031066b3a57ea218c4bc3d135054d005c
+Section: Tweaks
+Description: Quick Emoji Access Bar
+Tag: compatible_min::ios10, compatible_max::ios14
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.barmoji/
+Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
+Name: Barmoji 2020.6
+
 Package: github.io.gfp.batterynotch
 Version: 1.6.1
 Architecture: iphoneos-arm
@@ -10484,6 +10503,22 @@ Author: smokin1337 <smokin1337@gmail.com>
 Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.lastunlock/
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: LastUnlock
+
+Package: github.io.gfp.leminui
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: alimaulana
+Filename: ./debs/banana/github.io.gfp.leminui_1.0_iphoneos-arm.deb
+Size: 1486648
+MD5sum: ce44642e6b9c8d6cf1706226a1e1619b
+SHA1: bff2dca29c6038bc25f9f30c3282e7333c602c0e
+SHA256: 93e8191b8f0921dab07f689cfd883f585061d06450f23b3065b86c525420a297
+Section: Themes
+Description: Snowboard UI
+Author: alimaulana
+Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.leminui/
+Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
+Name: Lemin UI
 
 Package: github.io.gfp.lendmyphone3
 Version: 1.0.1
