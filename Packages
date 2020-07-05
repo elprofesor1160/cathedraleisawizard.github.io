@@ -195,6 +195,22 @@ SHA256: 2AAF38DEF923501ED93D15ED5071734FF92680D715CBE5F999A84A0BE9A5FE8B
 Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.atwiiks.betterccxi.html
 Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
 
+Package: com.bluedit
+Name: Bluedit
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Adds some useful features to Reddit's official iOS app !
+Maintainer: ✞ E L L E V Y C
+Author: aesthyrica
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: ./debs/com.bluedit_1.1_iphoneos-arm.deb
+Size: 23092
+MD5sum: 493EE1D62BD49DA5D2A42D8CF6B1D635
+SHA1: 3CC9B7BC7A460A8186348B18107340387EC97B4B
+SHA256: F196E30CDD574A84D3CEEDD85395A3862E493222FAC3B4AB8DAD070BD795B69B
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
 Package: com.cabralcole.timeformat
 Name: TimeFormat
 Version: 1.0.1
@@ -298,6 +314,22 @@ MD5sum: 28fb9ba91b2049e022d113190984ea81
 SHA1: a3943086a9c3f67c9944a192e0a1159d857952a9
 SHA256: 52244cc605fc9ce0020ad81ae37d8c0b3503d1211601f1cb1733011fd1f65a6a
 Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.cydiageek.ccclearmodulesbg.html
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
+Package: com.droomone.tabblocker
+Name: TabBlocker
+Version: 1.3.2
+Architecture: iphoneos-arm
+Description: Blocking new advertisement tabs & more !
+Maintainer: ✞ E L L E V Y C
+Author: DroomOne
+Section: Tweaks
+Depends: mobilesubstrate (>=0.9.5000), preferenceloader, firmware(>=11.0), ws.hbang.common
+Filename: ./debs/com.droomone.tabblocker_1.3.2_iphoneos-arm.deb
+Size: 70916
+MD5sum: 54847D4C4112FA8E703BA8B7C2E45BD7
+SHA1: AF034E88864910FDAD5B113DCEDD81E9FC0E8F44
+SHA256: D7393CE3A4D3BE3A13B1175F6A21407E49EA7BE153AEC48728AD6ECE87F0AB67
 Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
 
 Package: com.exile90.icleanerpro
@@ -471,6 +503,24 @@ Size: 26418
 MD5sum: CAE92CEEE567020F3B4B0F497A7180AD
 SHA1: DC967296D9E1080CF1CC0408EB22E7C4FC52C947
 SHA256: BE36CDE6E1510094CA83C132EABCA39A6B1390757B42447331B8D73B51D1C75E
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.gilshahar7.exacttime.html
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
+Package: com.gilshahar7.exacttime
+Name: ExactTime
+Version: 2.0
+Architecture: iphoneos-arm
+Description: Shows the exact time of a notifications, messages, calls and mails !
+Maintainer: ✞ E L L E V Y C
+Author: gilshahar7
+Section: Tweaks
+Depends: mobilesubstrate
+Conflicts: com.gilshahar7.exacttimemail, com.gilshahar7.exactimephone, com.gilshahar7.exacttimemessages
+Filename: ./debs/com.gilshahar7.exacttime_2.0_iphoneos-arm.deb
+Size: 95870
+MD5sum: 8EF1FE670DCB01899B186FF86ADD7719
+SHA1: C2002621A6072FB8D4252B2056E2C4B020BA0C81
+SHA256: E92B23D9EAC56EFF119522856C9E937A6337358A4735643623294D5D45DB44C4
 Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.gilshahar7.exacttime.html
 Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
 
@@ -759,6 +809,24 @@ Size: 406004
 MD5sum: 49ab07a53002d39f018c5860b262bdb7
 SHA1: 0122d84edfb7f482e5c27836d2a6289f850c57cd
 SHA256: fd64754e5eec05f0bf80caed3d71afc6d5962683d3463bf3a7d64afaff069235
+Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.ichitaso.powerselector11.html
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
+Package: com.ichitaso.powerselector11
+Name: PowerSelector(iOS11 to 13)
+Version: 1.2.8
+Architecture: iphoneos-arm
+Description: The power supply relation of a device is operated
+Maintainer: ✞ E L L E V Y C
+Author: ichitaso
+Section: Utilities
+Depends: com.opa334.ccsupport, firmware (>=11.0), mobilesubstrate, preferenceloader
+Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Filename: ./debs/com.ichitaso.powerselector11_1.2.8_iphoneos-arm.deb
+Size: 366020
+MD5sum: 5CC22E904883F785FFECC582989B569D
+SHA1: 0A73C547971B766027187E92E8BB3D1154FBF1F1
+SHA256: 1F4DD84C1312C9BFDC43BAD63D90E15822AE88B6D0B1207D826069DC745EEDD2
 Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.ichitaso.powerselector11.html
 Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
 
@@ -1108,6 +1176,23 @@ SHA256: 1d85d8eb61ae4144d6606bc5d5bf550f67c31004d583de9b1458109c147e0f09
 Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.midnightchips.cleantab.html
 Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
 
+Package: com.miro.shortmoji
+Name: Shortmoji
+Version: 1.0.4
+Architecture: iphoneos-arm
+Description: Quick Emoji Acess Bar and shortcuts by MiRO92 !
+Maintainer: ✞ E L L E V Y C
+Author: MiRO92
+Section: Tweaks
+Depends: firmware (>=12.0), mobilesubstrate, preferenceloader
+Conflicts: com.cpdigitaldarkroom.barmoji, com.ps.anywherepredict
+Filename: ./debs/com.miro.shortmoji_1.0.4_iphoneos-arm.deb
+Size: 385056
+MD5sum: 578E7DFDD8E1127709B9F1502306E6D2
+SHA1: CEF0FC841CFF74B36EED69DB1572D4CEC41AB0A0
+SHA256: E448CCB74CABD9F870DC2B4423F9FD1E255959DF5BC4129964E051BF84272D70
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
 Package: com.mom.11
 Name: Color System
 Version: 1.1
@@ -1329,6 +1414,22 @@ MD5sum: DFC8E8B216769C338B783E875041261B
 SHA1: 318625D546461765171AD2631A6E8FF1F4E6F5C5
 SHA256: 59B20321756FB886B13EEBCE10A480ECDDE5152691DF2CB5A039477EA22EA33F
 Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.rpgfarm.a-font.html
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
+Package: com.rxtrocodes.dockbegone13
+Name: DockBeGone13
+Version: 1.1
+Architecture: iphoneos-arm
+Description: A tweak that lets you totally remove the dock !
+Maintainer: ✞ E L L E V Y C
+Author: Rxtro Codes
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: ./debs/com.rxtrocodes.dockbegone13_1.1_iphoneos-arm.deb
+Size: 93280
+MD5sum: 22EB7CA4A59A2C274936788EDFAEDCA2
+SHA1: A6F20C14AEE05391A81999F1A8ACD9D0E9CA4535
+SHA256: C7E5ECB199E3CF25A86676143F5EAF305B7332E69A1C63B00DD260FC19F16AA1
 Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
 
 Package: com.shepgoba.colorscroll
@@ -1751,6 +1852,22 @@ SHA256: 158214ADB005FEA58A66BB462A63C31B672E3B0712E620B56CB6C670B9C433D6
 Depiction: https://elprofesor1160.github.io/killem/depictions/web/jp.r-plus.menusupport.html
 Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
 
+Package: me.conorthedev.counter
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: ✞ E L L E V Y C
+Filename: ./debs/me.conorthedev.counter_1.0.2_iphoneos-arm.deb
+Size: 26094
+MD5sum: 4C5A20B74199137EE5CE4C8EBE156D30
+SHA1: 5F383EDA00B1D15367AA7D5485C472FB548CC892
+SHA256: EFA01245D6861EA51290245E72D2675F4AFAADFBC5585720C0FDF37048ACBA1F
+Section: Tweaks
+Description: How many times have you unlocked your phone ?!
+Author: ConorTheDev <support@conorthedev.me>
+Name: counter
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+Tags: compatible_min::ios11.0, compatible_max::ios13.5
+
 Package: me.kritanta.homeplus
 Name: HomePlus~Beta
 Version: 0.4.9~beta
@@ -2106,6 +2223,22 @@ SHA256: 8E0A53C34FE5C134FDA6737A1DC35D1FE74D18E523AEF8F9D8C1B42BE40FDED6
 Depiction: https://elprofesor1160.github.io/killem/depictions/web/preferenceloader.html
 Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
 
+Package: pro.ikghd.pmp
+Name: PMP
+Version: 1.0~1
+Architecture: iphoneos-arm
+Description: PMP Protect My Photos !
+Maintainer: ✞ E L L E V Y C
+Author: IKG_HD
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, firmware (>=12.0)
+Filename: ./debs/pro.ikghd.pmp_1.0-1_iphoneos-arm.deb
+Size: 36374
+MD5sum: 1CD122707E0746EA28EF1B4772EDAA91
+SHA1: 61994CA852FAACD3815A0589ED87F7E8BDD269AA
+SHA256: B2FBBA64F4AAD7DB58E4720AE43CE8F17A8B671BC3DB8154AC8D666FDE99BE60
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
 Package: ru.rejail.carbon
 Name: Carbon Dark Mode
 Version: 1.5
@@ -2247,6 +2380,25 @@ SHA256: EE5D8D701FF7D3147E42D61F7E23288691B79B812DE3168E690C09AC68091E82
 Depiction: https://elprofesor1160.github.io/killem/depictions/web/ws.hbang.common.html
 Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
 
+Package: ws.hbang.newterm2
+Name: NewTerm (iOS 10-13)
+Version: 2.4
+Architecture: iphoneos-arm
+Description: A powerful terminal app for iOS !
+Maintainer: ✞ E L L E V Y C
+Author: HASHBANG Productions
+Section: Terminal Support
+Installed-Size: 6792
+Replaces: ws.hbang.newterm, com.lint.ntarrows
+Depends: firmware (>=10.0), firmware (>=12.0) | org.swift.libswift, ws.hbang.common (>=1.13), bash, coreutils, ncurses, system-cmds, com.linusyang.localeutf8
+Conflicts: ws.hbang.newterm, com.lint.ntarrows
+Filename: ./debs/ws.hbang.newterm2_2.4_iphoneos-arm.deb
+Size: 3201768
+MD5sum: 990F60DDB68BE07FC616B1B32D0AAE9C
+SHA1: 5A3EEA638AED2F211D7B7928B2F3BE805AF32760
+SHA256: 539BDA3CD64232FD95D5064977084E14472EFEC0A00EA0E6640DA1E971FADD72
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
 Package: xyz.royalapps.cleanhomescreen
 Name: CleanHomeScreen
 Version: 1.0.4
@@ -2262,6 +2414,22 @@ MD5sum: BAB1BE9C128A0C698DFA5DA8ADFC0141
 SHA1: CA6B82EA99C6822531B89562146E07D5B484AE87
 SHA256: DA724CE6B83164C74B2E73FC30E168EF58DCDF9EC341B3C884F1A8BADFDEFD83
 Depiction: https://elprofesor1160.github.io/killem/depictions/web/xyz.royalapps.cleanhomescreen.html
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
+Package: xyz.xninja.systeminfo
+Name: System Info
+Version: 2.7.2~1
+Architecture: iphoneos-arm
+Description: System information in Settings app > General > About, and others sections. Set boot-nonce, save SHSH, battery info etc.... !
+Maintainer: ✞ E L L E V Y C
+Author: ARX8x
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: ./debs/xyz.xninja.systeminfo_2.7.2-1_iphoneos-arm.deb
+Size: 428002
+MD5sum: CB59DFF194A1DD2AD8EB4FC960E19E50
+SHA1: 81620726DDC71443D26108DF6521CA1EEA6F089B
+SHA256: 7F6CB4B260490837FCA6ECF4017686B2716A42AAE585A62C3C48C6CECD288738
 Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
 
 Package: me.conorthedev.peep
