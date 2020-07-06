@@ -1330,6 +1330,40 @@ SHA256: 03a2cc8ac61d4596e50fc5a161fed1b302c14a0b2a0fc8c556344a821623503c
 Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.pixelomer.tweakreviews-db.html
 Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
 
+Package: com.qiop1379.romankeypad
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: qwertyuiop1379
+Installed-Size: 376
+Depends: mobilesubstrate
+Filename: ./debs/com.qiop1379.romankeypad_1.1.2_iphoneos-arm.deb
+Size: 160206
+MD5sum: 1df36ad2892b1956cc9aa5df1671a072
+SHA1: 2afb63563bdc098d44bb99c9bafe5fd962ca7488
+SHA256: cb978da852f5e48fb0c7ba6386e3051e9df06400b80728861f85398760365317
+Section: Tweaks
+Description: Change the buttons in the phone app to Roman numerals
+Author: qwertyuiop1379
+Name: RomanKeypad
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
+Package: com.qiop1379.separatorbegone
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: qwertyuiop1379
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/com.qiop1379.separatorbegone_1.2.1_iphoneos-arm.deb
+Size: 3098
+MD5sum: 106798a6b09addd697bd2b5742068c25
+SHA1: 3844c66c11eb50b1e436b7e4206285163715130f
+SHA256: c9da927edc5991638bfbabb5e89bf9e546978309ec7b57b7f113c104f5a54d87
+Section: Tweaks
+Description: Remove the separator on UITableViews and UIStackViews
+Author: qwertyuiop1379
+Name: SeparatorBegone!
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
 Package: com.r0wdrunner.cleantabs
 Name: CleanTabs
 Version: 1.1
