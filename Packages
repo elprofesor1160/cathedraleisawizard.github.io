@@ -1925,6 +1925,24 @@ SHA256: 158214ADB005FEA58A66BB462A63C31B672E3B0712E620B56CB6C670B9C433D6
 Depiction: https://elprofesor1160.github.io/killem/depictions/web/jp.r-plus.menusupport.html
 Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
 
+Package: love.litten.dress
+Version: 1.6
+Architecture: iphoneos-arm
+Maintainer: ✞ E L L E V Y C
+Installed-Size: 1528
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 12.0)
+Filename: ./debs/love.litten.dress_1.6_iphoneos-arm.deb
+Size: 461192
+MD5sum: 812A250CEDE67EA390DBC4E87FFD10C0
+SHA1: 17E196470F4C1D151CB990B6DA5C14898BDF5283
+SHA256: ED4387D8503A96D398D975B7678BCA977B4DACCA7400CA47C0691EEEF1BE7750
+Section: Tweaks
+Description: Dress Up Your Lockscreen
+Author: Litten <hiya@litten.love>
+Depiction: https://repo.litten.love/depictions/drs/index.html
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+Name: Dress 👗
+
 Package: me.conorthedev.counter
 Version: 1.0.2
 Architecture: iphoneos-arm
@@ -2380,6 +2398,24 @@ SHA1: 0C52F089457D51F9813A3509745906C8F9C0318F
 SHA256: 8BA42CDF20F4814778FC550E49C3CF7588A49B425AC29672D34AF7BFFF51174D
 Depiction: https://elprofesor1160.github.io/killem/depictions/web/sed.html
 Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
+Package: sh.litten.melody
+Version: 1.2.4
+Architecture: iphoneos-arm
+Maintainer: ✞ E L L E V Y C
+Installed-Size: 732
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11), ws.hbang.common (>= 1.14), com.spark.libsparkcolourpicker
+Filename: ./debs/sh.litten.melody_1.2.4_iphoneos-arm.deb
+Size: 750414
+MD5sum: 06055C5F620224E676637D28D48DE0A7
+SHA1: 01AEE6F6313C0FACB77126DCD5B4354EFD71F0CD
+SHA256: 1BC1CC258631CC7E83132D101175B95437C2066AAA6EBB570D462BBA09CA94FB
+Section: Tweaks
+Description: Can You Hear Those Colorful Melodies?
+Author: Litten <hiya@litten.love>
+Depiction: https://repo.litten.love/depictions/mdy/index.html
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+Name: Melody 🎶
 
 Package: tk.ethanrdoesmc.translucencyparallax
 Name: Translucency Parallax
@@ -5111,22 +5147,6 @@ Description: Manage Cydia packages via swipe.
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Author: PoomSmart
 Name: SwipeForMore
-
-Package: com.gfp.switchus
-Version: 1.5.1
-Architecture: iphoneos-arm
-Maintainer: SynnyG <synnyg.devjb@gmail.com>
-Depends: mobilesubstrate, firmware (>= 11.0), applist, ws.hbang.common (>= 1.11), preferenceloader
-Filename: ./debs/banana/com.gfp.switchus_1.5.1_iphoneos-arm.deb
-Size: 314656
-MD5sum: e8879b84042413d129b0e55dae8fab78
-SHA1: 08e5ffb90b3510d0f059c4b2b47a4a3b054944f0
-SHA256: 552f79887dee5d6e4f27df45b79baec3860dbabe561c6855ef47254d72b7c4f4
-Section: Tweaks
-Description: Customize the App Switcher like never before !
-Author: SynnyG <synnyg.devjb@gmail.com>
-Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Name: Switchus
 
 Package: com.gfp.tempspawn
 Version: 1.0.7-1
