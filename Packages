@@ -1269,12 +1269,51 @@ Maintainer: ✞ E L L E V Y C
 Author: opa334
 Section: Tweaks
 Depends: mobilesubstrate, firmware(>=11.0)
+Conflicts: com.ioscreatix.silo
+Replaces: com.ioscreatix.silo
+Provides: com.ioscreatix.silo
 Filename: ./debs/com.opa334.ccsupport_1.2.2.deb
 Size: 35312
 MD5sum: 17ed6254911b6492bb12db7344a0eb9f
 SHA1: 39adc47176ff48dcb495804891fdaef9a453ae18
 SHA256: e41dd7d92ff44770680bec46c0badc8fd815b3b85884b85106a2a9e363e1a17a
 Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.opa334.ccsupport.html
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
+Package: com.opa334.choicy
+Version: 1.2.3
+Architecture: iphoneos-arm
+Maintainer: ✞ E L L E V Y C
+Installed-Size: 776
+Depends: mobilesubstrate, applist
+Filename: ./debs/com.opa334.choicy_1.2.3_iphoneos-arm.deb
+Size: 92474
+MD5sum: 0a89f1e8284fabbc9a1569481e6ea480
+SHA1: ddef21b823f306e303bb95bd6ddf3a06ee3504f2
+SHA256: 412f305b7f1374dd49d0b1b802862d597b335dd68ed077fd0e2d1882c594e59d
+Section: Tweaks
+Description: Advanced Tweak Configuration!
+Author: opa334 <opa334@protonmail.com>
+Depiction: https://opa334.github.io/depic/Choicy/index.html
+Name: Choicy
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
+Package: com.opa334.choicyloader
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: ✞ E L L E V Y C
+Installed-Size: 228
+Depends: com.opa334.choicy
+Filename: ./debs/com.opa334.choicyloader_1.2.1_iphoneos-arm.deb
+Size: 20604
+MD5sum: 3f427b1df1241b164fb2d742c42babf2
+SHA1: 0846a9c56934ff77ca4e036d0e07936a5cace9f2
+SHA256: 81399615afbe98f00a4f4b15079c75d236f3a8f445ef3925d49e3761c4d70dee
+Section: System
+Description: Hacky workaround to always load Choicy first
+Author: opa334
+Depiction: https://opa334.github.io/depic/ChoicyLoader/index.html
+Name: ChoicyLoader
 Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
 
 Package: com.opa334.safariplus
