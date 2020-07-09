@@ -5504,6 +5504,22 @@ Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.3d
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: 3DTools
 
+Package: github.io.gfp.altdaemon
+Version: 0.2
+Architecture: iphoneos-arm
+Maintainer: Riley Testut
+Filename: ./debs/banana/github.io.gfp.altdaemon_0.2_iphoneos-arm.deb
+Size: 873494
+MD5sum: 835314128391758e7ddebbf22f3eee67
+SHA1: c20ea3cb5dd9886628f0cbc2fd66af3b0210254e
+SHA256: 568d9d9f35c613f727f86844579850a4873a7d2bd07fba2e04f93c094aecff32
+Section: System
+Description: An awesome XPC service!
+Author: Riley Testut
+Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.altdaemon/
+Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
+Name: AltDaemon
+
 Package: github.io.gfp.AltStoreBeta
 Version: 1.4b3
 Architecture: iphoneos-arm
