@@ -1976,6 +1976,74 @@ SHA256: 420ce9f52e148a17ce65b7fa36f211b50cc0c33543698f65075ba7bba2b14ce6
 Depiction: https://elprofesor1160.github.io/killem/depictions/web/me.kritanta.homeplus.html
 Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
 
+Package: me.lightmann.aeaea
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: ✞ E L L E V Y C
+Depends: firmware (>=12.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/me.lightmann.aeaea_1.0.0-1_iphoneos-arm.deb
+Size: 335572
+MD5sum: 926F5069ECDB84DFDA7CDB010946C1BA
+SHA1: EDF6CFC5EBA34E7334CFAB365E9BD756FB518815
+SHA256: 702FD3F24C2C658FE0CC08796FA29CC260CF529768E632E4E3E0291CF78C13C8
+Description: Cleans up notifications and widgets
+Name: Aeaea
+Author: Lightmann <lightmanns11@gmail.com>
+Depiction: https://usrlightmann.github.io/depictions/?p=me.lightmann.aeaea
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
+Package: me.lightmann.vinyl
+Version: 1.0.7-1
+Section: Tweaks
+Maintainer: ✞ E L L E V Y C
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/me.lightmann.vinyl_1.0.7-1_iphoneos-arm.deb
+Size: 320094 
+MD5sum: FF511244281F79AC4FB9A787F8C2F8F0
+SHA1: D79673046D0E9FEE4960F6A77FEE1CD161F00902
+SHA256: 0B1E75CC4BDE6BDB7F4C04A63FE4646C56EFF66FF90156910BAE59D20A86425F
+Description: A simple look for the lockscreen music player
+Name: Vinyl
+Author: Lightmann <lightmanns11@gmail.com>
+Depiction: https://usrlightmann.github.io/depictions/?p=me.lightmann.vinyl
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
+Package: me.lightmann.msgswap
+Version: 2.0.0.1-1
+Section: Tweaks
+Maintainer: ✞ E L L E V Y C
+Depends: firmware (>=11.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/me.lightmann.msgswap_2.0.0.1-1_iphoneos-arm.deb
+Size: 12926 
+MD5sum: D93846702483ACE200ECDE1E8D7D4243
+SHA1: 6F5C02B54B9EAAD24234FD7620F35767AF1231FD
+SHA256: 7F802FB8C1E9B3AE0E1082A20B6E4A733622379455E35818E806DC32B2F2A61F
+Description: A more accessible way to send photos in iMessage
+Name: MsgSwap
+Author: Lightmann <lightmanns11@gmail.com>
+Depiction: https://usrlightmann.github.io/depictions/?p=me.lightmann.msgswap
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
+Package: me.lightmann.stripecount
+Version: 1.0.2-1
+Section: Tweaks
+Maintainer: ✞ E L L E V Y C
+Depends: firmware (>=13.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/me.lightmann.stripecount_1.0.2-1_iphoneos-arm.deb
+Size: 5080 
+MD5sum: A88BE23AD92D4EE348E28F26D9D979DD
+SHA1: 6A705ADFA4F5A4C9052F888A68B4610BF2A3AB05
+SHA256: 41FA34A7F9661824D179B133C8DCA59EB613A5421BDD3D443AD53F86DC536BB2
+Description: For Zebra - See the number of installed packages at a glance
+Name: StripeCount
+Author: Lightmann <lightmanns11@gmail.com>
+Depiction: https://usrlightmann.github.io/depictions/?p=me.lightmann.stripecount
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
 Package: me.nepeta.begonecia-11
 Name: BegoneCIA (iOS11, 12, 13)
 Version: 0.3.2
