@@ -235,6 +235,25 @@ SHA256: 2AAF38DEF923501ED93D15ED5071734FF92680D715CBE5F999A84A0BE9A5FE8B
 Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.atwiiks.betterccxi.html
 Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
 
+Package: com.bid3v.pinnie
+Version: 0.2.0
+Architecture: iphoneos-arm
+Maintainer: biD3V
+Installed-Size: 644
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.ahmad.pinheads, com.twickd.nicho1asdev.caim
+Filename: debs/com.bid3v.pinnie_0.2.0_iphoneos-arm.deb
+Size: 238840
+MD5sum: a26794cac41796ca11449efb8a395fd2
+SHA1: e51ff589b5f46351b9573d8fa13b544c4bd145a6
+SHA256: 2b1912b859358e869c7ab867cf1274bef22362b9b117c215ee445c6b94d89fdb
+Section: Tweaks
+Description: Pin messages like iOS 14!
+Author: biD3V
+Depiction: https://biD3V.github.io/repo/depictions/pinnie.html
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+Name: Pinnie
+
 Package: com.bluedit
 Name: Bluedit
 Version: 1.1
