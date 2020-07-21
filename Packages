@@ -178,6 +178,26 @@ SHA256: 6af367dfd5ee1dd99535d1079e582e3830a45107900d4215304fab021c5e0582
 Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.aesthyrica.nord.html
 Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
 
+Package: com.artikus.preferenceloader
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: ArtikusHG
+Installed-Size: 260
+Depends: mobilesubstrate
+Conflicts: preferenceloader
+Replaces: preferenceloader
+Provides: preferenceloader (= 2.2.4)
+Filename: ./debs/com.artikus.preferenceloader_1.0.1_iphoneos-arm.deb
+Size: 33544
+MD5sum: bad30b595b011e34e6974640422afa5e
+SHA1: 2fccaba356b6717fd5251dc827253d343eac951f
+SHA256: 84b313769f1a4472465be39c22d2bac49daa4a98873ca57b66c51af86defc62f
+Section: Tweaks
+Description: A lightweight and modern alternative to Dustin Howett's PreferenceLoader.
+Author: ArtikusHG
+Name: PreferenceLoader
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
 Package: com.atwiiks.betterccxi
 Name: BetterCCXI
 Version: 1.6.0
