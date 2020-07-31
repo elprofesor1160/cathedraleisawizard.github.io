@@ -1,3 +1,20 @@
+Package: ru.nonamedude.iTorrent
+Version: 1.8.1
+Architecture: iphoneos-arm
+Maintainer: XITRIX (Vinogradov Daniil)
+Filename: ./debs/ru.nonamedude.iTorrent_1.8.1_iphoneos-arm.deb
+Size: 14563816
+MD5sum: 2606fa2ffcecc4eb0c9445d0d3541fa6
+SHA1: 222bb88f0a11af93749267f120248e1049c180fd
+SHA256: ee47f770a599483a60764bf0a3fd9af5c78c6a97a4be37a20f618a20e8673607
+Section: Utilities
+Description: iTorrent - an iOS torrent client
+Author: XITRIX (Vinogradov Daniil)
+Depiction: https://xitrix.github.io/depictions/?p=ru.nonamedude.iTorrent
+Dev: XITRIX (Vinogradov Daniil)
+Name: iTorrent
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
 Package: com.samgisaninja.chlorophyll
 Version: 1.0
 Architecture: iphoneos-arm
