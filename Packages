@@ -2037,6 +2037,22 @@ Depiction: https://repo.litten.love/depictions/drs/index.html
 Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
 Name: Dress 👗
 
+Package: me.aleksilassila.redditundoscrollup
+Name: RedditUndoScrollUp
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Second status bar tap scrolls you back where you were
+Maintainer: Aleksi Lassila
+Author: Aleksi Lassila
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/me.aleksilassila.redditundoscrollup_0.0.1_iphoneos-arm.deb
+Size: 4214
+MD5sum: 9296B2D5A21DB58530C10660ED8C8899
+SHA1: 15394EC94F106A278538FC52060C22554FFE00C4
+SHA256: 1B3CE16F1C06EA182563213BF426764F56D161E7EC4015EEA9F41E2D15D931B4
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
 Package: me.conorthedev.counter
 Version: 1.0.2
 Architecture: iphoneos-arm
