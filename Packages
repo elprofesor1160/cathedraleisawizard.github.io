@@ -2139,6 +2139,24 @@ Author: Lightmann <lightmanns11@gmail.com>
 Depiction: https://usrlightmann.github.io/depictions/?p=me.lightmann.msgswap
 Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
 
+Package: me.lightmann.quorra
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Lightmann
+Depends: mobilesubstrate, firmware (>= 13.0)
+Architecture: iphoneos-arm
+Filename: ./debs/me.lightmann.quorra_1.0.2_iphoneos-arm.deb
+Size: 15078
+Installed-Size: 168
+MD5sum: 7a9d152f5b6403391e6204c2c47a0e36
+SHA1: 2270b59c720f41ff86cce28fdd1621f4caca0018
+SHA256: 08cefc46bc9ad91f8b08cc06cc8021b66c93b21b8d73fa9f2d583d42b57cda70
+Description: Purpose: to help the User
+Name: Quorra
+Author: Lightmann
+Depiction: https://usrlightmann.github.io/depictions/?p=me.lightmann.quorra
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
 Package: me.lightmann.stripecount
 Version: 1.0.2-1
 Section: Tweaks
