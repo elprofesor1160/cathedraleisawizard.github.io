@@ -49,6 +49,24 @@ Filename: debs//com.pxcex.jooxpremium_4.0.7_iphoneos-arm.deb
 Depiction: https://paxcex.github.io/depictions/com.pxcex.jooxpremium/index.html
 Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
 
+Package: com.pxcex.picsarthack
+Name: EyeSeeYou Gold✞
+Depends: mobilesubstrate
+Version: 0.0.2
+Architecture: iphoneos-arm
+Description: PicsArt Gold.
+Maintainer: ✞ E L L E V Y C
+Author: ✞ E L L E V Y C
+Section: Tweaks
+Tag: purpose::extension, compatible_max::ios14
+Size: 59222
+Filename: ./debs//com.pxcex.picsarthack_0.0.2_iphoneos-arm.deb
+MD5sum: bc390e0e8068025760e6fd5a6455e1c2
+SHA1: 8dafdce902b18b1ea8d749dbe496a3e1357a9c27
+SHA256: 332ed4a682bc7596786bc23b6ff3c32c858f28d8828e9754cfef699a02130fa5
+Depiction: https://paxcex.github.io/depictions/com.pxcex.picsarthack/index.html
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
 Package: com.samgisaninja.chlorophyll
 Version: 1.1
 Architecture: iphoneos-arm
@@ -13009,25 +13027,6 @@ Author: cemck
 Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.photon/
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: Photon
-
-Package: github.io.gfp.picsarthack
-Version: 0.0.2
-Architecture: iphoneos-arm
-Maintainer: pxcex
-Installed-Size: 288
-Depends: mobilesubstrate
-Filename: ./debs/banana/github.io.gfp.picsarthack_0.0.2_iphoneos-arm.deb
-Size: 82082
-MD5sum: ad1253fd5f1a697ee0541e3b66dfd8b3
-SHA1: 92e497269e81ebaf3ebbb5591050bff3ea347447
-SHA256: c9dc41499d6af3ee6c8dbe40050e87fd795f996a18c944ebf7065a416f99e927
-Section: Tweaks
-Description: PicsArt Gold.
-Tag: purpose::extension, compatible_max::ios12.2
-Author: pxcex
-Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.picsarthack
-Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
-Name: PicsArt Hack
 
 Package: github.io.gfp.piecrust
 Version: 1.0.6-1
