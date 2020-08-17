@@ -5904,6 +5904,23 @@ Depiction: https://guofenpai.github.io/repo/description.html?id=github.io.gfp.De
 Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
 Name: DeviceInfo
 
+Package: github.io.gfp.devy-scent-status-bar
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Devy_Design <idrainmax@gmail.com>
+Filename: ./debs/banana/github.io.gfp.devy-scent-status-bar_1.0_iphoneos-arm.deb
+Size: 1673676
+MD5sum: f4304632cfa92edacd0c3d3a45704028
+SHA1: cbb9e4acf4cf6cd2cc6f43b11c68ba8c638ad974
+SHA256: 488cc52b3ae74b7b98f79c2fd5809d363a440d049af6901b358530fe0a2755b6
+Section: Themes
+Description: Pure Satisfaction with Bold Style.
+Tag: compatible_min::ios5.1, compatible_max::ios13.6.1
+Author: Devy_Design <idrainmax@gmail.com>
+Depiction: https://banana-gfp.github.io/repo/depictions/github.io.gfp.devy-scent-status-bar/
+Icon: https://elprofesor1160.github.io/killem/assets/banana.repo/icon.png
+Name: Devy Scent Status Bar
+
 Package: github.io.gfp.Divise
 Version: 1.0.3.1
 Architecture: iphoneos-arm
