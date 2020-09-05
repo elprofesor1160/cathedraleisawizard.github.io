@@ -600,21 +600,6 @@ SHA1: 755abab6e45b47294f5181b790e36b8a37a87bbf
 SHA256: 5e0cfa0ae83c1517fbcccf0a150a6d794ffdc2696e9e6e6d4659cd96185aa9f3
 Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
 
-Package: com.spotify.client
-Version: 8.5.51
-Architecture: iphoneos-arm
-Maintainer: Dylan Elmbark
-Depends:
-Filename: /debs/Spotify.deb
-Size: 52858772
-MD5sum: ae7db3c63defcd502ca5af7d10b6c6e9
-SHA1: ff90ad770ce58bfc16827af3784707cdabc1a308
-SHA256: b466640e379d36b035e8190567dc2f1085c86665e463823bd59dca349aa93d84
-Section: Utilities
-Description: Delete the original Spotify before installing this, Supports iOS/iPadOS 8-14
-Author: Dylan Elmbark & julioverne
-Name: Spotify++ (App)
-
 Package: ru.nonamedude.iTorrent
 Version: 1.8.1
 Architecture: iphoneos-arm
@@ -2100,6 +2085,23 @@ SHA256: 03a2cc8ac61d4596e50fc5a161fed1b302c14a0b2a0fc8c556344a821623503c
 Depiction: https://elprofesor1160.github.io/killem/depictions/web/com.pixelomer.tweakreviews-db.html
 Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
 
+Package: com.qiop1379.anactuallygoodfilzaeditor
+Version: 0.1.0~beta1
+Architecture: iphoneos-arm
+Maintainer: qwertyuiop1379
+Installed-Size: 620
+Depends: mobilesubstrate
+Filename: debs/com.qiop1379.anactuallygoodfilzaeditor_0.1.0~beta1_iphoneos-arm.deb
+Size: 98516
+MD5sum: 4687e5e88142e015e0d5a659a967bd86
+SHA1: dfe4e525a575dc4200b4b8b36aeff859acb6972a
+SHA256: cfef6e5e3174629c0293138987ce1fd71b5d82e39e118b61ab224a1e314af649
+Section: Tweaks
+Description: Transform the Filza text editor. Adds themes and syntax highlighting.
+Author: qwertyuiop1379
+Name: AnActuallyGoodFilzaEditor
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
 Package: com.qiop1379.romankeypad
 Version: 1.1.2
 Architecture: iphoneos-arm
@@ -2132,6 +2134,22 @@ Section: Tweaks
 Description: Remove the separator on UITableViews and UIStackViews
 Author: qwertyuiop1379
 Name: SeparatorBegone!
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
+Package: com.qiop1379.shreddit
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: qwertyuiop1379
+Depends: com.pixelomer.localizationinjector
+Filename: debs/com.qiop1379.shreddit_1.0.1_iphoneos-arm.deb
+Size: 952
+MD5sum: 11617012d8d761b6ed23356bf942be85
+SHA1: 2ccb81671716f9b4504799af3063be3666b09a90
+SHA256: 8bcc51d7c9cbc2eb21b68665032833394165d79fbe72c93a24b1e75661f8da5a
+Section: Tweaks
+Description: Change most of the reddit functions to end in -eddit. Doesn't really do much.
+Author: qwertyuiop1379
+Name: Shreddit
 Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
 
 Package: com.r0wdrunner.cleantabs
