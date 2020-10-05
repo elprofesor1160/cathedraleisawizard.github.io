@@ -2797,6 +2797,24 @@ Author: Lightmann <lightmanns11@gmail.com>
 Depiction: https://usrlightmann.github.io/depictions/?p=me.lightmann.vinyl
 Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
 
+Package: me.lightmann.vinyl
+Version: 1.0.7.3
+Section: Tweaks
+Maintainer: Lightmann
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/me.lightmann.vinyl_1.0.7.3_iphoneos-arm.deb
+Size: 320692
+Installed-Size: 664
+MD5sum: cfa98f118e535e4749437d52ae27946b
+SHA1: deb47ae15902f9226665ab89b2d8aa8a226563dd
+SHA256: 617abce7713afb01ab514f180a3dc55c879f17572332e783e0cd31bf0252524a
+Description: A simplified look for the lockscreen music player!
+Name: Vinyl
+Author: Lightmann
+Depiction: https://usrlightmann.github.io/depictions/?p=me.lightmann.vinyl
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
 Package: me.lightmann.msgswap
 Version: 2.0.0.1-1
 Section: Tweaks
