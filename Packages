@@ -2868,6 +2868,24 @@ Author: Lightmann
 Depiction: https://usrlightmann.github.io/depictions/?p=me.lightmann.quorra
 Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
 
+Package: me.lightmann.quorra
+Version: 1.0.5
+Section: Tweaks
+Maintainer: Lightmann
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
+Architecture: iphoneos-arm
+Filename: ./debs/me.lightmann.quorra_1.0.5_iphoneos-arm.deb
+Size: 31546
+Installed-Size: 224
+MD5sum: e1a895cd29b32884a229ebac083eee60
+SHA1: 2e1a9a10fc3e8f62ebfd534795355d9b9f7c2bb6
+SHA256: 69e1bdded5a7ba6178891d5bf926c2b0a9f2294b56e1b1ca7047d5118c53cf32
+Description: iOS 14's indicator dots for iOS 13
+Name: Quorra
+Author: Lightmann
+Depiction: https://usrlightmann.github.io/depictions/?p=me.lightmann.quorra
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
 Package: me.lightmann.stripecount
 Version: 1.0.2-1
 Section: Tweaks
@@ -2882,6 +2900,24 @@ SHA256: 41FA34A7F9661824D179B133C8DCA59EB613A5421BDD3D443AD53F86DC536BB2
 Description: For Zebra - See the number of installed packages at a glance
 Name: StripeCount
 Author: Lightmann <lightmanns11@gmail.com>
+Depiction: https://usrlightmann.github.io/depictions/?p=me.lightmann.stripecount
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
+Package: me.lightmann.stripecount
+Version: 1.0.3.1
+Section: Tweaks
+Maintainer: Lightmann
+Depends: mobilesubstrate, firmware (>= 13.0)
+Architecture: iphoneos-arm
+Filename: ./debs/me.lightmann.stripecount_1.0.3.1_iphoneos-arm.deb
+Size: 25286
+Installed-Size: 172
+MD5sum: ebe380c9e5c7d3c0d4170875dafc9e4b
+SHA1: 1f14b5a1bd46670f39cdc9fd0ab977faa2e58220
+SHA256: a5241b481626618f01c086d40f6c6434505e6517f7a1a3a8a15987752d145b4c
+Description: For Zebra - See the number of installed packages at a glance.
+Name: StripeCount
+Author: Lightmann
 Depiction: https://usrlightmann.github.io/depictions/?p=me.lightmann.stripecount
 Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
 
