@@ -2922,6 +2922,24 @@ Author: Lightmann
 Depiction: https://usrlightmann.github.io/depictions/?p=me.lightmann.quorra
 Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
 
+Package: me.lightmann.quorra
+Version: 1.0.6.1
+Section: Tweaks
+Maintainer: Lightmann
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
+Architecture: iphoneos-arm
+Filename: ./debs/me.lightmann.quorra_1.0.6.1_iphoneos-arm.deb
+Size: 31914
+Installed-Size: 228
+MD5sum: 155a7bb1f4a8e05814161ebf0b893bec
+SHA1: 02b3350083444af9d234861a098f479f17512046
+SHA256: 6cf47d358b5d65f3e9a6bb2e80bd7a936329f8f0d65b36551c6952c4f48ad1de
+Description: iOS 14's indicator dots for iOS 13
+Name: Quorra
+Author: Lightmann
+Depiction: https://usrlightmann.github.io/depictions/?p=me.lightmann.quorra
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
 Package: me.lightmann.stripecount
 Version: 1.0.2-1
 Section: Tweaks
