@@ -2940,6 +2940,24 @@ Author: Lightmann
 Depiction: https://usrlightmann.github.io/depictions/?p=me.lightmann.quorra
 Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
 
+Package: me.lightmann.quorra
+Version: 1.0.6.1.1
+Section: Tweaks
+Maintainer: Lightmann
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
+Architecture: iphoneos-arm
+Filename: ./debs/me.lightmann.quorra_1.0.6.1.1_iphoneos-arm.deb
+Size: 30784
+Installed-Size: 228
+MD5sum: a8f0337da790a264d70ec5e7385d3bfd
+SHA1: 6b8e3c3ae72637c419982894d247ab51b7d57c07
+SHA256: b4fad286935bae3340178b0fdbc00c4799bbc9c73a3abbf7a14adec76a940c38
+Description: iOS 14's indicator dots for iOS 13
+Name: Quorra
+Author: Lightmann
+Depiction: https://usrlightmann.github.io/depictions/?p=me.lightmann.quorra
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
 Package: me.lightmann.stripecount
 Version: 1.0.2-1
 Section: Tweaks
@@ -2969,6 +2987,24 @@ Installed-Size: 172
 MD5sum: 1e75981f4f57105f1620072e613fbe6f
 SHA1: 8133dbcf1c4c55ee32428ffefe3251b8538bc4f7
 SHA256: 7d993629801bfcedd63a5f0014f7a8a29bbcb4f8eec69acf29115345543ef669
+Description: For Zebra - See the number of installed packages at a glance.
+Name: StripeCount
+Author: Lightmann
+Depiction: https://usrlightmann.github.io/depictions/?p=me.lightmann.stripecount
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+
+Package: me.lightmann.stripecount
+Version: 1.0.3.2
+Section: Tweaks
+Maintainer: Lightmann
+Depends: mobilesubstrate, firmware (>= 13.0)
+Architecture: iphoneos-arm
+Filename: ./debs/me.lightmann.stripecount_1.0.3.2_iphoneos-arm.deb
+Size: 6584
+Installed-Size: 16
+MD5sum: 192db3328881bbcc2bb16cba05adb0d8
+SHA1: 5526dfa8f3f0089af4a6f0cd5e58e8b8922e9ce7
+SHA256: c50f13fca107be1d823f8964f1b305ccc10c72aa858c3a0ca8c01944b0ab3565
 Description: For Zebra - See the number of installed packages at a glance.
 Name: StripeCount
 Author: Lightmann
