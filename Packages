@@ -2897,7 +2897,7 @@ Size: 29672
 Installed-Size: 228
 MD5sum: 24e1a94c974ded249496f40e940d0496
 SHA1: 3b0e6aa922317ccd60986d0c98b0d1718f259754
-SHA256: 0e35c6d017ceabff6326be599a998ef1dd6335165595593e479aea327ba1d7c5
+SHA256: 0e35c6d017ceabff6326be599a998ef1dd6335165595593e479aea327ba1d7c5n
 Description: iOS 14's indicator dots for iOS 12 & 13
 Name: Quorra
 Author: Lightmann
@@ -2915,6 +2915,24 @@ Size: 29590
 MD5sum: 705950ea80383d08678e2cbf87d1975b
 SHA1: 457116bb46ef43d2a029c7fc5180f900c5f19495
 SHA256: 9be940e0fbd73de1a5fc6fd56eba4e0608f9ca43eb2ca223e5c974f2bb510fa2
+Section: Tweaks
+Description: iOS 14's indicator dots for iOS 12 & 13
+Author: Lightmann
+Depiction: https://usrlightmann.github.io/depictions/?p=me.lightmann.quorra
+Icon: https://elprofesor1160.github.io/killem/assets/default.elprofesor.killem/icon.png
+Name: Quorra
+
+Package: me.lightmann.quorra
+Version: 1.0.8
+Architecture: iphoneos-arm
+Maintainer: Lightmann
+Installed-Size: 360
+Depends: mobilesubstrate, preferenceloader, firmware (>= 12.0), firmware (<< 14.0)
+Filename: ./debs/me.lightmann.quorra_1.0.8_iphoneos-arm.deb
+Size: 29742
+MD5sum: ab87a5fe2c5b9a798164c60984ae53ef
+SHA1: d0b751afe267bbdacaa60b095194cb35fe19f7d8
+SHA256: 8be82d7e2ba71a267a06dbb4e1465403d1dca0d7c81e08c4761ce1dd575b9b18
 Section: Tweaks
 Description: iOS 14's indicator dots for iOS 12 & 13
 Author: Lightmann
